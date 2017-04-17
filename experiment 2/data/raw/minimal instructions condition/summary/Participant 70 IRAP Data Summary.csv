@@ -1,0 +1,96 @@
+1,"***********************************************************************"
+1,"***********************************************************************"
+1,"***********************************************************************"
+1,""
+1,"                            IRAP 2012 Update Program"
+1,"  Conceptualised, Designed and Software Written by Dermot Barnes-Holmes"
+1,"                   Additions to the 2012 version by Ian Hussey"
+1,"                         IRAP Data Summary File"
+1,""
+1,""
+1,"***********************************************************************"
+1,"***********************************************************************"
+1,"***********************************************************************"
+1,""
+1,"IRAP Paramenter Summary"
+1,""
+1,"Participant Name or Code: ","70"
+1,""
+1,"Sample Stimuli Were Words"
+1,"Target Stimuli Were Words"
+1,"The Practice and Testing IRAP was Selected"
+1,"The Inconsistent-First Sequence was Selected"
+1,"Number of Test Blocks Selected was: ",6
+1,"Minimum Percent Correct Practice Criterion was: ",80
+1,"Maximum Median Latency Practice Criterion was: ",2000
+1,"Maximum Number of Training or Practice Exposures was: ",4
+1,"No Response Latency Feedback"
+1,"The Trial Type Parameter was Selected"
+1,"Maximum Run of Same Trial Type was","6"
+1,"Position of Response Options was Set to Moving"
+1,"Maximum Run of Response Options in Same Position was: ","3"
+1,"The consistent responding rule was: ","Respond correctly to the stimuli"
+1,"The inconsistent responding rule was: ","Respond incorrectly to the stimuli"
+1,"The Latency Feedback Message presented to participants was: ","Too Slow!"
+1,"Latency Feedback Delay was: ","2000"
+1,""
+1,"The Stimuli used were: "
+1,"Sample 1","Sample 2","Target 1","Target 2"
+1,"Colour","Shape","Red","Circle"
+1,"Colour","Shape","Blue","Square"
+1,"Colour","Shape","Green","Triangle"
+1,"Colour","Shape","Red","Circle"
+1,"Colour","Shape","Blue","Square"
+1,"Colour","Shape","Green","Triangle"
+1,"","","",""
+1,"","","",""
+1,"","","",""
+1,"","","",""
+1,"","","",""
+1,"","","",""
+1,""
+1,""
+1,""
+1,"***********************************************************************"
+1,"***********************************************************************"
+1,""
+1,""
+1,"Output Summary"
+1,""
+1,"Participant Name or Code: ","70"
+1,""
+1,"Accuracies and latencies on each block"
+1,"","Percent correct (%)","Median Latencies (ms)"
+1,"Final consistent practice block: ",100,1248
+1,"Final inconsistent practice block: ",100,1404
+1,"First consistent test block: ",96,1341
+1,"First inconsistent test block: ",92,1513
+1,"Second consistent test block: ",92,1529
+1,"Second inconsistent test block: ",92,1537
+1,"Third consistent test block: ",96,1349
+1,"Third inconsistent test block: ",100,1451
+1,""
+1,""
+1,"Dscores"
+1,"","","","Final Practice Block","First test block Dscores","Second test block Dscores","Third test block Dscores","Mean Dscores (Test Blocks Only)"
+1,"Sample1 Target1, e.g.: ","Colour","Red",1.18046937513657,-9.28471948583007E-02,.519355772071311,-.131441359843596,9.83557391231381E-02
+1,"Sample1 Target2, e.g.: ","Colour","Circle",4.52252517092347,1.2312123871239,.587731422644254,-2.98713740865521E-02,.596357478560532
+1,"Sample2 Target1, e.g.: ","Shape","Red",3.04055046616097,.667655287884897,2.95441628570229E-02,-.344093212206546,.117702079511791
+1,"Sample2 Target2, e.g.: ","Shape","Circle",4.19014142576134,-.455312218979403,-.224290539320877,.609770388448421,-2.32774566172866E-02
+1,""
+1,"Dscores for Odd trials (to calculate split-half reliability)"
+1,"","","","Final Practice Block","First test block Dscores","Second test block Dscores","Third test block Dscores","Mean Dscores (Test Blocks Only)"
+1,"Sample1 Target1, e.g.: ","Colour","Red",.365773868260118,-.581255381195037,.408623131039606,-1.11016222973767,-.427598159964365
+1,"Sample1 Target2, e.g.: ","Colour","Red",4.32609816670025,.588649816302591,-.604966947333166,1.21261608354202,.398766317503817
+1,"Sample2 Target1, e.g.: ","Shape","Red",3.63493193014677,-.69974939805785,.498446756985652,-.206924984074267,.489678011039941
+1,"Sample2 Target2, e.g.: ","Shape","Red",7.32870394199002,.87039882854911,1.1522258173973,-.55359061282658,-.136075875048822
+1,""
+1,"Dscores for Even trials (to calculate split-half reliability)"
+1,"","","","Final Practice Block","First test block Dscores","Second test block Dscores","Third test block Dscores","Mean Dscores (Test Blocks Only)"
+1,"Sample1 Target1, e.g.: ","Colour","Red",1.71740768627414,1.24858429996714,.651488728961402,1.14756209625464,1.01587837506106
+1,"Sample1 Target2, e.g.: ","Colour","Circle",4.63605877314938,1.58417948268003,1.61380861230764,-.614967680647463,.861006804780069
+1,"Sample2 Target1, e.g.: ","Shape","Red",2.7228345203564,-.106699563656795,-.499840375362725,1.54765604351174,-.237583004384304
+1,"Sample2 Target2, e.g.: ","Shape","Circle",1.87491997171642,.35377311446217,-1.25415595121766,.187633823602583,.313705368164075
+1,""
+1,"***********************************************************************"
+1,"***********************************************************************"

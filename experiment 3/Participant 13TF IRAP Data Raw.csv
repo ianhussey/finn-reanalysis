@@ -1,0 +1,24 @@
+1,"Participant 13TF","Consistant","Target 1 Raw Latency",1092,1732,1514,1826,1529,1654,1591,1216,811,999,1700,1202,1216,2558,983,1482,1155,1498,1232,1701,2496,2013,2230,1451,1014,1186,1202,1201,936,2122,998,3182
+1,"Participant 13TF","Consistant","Target 2 Raw Latency",920,1529,2294,1264,1732,1607,1388,1139,2091,1092,1076,1139,1466,1700,2199,1045,1326,1232,1077,1607,4446,1341,1919,1606,858,1591,1341,1388,967,1092,1497,951
+1,"Participant 13TF","Consistant","Target 3 Raw Latency",1139,9485,1310,1872,1217,1092,1763,1326,1435,2106,1544,2324,1263,4040,1732,1310,1092,1498,1482,1139,1201,1560,1264,999,967,1310,1389,1435,983,1342,1670,920
+1,"Participant 13TF","Consistant","Target 4 Raw Latency",967,1139,1248,1388,1498,1185,1076,1155,2434,1154,1155,1373,967,2340,1529,1779,1108,1529,1076,1217,2091,1311,1404,1670,1201,1919,1185,1342,2324,1357,6505,2403
+1,"Participant 13TF","Consistant","Target 5 Raw Latency",951,936,1342,1248,1419,1123,2308,1232,1108,780,1045,1124,921,1607,1170,2044,1076,1419,1232,1342,1076,1341,1482,1186,1373,2044,1124,1482,1779,1451,2870,1482
+1,"Participant 13TF","Consistant","Target 6 Raw Latency",1248,2355,1388,1186,2090,2231,1294,1934,936,1560,967,2106,1622,1935,1279,1295,1201,2870,1529,1264,1076,1295,1560,983,1528,1638,1295,1045,2496,1731,842,3026
+1,"Participant 13TF","Consistant","Target 7 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 13TF","Consistant","Target 8 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 13TF","Consistant","Target 9 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 13TF","Consistant","Target 10 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 13TF","Consistant","Target 11 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 13TF","Consistant","Target 12 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 13TF","Consistant","Target 1 Accuracy",,"Correct",,"Correct","Correct","Correct",,"Correct","Correct","Correct",,"Correct",,"Correct","Correct","Correct",,"Correct","Correct","Correct","Correct","Correct",,"Correct",,"Correct",,"Correct","Correct","Correct",,"Correct"
+1,"Participant 13TF","Consistant","Target 2 Accuracy",,"Wrong","Correct",,"Wrong","Correct","Correct",,,"Correct","Correct","Correct","Correct","Correct","Wrong","Correct","Correct",,,"Correct","Correct","Correct","Correct",,,"Correct","Correct",,"Correct","Correct","Correct",
+1,"Participant 13TF","Consistant","Target 3 Accuracy","Correct",,"Correct","Correct","Correct","Correct","Correct",,"Correct","Correct","Correct",,,"Correct","Correct","Wrong","Correct","Correct","Correct","Correct",,,"Correct","Correct","Correct",,"Correct","Correct","Wrong","Correct","Correct",
+1,"Participant 13TF","Consistant","Target 4 Accuracy",,"Correct","Correct","Correct",,"Wrong","Correct","Correct","Correct",,"Correct","Correct","Correct",,"Correct","Correct","Correct","Correct","Correct",,"Correct",,"Correct","Wrong",,"Correct","Correct","Correct",,"Correct","Correct","Correct"
+1,"Participant 13TF","Consistant","Target 5 Accuracy","Correct",,"Wrong",,"Correct","Wrong","Correct","Correct","Correct","Correct",,"Correct","Correct","Correct",,,"Correct","Correct","Correct",,"Correct","Correct",,,"Correct",,"Correct",,"Wrong","Correct","Correct","Correct"
+1,"Participant 13TF","Consistant","Target 6 Accuracy","Correct","Correct",,"Correct","Correct","Correct","Wrong","Correct","Correct",,"Correct","Correct",,"Correct","Correct","Correct","Wrong","Wrong","Correct","Correct",,"Correct","Correct","Correct","Correct","Correct",,"Correct","Correct","Correct","Correct","Correct"
+1,"Participant 13TF","Consistant","Target 7 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 13TF","Consistant","Target 8 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 13TF","Consistant","Target 9 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 13TF","Consistant","Target 10 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 13TF","Consistant","Target 11 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 13TF","Consistant","Target 12 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

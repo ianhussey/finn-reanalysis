@@ -1,0 +1,4949 @@
+1,"Subject Name: ","7"
+1,"FIRST TEST BLOCK -- CONSISTENT RELATIONAL RESPONSES"
+1,"Time To Read Instructions: ",5258.00000000004
+1,"Trial Number","Sample","Target Stimulus","Response","Latency","Accuracy"
+1,1,"   ","1           ","Colour          ","Green              ","Left: True  Right: False           ","2481       ","Correct",""
+1,1,"   ","2           ","Shape          ","Square              ","Left: False  Right: True           ","1373       ","Correct",""
+1,1,"   ","3           ","Colour          ","Blue              ","Left: False  Right: True           ","2730       ","Correct",""
+1,1,"   ","4           ","Shape          ","Triangle              ","Left: False  Right: True           ","1498       ","Correct",""
+1,1,"   ","5           ","Colour          ","Red              ","Left: True  Right: False           ","1123       ","Correct",""
+1,1,"   ","6           ","Colour          ","Green              ","Left: False  Right: True           ","1357       ","Correct",""
+1,1,"   ","7           ","Shape          ","Triangle              ","Left: False  Right: True           ","4337       ","Correct",""
+1,1,"   ","8           ","Colour          ","Triangle              ","Left: False  Right: True           ","3011       ","Correct",""
+1,1,"   ","9           ","Colour          ","Square              ","Left: True  Right: False           ","1965       ","Correct",""
+1,1,"   ","10           ","Colour          ","Blue              ","Left: True  Right: False           ","983       ","Correct",""
+1,1,"   ","11           ","Shape          ","Green              ","Left: False  Right: True           ","1451       ","Correct",""
+1,1,"   ","12           ","Shape          ","Green              ","Left: False  Right: True           ","1123       ","Correct",""
+1,1,"   ","13           ","Shape          ","Blue              ","Left: True  Right: False           ","3853       ","Correct",""
+1,1,"   ","14           ","Shape          ","Circle              ","Left: False  Right: True           ","1514       ","Correct",""
+1,1,"   ","15           ","Shape          ","Blue              ","Left: False  Right: True           ","1389       ","Correct",""
+1,1,"   ","16           ","Shape          ","Square              ","Left: True  Right: False           ","2215       ","Wrong",""
+1,1,"   ","17           ","Colour          ","Circle              ","Left: False  Right: True           ","3478       ","Correct",""
+1,1,"   ","18           ","Shape          ","Red              ","Left: False  Right: True           ","1139       ","Correct",""
+1,1,"   ","19           ","Colour          ","Triangle              ","Left: True  Right: False           ","1888       ","Correct",""
+1,1,"   ","20           ","Shape          ","Circle              ","Left: True  Right: False           ","3073       ","Wrong",""
+1,1,"   ","21           ","Colour          ","Square              ","Left: True  Right: False           ","5741       ","Correct",""
+1,1,"   ","22           ","Colour          ","Red              ","Left: False  Right: True           ","1264       ","Correct",""
+1,1,"   ","23           ","Shape          ","Red              ","Left: True  Right: False           ","3136       ","Correct",""
+1,1,"   ","24           ","Colour          ","Circle              ","Left: True  Right: False           ","1997       ","Correct",""
+1,1,""
+1,"Adjusted Reaction Times"
+1,"   ","1           ",2481
+1,1,"   ","2           ",1373
+1,1,"   ","3           ",2730
+1,1,"   ","4           ",1498
+1,1,"   ","5           ",1123
+1,1,"   ","6           ",1357
+1,1,"   ","7           ",3000
+1,1,"   ","8           ",3000
+1,1,"   ","9           ",1965
+1,1,"   ","10           ",983
+1,1,"   ","11           ",1451
+1,1,"   ","12           ",1123
+1,1,"   ","13           ",3000
+1,1,"   ","14           ",1514
+1,1,"   ","15           ",1389
+1,1,"   ","16           ",2215
+1,1,"   ","17           ",3000
+1,1,"   ","18           ",1139
+1,1,"   ","19           ",1888
+1,1,"   ","20           ",3000
+1,1,"   ","21           ",3000
+1,1,"   ","22           ",1264
+1,1,"   ","23           ",3000
+1,1,"   ","24           ",1997
+1,1,""
+1,"Mean Adjusted Response Latency: ",2020.41666666667
+1,""
+1,"$First Con Test Block Median Latency: ",1926
+1,"$First Con Test Block Percent Correct: ",92
+1,""
+1,"Trials listed in order of presentation separately for each trial-type"
+1,"Test1 Consistent Sample1-Consistent:"
+1,"Green   ",2481
+1,"Blue   ",2730
+1,"Red   ",1123
+1,"Green   ",1357
+1,"Blue   ",983
+1,"Red   ",1264
+1,"Test1 Consistent Sample1-Inconsistent:"
+1,"Triangle   ",3011
+1,"Square   ",1965
+1,"Circle   ",3478
+1,"Triangle   ",1888
+1,"Square   ",5741
+1,"Circle   ",1997
+1,"Test1 Consistent Sample2-Inconsistent:"
+1,"Green   ",1451
+1,"Green   ",1123
+1,"Blue   ",3853
+1,"Blue   ",1389
+1,"Red   ",1139
+1,"Red   ",3136
+1,"Test1 Consistent Sample2-Consistent:"
+1,"Square   ",1373
+1,"Triangle   ",1498
+1,"Triangle   ",4337
+1,"Circle   ",1514
+1,"Square   ",2215
+1,"Circle   ",3073
+1,1,""
+1,"Adjusted Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency",1123
+1,"Sample 1 with Target 2 Adjusted Latency",2730
+1,"Sample 1 with Target 3 Adjusted Latency",2481
+1,"Sample 1 with Target 4 Adjusted Latency",1264
+1,"Sample 1 with Target 5 Adjusted Latency",983
+1,"Sample 1 with Target 6 Adjusted Latency",1357
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency",3000
+1,"Sample 1 with Target 14 Adjusted Latency",3000
+1,"Sample 1 with Target 15 Adjusted Latency",3000
+1,"Sample 1 with Target 16 Adjusted Latency",1997
+1,"Sample 1 with Target 17 Adjusted Latency",1965
+1,"Sample 1 with Target 18 Adjusted Latency",1888
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency",1139
+1,"Sample 2 with Target 2 Adjusted Latency",3000
+1,"Sample 2 with Target 3 Adjusted Latency",1451
+1,"Sample 2 with Target 4 Adjusted Latency",3000
+1,"Sample 2 with Target 5 Adjusted Latency",1389
+1,"Sample 2 with Target 6 Adjusted Latency",1123
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency",1514
+1,"Sample 2 with Target 14 Adjusted Latency",1373
+1,"Sample 2 with Target 15 Adjusted Latency",1498
+1,"Sample 2 with Target 16 Adjusted Latency",3000
+1,"Sample 2 with Target 17 Adjusted Latency",2215
+1,"Sample 2 with Target 18 Adjusted Latency",3000
+1,""
+1,"Adjusted Mean for Sample1 with Consistent Target: ",1656.33333333333
+1,"Adjusted Mean for Sample1 with Inconsistent Target: ",2475
+1,"Adjusted Mean for Sample2 with Consistent Target: ",2100
+1,"Adjusted Mean for Sample2 with Inconsistent Target: ",1850.33333333333
+1,""
+1,""
+1,"Adjusted Latencies Transformed to Logs for Statistical Analysis"
+1,""
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency Log",3.05037975626146
+1,"Sample 1 with Target 2 Adjusted Latency Log",3.43616264704076
+1,"Sample 1 with Target 3 Adjusted Latency Log",3.39462676427221
+1,"Sample 1 with Target 4 Adjusted Latency Log",3.10174707394637
+1,"Sample 1 with Target 5 Adjusted Latency Log",2.99255351783214
+1,"Sample 1 with Target 6 Adjusted Latency Log",3.13257984765974
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Consistent_Target: ",3.18467493450211
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 14 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 15 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 16 Adjusted Latency Log",3.3003780648707
+1,"Sample 1 with Target 17 Adjusted Latency Log",3.29336255471145
+1,"Sample 1 with Target 18 Adjusted Latency Log",3.27600198996205
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Inconsistent_Target: ",3.38351772895053
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency Log",3.0565237240791
+1,"Sample 2 with Target 2 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 3 Adjusted Latency Log",3.16166741243774
+1,"Sample 2 with Target 4 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 5 Adjusted Latency Log",3.14270224573762
+1,"Sample 2 with Target 6 Adjusted Latency Log",3.05037975626146
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Inconsistent_Target: ",3.22758594132587
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency Log",3.18012587516405
+1,"Sample 2 with Target 14 Adjusted Latency Log",3.13767053723675
+1,"Sample 2 with Target 15 Adjusted Latency Log",3.17551181336345
+1,"Sample 2 with Target 16 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 17 Adjusted Latency Log",3.34537373055909
+1,"Sample 2 with Target 18 Adjusted Latency Log",3.47712125471966
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Consistent_Target: ",3.29882074429378
+1,""
+1,"Overall Mean Log: ",3.27364983726807
+1,""
+1,"Raw Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Raw Latency",1123
+1,"Sample 1 with Target 2 Raw Latency",2730
+1,"Sample 1 with Target 3 Raw Latency",2481
+1,"Sample 1 with Target 4 Raw Latency",1264
+1,"Sample 1 with Target 5 Raw Latency",983
+1,"Sample 1 with Target 6 Raw Latency",1357
+1,"Sample 1 with Target 7 Raw Latency",0
+1,"Sample 1 with Target 8 Raw Latency",0
+1,"Sample 1 with Target 9 Raw Latency",0
+1,"Sample 1 with Target 10 Raw Latency",0
+1,"Sample 1 with Target 11 Raw Latency",0
+1,"Sample 1 with Target 12 Raw Latency",0
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Raw Latency",3478
+1,"Sample 1 with Target 14 Raw Latency",5741
+1,"Sample 1 with Target 15 Raw Latency",3011
+1,"Sample 1 with Target 16 Raw Latency",1997
+1,"Sample 1 with Target 17 Raw Latency",1965
+1,"Sample 1 with Target 18 Raw Latency",1888
+1,"Sample 1 with Target 19 Raw Latency",0
+1,"Sample 1 with Target 20 Raw Latency",0
+1,"Sample 1 with Target 21 Raw Latency",0
+1,"Sample 1 with Target 22 Raw Latency",0
+1,"Sample 1 with Target 23 Raw Latency",0
+1,"Sample 1 with Target 24 Raw Latency",0
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Raw Latency",1139
+1,"Sample 2 with Target 2 Raw Latency",3853
+1,"Sample 2 with Target 3 Raw Latency",1451
+1,"Sample 2 with Target 4 Raw Latency",3136
+1,"Sample 2 with Target 5 Raw Latency",1389
+1,"Sample 2 with Target 6 Raw Latency",1123
+1,"Sample 2 with Target 7 Raw Latency",0
+1,"Sample 2 with Target 8 Raw Latency",0
+1,"Sample 2 with Target 9 Raw Latency",0
+1,"Sample 2 with Target 10 Raw Latency",0
+1,"Sample 2 with Target 11 Raw Latency",0
+1,"Sample 2 with Target 12 Raw Latency",0
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Raw Latency",1514
+1,"Sample 2 with Target 14 Raw Latency",1373
+1,"Sample 2 with Target 15 Raw Latency",1498
+1,"Sample 2 with Target 16 Raw Latency",3073
+1,"Sample 2 with Target 17 Raw Latency",2215
+1,"Sample 2 with Target 18 Raw Latency",4337
+1,"Sample 2 with Target 19 Raw Latency",0
+1,"Sample 2 with Target 20 Raw Latency",0
+1,"Sample 2 with Target 21 Raw Latency",0
+1,"Sample 2 with Target 22 Raw Latency",0
+1,"Sample 2 with Target 23 Raw Latency",0
+1,"Sample 2 with Target 24 Raw Latency",0
+1,""
+1,"Raw Mean Latency for Sample1 with Consistent Target: ",1656.33333333333
+1,"Raw Mean Latency for Sample1 with Inconsistent Target: ",3013.33333333333
+1,"Raw Mean Latency for Sample2 with Consistent Target: ",2335
+1,"Raw Mean Latency for Sample2 with Inconsistent Target: ",2015.16666666667
+1,""
+1,"Overall Raw Mean Latency: ",2254.95833333333
+1,""
+1,"Subject Name: ","7"
+1,"FIRST TEST BLOCK -- INCONSISTENT RELATIONAL RESPONSES"
+1,"Time To Read Instructions: ",10685.9999999999
+1,"Trial Number","Sample","Target Stimulus","Response","Latency","Accuracy"
+1,1,"   ","1           ","Colour          ","Red              ","Left: True  Right: False           ","2387       ","Correct",""
+1,1,"   ","2           ","Shape          ","Circle              ","Left: False  Right: True           ","1498       ","Correct",""
+1,1,"   ","3           ","Shape          ","Green              ","Left: False  Right: True           ","4960       ","Wrong",""
+1,1,"   ","4           ","Colour          ","Green              ","Left: False  Right: True           ","1778       ","Correct",""
+1,1,"   ","5           ","Shape          ","Red              ","Left: True  Right: False           ","1638       ","Correct",""
+1,1,"   ","6           ","Shape          ","Green              ","Left: True  Right: False           ","3135       ","Correct",""
+1,1,"   ","7           ","Colour          ","Square              ","Left: True  Right: False           ","1779       ","Correct",""
+1,1,"   ","8           ","Shape          ","Square              ","Left: False  Right: True           ","3105       ","Wrong",""
+1,1,"   ","9           ","Shape          ","Circle              ","Left: False  Right: True           ","1467       ","Correct",""
+1,1,"   ","10           ","Colour          ","Red              ","Left: False  Right: True           ","1077       ","Correct",""
+1,1,"   ","11           ","Shape          ","Blue              ","Left: True  Right: False           ","2247       ","Correct",""
+1,1,"   ","12           ","Colour          ","Blue              ","Left: False  Right: True           ","4306       ","Correct",""
+1,1,"   ","13           ","Shape          ","Square              ","Left: False  Right: True           ","1124       ","Correct",""
+1,1,"   ","14           ","Colour          ","Blue              ","Left: False  Right: True           ","999       ","Correct",""
+1,1,"   ","15           ","Colour          ","Circle              ","Left: True  Right: False           ","4243       ","Wrong",""
+1,1,"   ","16           ","Colour          ","Triangle              ","Left: False  Right: True           ","4820       ","Correct",""
+1,1,"   ","17           ","Shape          ","Triangle              ","Left: True  Right: False           ","2278       ","Correct",""
+1,1,"   ","18           ","Colour          ","Square              ","Left: True  Right: False           ","7847       ","Correct",""
+1,1,"   ","19           ","Colour          ","Triangle              ","Left: True  Right: False           ","2152       ","Wrong",""
+1,1,"   ","20           ","Shape          ","Triangle              ","Left: False  Right: True           ","6849       ","Wrong",""
+1,1,"   ","21           ","Colour          ","Green              ","Left: False  Right: True           ","2184       ","Correct",""
+1,1,"   ","22           ","Shape          ","Red              ","Left: False  Right: True           ","1497       ","Correct",""
+1,1,"   ","23           ","Colour          ","Circle              ","Left: True  Right: False           ","1841       ","Correct",""
+1,1,"   ","24           ","Shape          ","Blue              ","Left: True  Right: False           ","1935       ","Correct",""
+1,1,""
+1,"Adjusted Reaction Times"
+1,"   ","1           ",2387
+1,1,"   ","2           ",1498
+1,1,"   ","3           ",3000
+1,1,"   ","4           ",1778
+1,1,"   ","5           ",1638
+1,1,"   ","6           ",3000
+1,1,"   ","7           ",1779
+1,1,"   ","8           ",3000
+1,1,"   ","9           ",1467
+1,1,"   ","10           ",1077
+1,1,"   ","11           ",2247
+1,1,"   ","12           ",3000
+1,1,"   ","13           ",1124
+1,1,"   ","14           ",999
+1,1,"   ","15           ",3000
+1,1,"   ","16           ",3000
+1,1,"   ","17           ",2278
+1,1,"   ","18           ",3000
+1,1,"   ","19           ",2152
+1,1,"   ","20           ",3000
+1,1,"   ","21           ",2184
+1,1,"   ","22           ",1497
+1,1,"   ","23           ",1841
+1,1,"   ","24           ",1935
+1,1,""
+1,"Mean Adjusted Response Latency: ",2161.70833333333
+1,""
+1,"$First Incon Test Block Median Latency: ",2168
+1,"$First Incon Test Block Percent Correct: ",79
+1,""
+1,"Trials listed in order of presentation separately for each trial-type"
+1,"Test1 Inconsistent Sample1-Consistent:"
+1,"Red   ",2387
+1,"Green   ",1778
+1,"Red   ",1077
+1,"Blue   ",4306
+1,"Blue   ",999
+1,"Green   ",2184
+1,"Test1 Inconsistent Sample1-Inconsistent:"
+1,"Square   ",1779
+1,"Circle   ",4243
+1,"Triangle   ",4820
+1,"Square   ",7847
+1,"Triangle   ",2152
+1,"Circle   ",1841
+1,"Test1 Inconsistent Sample2-Inconsistent:"
+1,"Green   ",4960
+1,"Red   ",1638
+1,"Green   ",3135
+1,"Blue   ",2247
+1,"Red   ",1497
+1,"Blue   ",1935
+1,"Test1 Inconsistent Sample2-Consistent:"
+1,"Circle   ",1498
+1,"Square   ",3105
+1,"Circle   ",1467
+1,"Square   ",1124
+1,"Triangle   ",2278
+1,"Triangle   ",6849
+1,1,""
+1,"Adjusted Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency",2387
+1,"Sample 1 with Target 2 Adjusted Latency",3000
+1,"Sample 1 with Target 3 Adjusted Latency",1778
+1,"Sample 1 with Target 4 Adjusted Latency",1077
+1,"Sample 1 with Target 5 Adjusted Latency",999
+1,"Sample 1 with Target 6 Adjusted Latency",2184
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency",3000
+1,"Sample 1 with Target 14 Adjusted Latency",1779
+1,"Sample 1 with Target 15 Adjusted Latency",3000
+1,"Sample 1 with Target 16 Adjusted Latency",1841
+1,"Sample 1 with Target 17 Adjusted Latency",3000
+1,"Sample 1 with Target 18 Adjusted Latency",2152
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency",1638
+1,"Sample 2 with Target 2 Adjusted Latency",2247
+1,"Sample 2 with Target 3 Adjusted Latency",3000
+1,"Sample 2 with Target 4 Adjusted Latency",1497
+1,"Sample 2 with Target 5 Adjusted Latency",1935
+1,"Sample 2 with Target 6 Adjusted Latency",3000
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency",1498
+1,"Sample 2 with Target 14 Adjusted Latency",3000
+1,"Sample 2 with Target 15 Adjusted Latency",2278
+1,"Sample 2 with Target 16 Adjusted Latency",1467
+1,"Sample 2 with Target 17 Adjusted Latency",1124
+1,"Sample 2 with Target 18 Adjusted Latency",3000
+1,""
+1,"Adjusted Mean for Sample1 with Consistent Target: ",1904.16666666667
+1,"Adjusted Mean for Sample1 with Inconsistent Target: ",2462
+1,"Adjusted Mean for Sample2 with Consistent Target: ",2061.16666666667
+1,"Adjusted Mean for Sample2 with Inconsistent Target: ",2219.5
+1,""
+1,""
+1,"Adjusted Latencies Transformed to Logs for Statistical Analysis"
+1,""
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency Log",3.37785241900675
+1,"Sample 1 with Target 2 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 3 Adjusted Latency Log",3.24993175663419
+1,"Sample 1 with Target 4 Adjusted Latency Log",3.03221570329798
+1,"Sample 1 with Target 5 Adjusted Latency Log",2.99956548822598
+1,"Sample 1 with Target 6 Adjusted Latency Log",3.3392526340327
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Consistent_Target: ",3.24598987598621
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 14 Adjusted Latency Log",3.25017594808392
+1,"Sample 1 with Target 15 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 16 Adjusted Latency Log",3.26505378850401
+1,"Sample 1 with Target 17 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 18 Adjusted Latency Log",3.33284226699435
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Inconsistent_Target: ",3.37990596129021
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency Log",3.2143138974244
+1,"Sample 2 with Target 2 Adjusted Latency Log",3.35160307241913
+1,"Sample 2 with Target 3 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 4 Adjusted Latency Log",3.17522180034305
+1,"Sample 2 with Target 5 Adjusted Latency Log",3.28668096935493
+1,"Sample 2 with Target 6 Adjusted Latency Log",3.47712125471966
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Inconsistent_Target: ",3.33034370816347
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency Log",3.17551181336345
+1,"Sample 2 with Target 14 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 15 Adjusted Latency Log",3.35755371974308
+1,"Sample 2 with Target 16 Adjusted Latency Log",3.16643011384328
+1,"Sample 2 with Target 17 Adjusted Latency Log",3.05076631123304
+1,"Sample 2 with Target 18 Adjusted Latency Log",3.47712125471966
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Consistent_Target: ",3.28408407793703
+1,""
+1,"Overall Mean Log: ",3.31008090584423
+1,""
+1,"Raw Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Raw Latency",2387
+1,"Sample 1 with Target 2 Raw Latency",4306
+1,"Sample 1 with Target 3 Raw Latency",1778
+1,"Sample 1 with Target 4 Raw Latency",1077
+1,"Sample 1 with Target 5 Raw Latency",999
+1,"Sample 1 with Target 6 Raw Latency",2184
+1,"Sample 1 with Target 7 Raw Latency",0
+1,"Sample 1 with Target 8 Raw Latency",0
+1,"Sample 1 with Target 9 Raw Latency",0
+1,"Sample 1 with Target 10 Raw Latency",0
+1,"Sample 1 with Target 11 Raw Latency",0
+1,"Sample 1 with Target 12 Raw Latency",0
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Raw Latency",4243
+1,"Sample 1 with Target 14 Raw Latency",1779
+1,"Sample 1 with Target 15 Raw Latency",4820
+1,"Sample 1 with Target 16 Raw Latency",1841
+1,"Sample 1 with Target 17 Raw Latency",7847
+1,"Sample 1 with Target 18 Raw Latency",2152
+1,"Sample 1 with Target 19 Raw Latency",0
+1,"Sample 1 with Target 20 Raw Latency",0
+1,"Sample 1 with Target 21 Raw Latency",0
+1,"Sample 1 with Target 22 Raw Latency",0
+1,"Sample 1 with Target 23 Raw Latency",0
+1,"Sample 1 with Target 24 Raw Latency",0
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Raw Latency",1638
+1,"Sample 2 with Target 2 Raw Latency",2247
+1,"Sample 2 with Target 3 Raw Latency",4960
+1,"Sample 2 with Target 4 Raw Latency",1497
+1,"Sample 2 with Target 5 Raw Latency",1935
+1,"Sample 2 with Target 6 Raw Latency",3135
+1,"Sample 2 with Target 7 Raw Latency",0
+1,"Sample 2 with Target 8 Raw Latency",0
+1,"Sample 2 with Target 9 Raw Latency",0
+1,"Sample 2 with Target 10 Raw Latency",0
+1,"Sample 2 with Target 11 Raw Latency",0
+1,"Sample 2 with Target 12 Raw Latency",0
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Raw Latency",1498
+1,"Sample 2 with Target 14 Raw Latency",3105
+1,"Sample 2 with Target 15 Raw Latency",2278
+1,"Sample 2 with Target 16 Raw Latency",1467
+1,"Sample 2 with Target 17 Raw Latency",1124
+1,"Sample 2 with Target 18 Raw Latency",6849
+1,"Sample 2 with Target 19 Raw Latency",0
+1,"Sample 2 with Target 20 Raw Latency",0
+1,"Sample 2 with Target 21 Raw Latency",0
+1,"Sample 2 with Target 22 Raw Latency",0
+1,"Sample 2 with Target 23 Raw Latency",0
+1,"Sample 2 with Target 24 Raw Latency",0
+1,""
+1,"Raw Mean Latency for Sample1 with Consistent Target: ",2121.83333333333
+1,"Raw Mean Latency for Sample1 with Inconsistent Target: ",3780.33333333333
+1,"Raw Mean Latency for Sample2 with Consistent Target: ",2720.16666666667
+1,"Raw Mean Latency for Sample2 with Inconsistent Target: ",2568.66666666667
+1,""
+1,"Overall Raw Mean Latency: ",2797.75
+1,""
+1,"Subject Name: ","7"
+1,"SECOND TEST BLOCK -- CONSISTENT RELATIONAL RESPONSES"
+1,"Time To Read Instructions: ",1451.00000000002
+1,"Trial Number","Sample","Target Stimulus","Response","Latency","Accuracy"
+1,1,"   ","1           ","Colour          ","Square              ","Left: True  Right: False           ","4368       ","Correct",""
+1,1,"   ","2           ","Shape          ","Blue              ","Left: True  Right: False           ","2496       ","Correct",""
+1,1,"   ","3           ","Shape          ","Square              ","Left: True  Right: False           ","2309       ","Correct",""
+1,1,"   ","4           ","Colour          ","Circle              ","Left: False  Right: True           ","4852       ","Correct",""
+1,1,"   ","5           ","Shape          ","Red              ","Left: False  Right: True           ","1670       ","Correct",""
+1,1,"   ","6           ","Colour          ","Green              ","Left: True  Right: False           ","1716       ","Correct",""
+1,1,"   ","7           ","Shape          ","Green              ","Left: False  Right: True           ","1778       ","Correct",""
+1,1,"   ","8           ","Shape          ","Blue              ","Left: False  Right: True           ","1061       ","Correct",""
+1,1,"   ","9           ","Colour          ","Red              ","Left: True  Right: False           ","3136       ","Correct",""
+1,1,"   ","10           ","Colour          ","Triangle              ","Left: False  Right: True           ","2699       ","Correct",""
+1,1,"   ","11           ","Colour          ","Red              ","Left: True  Right: False           ","1529       ","Correct",""
+1,1,"   ","12           ","Colour          ","Triangle              ","Left: False  Right: True           ","3151       ","Correct",""
+1,1,"   ","13           ","Shape          ","Circle              ","Left: False  Right: True           ","3947       ","Correct",""
+1,1,"   ","14           ","Colour          ","Blue              ","Left: True  Right: False           ","1545       ","Correct",""
+1,1,"   ","15           ","Shape          ","Circle              ","Left: True  Right: False           ","3478       ","Correct",""
+1,1,"   ","16           ","Shape          ","Triangle              ","Left: True  Right: False           ","780       ","Correct",""
+1,1,"   ","17           ","Shape          ","Red              ","Left: False  Right: True           ","1653       ","Correct",""
+1,1,"   ","18           ","Shape          ","Triangle              ","Left: True  Right: False           ","1217       ","Correct",""
+1,1,"   ","19           ","Shape          ","Green              ","Left: False  Right: True           ","5289       ","Correct",""
+1,1,"   ","20           ","Colour          ","Blue              ","Left: False  Right: True           ","1326       ","Correct",""
+1,1,"   ","21           ","Colour          ","Green              ","Left: True  Right: False           ","1575       ","Correct",""
+1,1,"   ","22           ","Shape          ","Square              ","Left: True  Right: False           ","3463       ","Correct",""
+1,1,"   ","23           ","Colour          ","Square              ","Left: True  Right: False           ","1232       ","Correct",""
+1,1,"   ","24           ","Colour          ","Circle              ","Left: False  Right: True           ","1591       ","Correct",""
+1,1,""
+1,"Adjusted Reaction Times"
+1,"   ","1           ",3000
+1,1,"   ","2           ",2496
+1,1,"   ","3           ",2309
+1,1,"   ","4           ",3000
+1,1,"   ","5           ",1670
+1,1,"   ","6           ",1716
+1,1,"   ","7           ",1778
+1,1,"   ","8           ",1061
+1,1,"   ","9           ",3000
+1,1,"   ","10           ",2699
+1,1,"   ","11           ",1529
+1,1,"   ","12           ",3000
+1,1,"   ","13           ",3000
+1,1,"   ","14           ",1545
+1,1,"   ","15           ",3000
+1,1,"   ","16           ",780
+1,1,"   ","17           ",1653
+1,1,"   ","18           ",1217
+1,1,"   ","19           ",3000
+1,1,"   ","20           ",1326
+1,1,"   ","21           ",1575
+1,1,"   ","22           ",3000
+1,1,"   ","23           ",1232
+1,1,"   ","24           ",1591
+1,1,""
+1,"Mean Adjusted Response Latency: ",2090.70833333333
+1,""
+1,"$Second Con Test Block Median Latency: ",1747
+1,"$Second Con Test Block Percent Correct: ",100
+1,""
+1,"Trials listed in order of presentation separately for each trial-type"
+1,"Test2 Consistent Sample1-Consistent:"
+1,"Green   ",1716
+1,"Red   ",3136
+1,"Red   ",1529
+1,"Blue   ",1545
+1,"Blue   ",1326
+1,"Green   ",1575
+1,"Test2 Consistent Sample1-Inconsistent:"
+1,"Square   ",4368
+1,"Circle   ",4852
+1,"Triangle   ",2699
+1,"Triangle   ",3151
+1,"Square   ",1232
+1,"Circle   ",1591
+1,"Test2 Consistent Sample2-Inconsistent:"
+1,"Blue   ",2496
+1,"Red   ",1670
+1,"Green   ",1778
+1,"Blue   ",1061
+1,"Red   ",1653
+1,"Green   ",5289
+1,"Test2 Consistent Sample2-Consistent:"
+1,"Square   ",2309
+1,"Circle   ",3947
+1,"Circle   ",3478
+1,"Triangle   ",780
+1,"Triangle   ",1217
+1,"Square   ",3463
+1,1,""
+1,"Adjusted Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency",3000
+1,"Sample 1 with Target 2 Adjusted Latency",1545
+1,"Sample 1 with Target 3 Adjusted Latency",1716
+1,"Sample 1 with Target 4 Adjusted Latency",1529
+1,"Sample 1 with Target 5 Adjusted Latency",1326
+1,"Sample 1 with Target 6 Adjusted Latency",1575
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency",3000
+1,"Sample 1 with Target 14 Adjusted Latency",3000
+1,"Sample 1 with Target 15 Adjusted Latency",2699
+1,"Sample 1 with Target 16 Adjusted Latency",1591
+1,"Sample 1 with Target 17 Adjusted Latency",1232
+1,"Sample 1 with Target 18 Adjusted Latency",3000
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency",1670
+1,"Sample 2 with Target 2 Adjusted Latency",2496
+1,"Sample 2 with Target 3 Adjusted Latency",1778
+1,"Sample 2 with Target 4 Adjusted Latency",1653
+1,"Sample 2 with Target 5 Adjusted Latency",1061
+1,"Sample 2 with Target 6 Adjusted Latency",3000
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency",3000
+1,"Sample 2 with Target 14 Adjusted Latency",2309
+1,"Sample 2 with Target 15 Adjusted Latency",1217
+1,"Sample 2 with Target 16 Adjusted Latency",3000
+1,"Sample 2 with Target 17 Adjusted Latency",3000
+1,"Sample 2 with Target 18 Adjusted Latency",780
+1,""
+1,"Adjusted Mean for Sample1 with Consistent Target: ",1781.83333333333
+1,"Adjusted Mean for Sample1 with Inconsistent Target: ",2420.33333333333
+1,"Adjusted Mean for Sample2 with Consistent Target: ",2217.66666666667
+1,"Adjusted Mean for Sample2 with Inconsistent Target: ",1943
+1,""
+1,""
+1,"Adjusted Latencies Transformed to Logs for Statistical Analysis"
+1,""
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 2 Adjusted Latency Log",3.18892848376085
+1,"Sample 1 with Target 3 Adjusted Latency Log",3.23451728351269
+1,"Sample 1 with Target 4 Adjusted Latency Log",3.18440748541232
+1,"Sample 1 with Target 5 Adjusted Latency Log",3.12254352406875
+1,"Sample 1 with Target 6 Adjusted Latency Log",3.19728055812562
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Consistent_Target: ",3.23413309826665
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 14 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 15 Adjusted Latency Log",3.43120288455652
+1,"Sample 1 with Target 16 Adjusted Latency Log",3.20167017964658
+1,"Sample 1 with Target 17 Adjusted Latency Log",3.09061070782841
+1,"Sample 1 with Target 18 Adjusted Latency Log",3.47712125471966
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Inconsistent_Target: ",3.35914125603175
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency Log",3.22271647114758
+1,"Sample 2 with Target 2 Adjusted Latency Log",3.39724458101039
+1,"Sample 2 with Target 3 Adjusted Latency Log",3.24993175663419
+1,"Sample 2 with Target 4 Adjusted Latency Log",3.21827285357145
+1,"Sample 2 with Target 5 Adjusted Latency Log",3.02571538390134
+1,"Sample 2 with Target 6 Adjusted Latency Log",3.47712125471966
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Inconsistent_Target: ",3.2651670501641
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 14 Adjusted Latency Log",3.36342393291718
+1,"Sample 2 with Target 15 Adjusted Latency Log",3.08529057823006
+1,"Sample 2 with Target 16 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 17 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 18 Adjusted Latency Log",2.89209460269048
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Consistent_Target: ",3.29536214633278
+1,""
+1,"Overall Mean Log: ",3.28845088769882
+1,""
+1,"Raw Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Raw Latency",3136
+1,"Sample 1 with Target 2 Raw Latency",1545
+1,"Sample 1 with Target 3 Raw Latency",1716
+1,"Sample 1 with Target 4 Raw Latency",1529
+1,"Sample 1 with Target 5 Raw Latency",1326
+1,"Sample 1 with Target 6 Raw Latency",1575
+1,"Sample 1 with Target 7 Raw Latency",0
+1,"Sample 1 with Target 8 Raw Latency",0
+1,"Sample 1 with Target 9 Raw Latency",0
+1,"Sample 1 with Target 10 Raw Latency",0
+1,"Sample 1 with Target 11 Raw Latency",0
+1,"Sample 1 with Target 12 Raw Latency",0
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Raw Latency",4852
+1,"Sample 1 with Target 14 Raw Latency",4368
+1,"Sample 1 with Target 15 Raw Latency",2699
+1,"Sample 1 with Target 16 Raw Latency",1591
+1,"Sample 1 with Target 17 Raw Latency",1232
+1,"Sample 1 with Target 18 Raw Latency",3151
+1,"Sample 1 with Target 19 Raw Latency",0
+1,"Sample 1 with Target 20 Raw Latency",0
+1,"Sample 1 with Target 21 Raw Latency",0
+1,"Sample 1 with Target 22 Raw Latency",0
+1,"Sample 1 with Target 23 Raw Latency",0
+1,"Sample 1 with Target 24 Raw Latency",0
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Raw Latency",1670
+1,"Sample 2 with Target 2 Raw Latency",2496
+1,"Sample 2 with Target 3 Raw Latency",1778
+1,"Sample 2 with Target 4 Raw Latency",1653
+1,"Sample 2 with Target 5 Raw Latency",1061
+1,"Sample 2 with Target 6 Raw Latency",5289
+1,"Sample 2 with Target 7 Raw Latency",0
+1,"Sample 2 with Target 8 Raw Latency",0
+1,"Sample 2 with Target 9 Raw Latency",0
+1,"Sample 2 with Target 10 Raw Latency",0
+1,"Sample 2 with Target 11 Raw Latency",0
+1,"Sample 2 with Target 12 Raw Latency",0
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Raw Latency",3947
+1,"Sample 2 with Target 14 Raw Latency",2309
+1,"Sample 2 with Target 15 Raw Latency",1217
+1,"Sample 2 with Target 16 Raw Latency",3478
+1,"Sample 2 with Target 17 Raw Latency",3463
+1,"Sample 2 with Target 18 Raw Latency",780
+1,"Sample 2 with Target 19 Raw Latency",0
+1,"Sample 2 with Target 20 Raw Latency",0
+1,"Sample 2 with Target 21 Raw Latency",0
+1,"Sample 2 with Target 22 Raw Latency",0
+1,"Sample 2 with Target 23 Raw Latency",0
+1,"Sample 2 with Target 24 Raw Latency",0
+1,""
+1,"Raw Mean Latency for Sample1 with Consistent Target: ",1804.5
+1,"Raw Mean Latency for Sample1 with Inconsistent Target: ",2982.16666666667
+1,"Raw Mean Latency for Sample2 with Consistent Target: ",2532.33333333333
+1,"Raw Mean Latency for Sample2 with Inconsistent Target: ",2324.5
+1,""
+1,"Overall Raw Mean Latency: ",2410.875
+1,""
+1,"Subject Name: ","7"
+1,"SECOND TEST BLOCK -- INCONSISTENT RELATIONAL RESPONSES"
+1,"Time To Read Instructions: ",4930.00000000006
+1,"Trial Number","Sample","Target Stimulus","Response","Latency","Accuracy"
+1,1,"   ","1           ","Shape          ","Red              ","Left: True  Right: False           ","3962       ","Correct",""
+1,1,"   ","2           ","Colour          ","Square              ","Left: True  Right: False           ","2153       ","Correct",""
+1,1,"   ","3           ","Colour          ","Triangle              ","Left: True  Right: False           ","2761       ","Correct",""
+1,1,"   ","4           ","Colour          ","Green              ","Left: False  Right: True           ","1856       ","Correct",""
+1,1,"   ","5           ","Shape          ","Square              ","Left: True  Right: False           ","4352       ","Correct",""
+1,1,"   ","6           ","Shape          ","Blue              ","Left: True  Right: False           ","1638       ","Correct",""
+1,1,"   ","7           ","Shape          ","Circle              ","Left: True  Right: False           ","1545       ","Correct",""
+1,1,"   ","8           ","Colour          ","Circle              ","Left: False  Right: True           ","2512       ","Correct",""
+1,1,"   ","9           ","Colour          ","Circle              ","Left: True  Right: False           ","1794       ","Correct",""
+1,1,"   ","10           ","Colour          ","Blue              ","Left: False  Right: True           ","2621       ","Correct",""
+1,1,"   ","11           ","Shape          ","Blue              ","Left: False  Right: True           ","1778       ","Correct",""
+1,1,"   ","12           ","Shape          ","Red              ","Left: False  Right: True           ","1544       ","Correct",""
+1,1,"   ","13           ","Colour          ","Square              ","Left: True  Right: False           ","4461       ","Correct",""
+1,1,"   ","14           ","Colour          ","Blue              ","Left: False  Right: True           ","1373       ","Correct",""
+1,1,"   ","15           ","Shape          ","Triangle              ","Left: True  Right: False           ","3339       ","Correct",""
+1,1,"   ","16           ","Colour          ","Red              ","Left: True  Right: False           ","1467       ","Correct",""
+1,1,"   ","17           ","Shape          ","Triangle              ","Left: True  Right: False           ","1123       ","Correct",""
+1,1,"   ","18           ","Shape          ","Square              ","Left: False  Right: True           ","1342       ","Correct",""
+1,1,"   ","19           ","Colour          ","Triangle              ","Left: False  Right: True           ","1701       ","Correct",""
+1,1,"   ","20           ","Colour          ","Green              ","Left: False  Right: True           ","1326       ","Correct",""
+1,1,"   ","21           ","Shape          ","Green              ","Left: True  Right: False           ","2683       ","Correct",""
+1,1,"   ","22           ","Shape          ","Green              ","Left: True  Right: False           ","1155       ","Correct",""
+1,1,"   ","23           ","Shape          ","Circle              ","Left: False  Right: True           ","1888       ","Correct",""
+1,1,"   ","24           ","Colour          ","Red              ","Left: False  Right: True           ","2230       ","Correct",""
+1,1,""
+1,"Adjusted Reaction Times"
+1,"   ","1           ",3000
+1,1,"   ","2           ",2153
+1,1,"   ","3           ",2761
+1,1,"   ","4           ",1856
+1,1,"   ","5           ",3000
+1,1,"   ","6           ",1638
+1,1,"   ","7           ",1545
+1,1,"   ","8           ",2512
+1,1,"   ","9           ",1794
+1,1,"   ","10           ",2621
+1,1,"   ","11           ",1778
+1,1,"   ","12           ",1544
+1,1,"   ","13           ",3000
+1,1,"   ","14           ",1373
+1,1,"   ","15           ",3000
+1,1,"   ","16           ",1467
+1,1,"   ","17           ",1123
+1,1,"   ","18           ",1342
+1,1,"   ","19           ",1701
+1,1,"   ","20           ",1326
+1,1,"   ","21           ",2683
+1,1,"   ","22           ",1155
+1,1,"   ","23           ",1888
+1,1,"   ","24           ",2230
+1,1,""
+1,"Mean Adjusted Response Latency: ",2020.41666666667
+1,""
+1,"$Second Incon Test Block Median Latency: ",1825
+1,"$Second Incon Test Block Percent Correct: ",100
+1,""
+1,"Trials listed in order of presentation separately for each trial-type"
+1,"Test2 Inconsistent Sample1-Consistent:"
+1,"Green   ",1856
+1,"Blue   ",2621
+1,"Blue   ",1373
+1,"Red   ",1467
+1,"Green   ",1326
+1,"Red   ",2230
+1,"Test2 Inconsistent Sample1-Inconsistent:"
+1,"Square   ",2153
+1,"Triangle   ",2761
+1,"Circle   ",2512
+1,"Circle   ",1794
+1,"Square   ",4461
+1,"Triangle   ",1701
+1,"Test2 Inconsistent Sample2-Inconsistent:"
+1,"Red   ",3962
+1,"Blue   ",1638
+1,"Blue   ",1778
+1,"Red   ",1544
+1,"Green   ",2683
+1,"Green   ",1155
+1,"Test2 Inconsistent Sample2-Consistent:"
+1,"Square   ",4352
+1,"Circle   ",1545
+1,"Triangle   ",3339
+1,"Triangle   ",1123
+1,"Square   ",1342
+1,"Circle   ",1888
+1,1,""
+1,"Adjusted Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency",1467
+1,"Sample 1 with Target 2 Adjusted Latency",2621
+1,"Sample 1 with Target 3 Adjusted Latency",1856
+1,"Sample 1 with Target 4 Adjusted Latency",2230
+1,"Sample 1 with Target 5 Adjusted Latency",1373
+1,"Sample 1 with Target 6 Adjusted Latency",1326
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency",2512
+1,"Sample 1 with Target 14 Adjusted Latency",2153
+1,"Sample 1 with Target 15 Adjusted Latency",2761
+1,"Sample 1 with Target 16 Adjusted Latency",1794
+1,"Sample 1 with Target 17 Adjusted Latency",3000
+1,"Sample 1 with Target 18 Adjusted Latency",1701
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency",3000
+1,"Sample 2 with Target 2 Adjusted Latency",1638
+1,"Sample 2 with Target 3 Adjusted Latency",2683
+1,"Sample 2 with Target 4 Adjusted Latency",1544
+1,"Sample 2 with Target 5 Adjusted Latency",1778
+1,"Sample 2 with Target 6 Adjusted Latency",1155
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency",1545
+1,"Sample 2 with Target 14 Adjusted Latency",3000
+1,"Sample 2 with Target 15 Adjusted Latency",3000
+1,"Sample 2 with Target 16 Adjusted Latency",1888
+1,"Sample 2 with Target 17 Adjusted Latency",1342
+1,"Sample 2 with Target 18 Adjusted Latency",1123
+1,""
+1,"Adjusted Mean for Sample1 with Consistent Target: ",1812.16666666667
+1,"Adjusted Mean for Sample1 with Inconsistent Target: ",2320.16666666667
+1,"Adjusted Mean for Sample2 with Consistent Target: ",1983
+1,"Adjusted Mean for Sample2 with Inconsistent Target: ",1966.33333333333
+1,""
+1,""
+1,"Adjusted Latencies Transformed to Logs for Statistical Analysis"
+1,""
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency Log",3.16643011384328
+1,"Sample 1 with Target 2 Adjusted Latency Log",3.4184670209466
+1,"Sample 1 with Target 3 Adjusted Latency Log",3.26857797188284
+1,"Sample 1 with Target 4 Adjusted Latency Log",3.34830486304816
+1,"Sample 1 with Target 5 Adjusted Latency Log",3.13767053723675
+1,"Sample 1 with Target 6 Adjusted Latency Log",3.12254352406875
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Consistent_Target: ",3.24366567183773
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency Log",3.40001963506516
+1,"Sample 1 with Target 14 Adjusted Latency Log",3.33304402982349
+1,"Sample 1 with Target 15 Adjusted Latency Log",3.44106640663926
+1,"Sample 1 with Target 16 Adjusted Latency Log",3.25382243870807
+1,"Sample 1 with Target 17 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 18 Adjusted Latency Log",3.23070431361257
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Inconsistent_Target: ",3.3559630130947
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 2 Adjusted Latency Log",3.2143138974244
+1,"Sample 2 with Target 3 Adjusted Latency Log",3.42862067267194
+1,"Sample 2 with Target 4 Adjusted Latency Log",3.18864729599972
+1,"Sample 2 with Target 5 Adjusted Latency Log",3.24993175663419
+1,"Sample 2 with Target 6 Adjusted Latency Log",3.06258198422816
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Inconsistent_Target: ",3.27020281027968
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency Log",3.18892848376085
+1,"Sample 2 with Target 14 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 15 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 16 Adjusted Latency Log",3.27600198996205
+1,"Sample 2 with Target 17 Adjusted Latency Log",3.12775251583297
+1,"Sample 2 with Target 18 Adjusted Latency Log",3.05037975626146
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Consistent_Target: ",3.26621754254278
+1,""
+1,"Overall Mean Log: ",3.28401225943872
+1,""
+1,"Raw Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Raw Latency",1467
+1,"Sample 1 with Target 2 Raw Latency",2621
+1,"Sample 1 with Target 3 Raw Latency",1856
+1,"Sample 1 with Target 4 Raw Latency",2230
+1,"Sample 1 with Target 5 Raw Latency",1373
+1,"Sample 1 with Target 6 Raw Latency",1326
+1,"Sample 1 with Target 7 Raw Latency",0
+1,"Sample 1 with Target 8 Raw Latency",0
+1,"Sample 1 with Target 9 Raw Latency",0
+1,"Sample 1 with Target 10 Raw Latency",0
+1,"Sample 1 with Target 11 Raw Latency",0
+1,"Sample 1 with Target 12 Raw Latency",0
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Raw Latency",2512
+1,"Sample 1 with Target 14 Raw Latency",2153
+1,"Sample 1 with Target 15 Raw Latency",2761
+1,"Sample 1 with Target 16 Raw Latency",1794
+1,"Sample 1 with Target 17 Raw Latency",4461
+1,"Sample 1 with Target 18 Raw Latency",1701
+1,"Sample 1 with Target 19 Raw Latency",0
+1,"Sample 1 with Target 20 Raw Latency",0
+1,"Sample 1 with Target 21 Raw Latency",0
+1,"Sample 1 with Target 22 Raw Latency",0
+1,"Sample 1 with Target 23 Raw Latency",0
+1,"Sample 1 with Target 24 Raw Latency",0
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Raw Latency",3962
+1,"Sample 2 with Target 2 Raw Latency",1638
+1,"Sample 2 with Target 3 Raw Latency",2683
+1,"Sample 2 with Target 4 Raw Latency",1544
+1,"Sample 2 with Target 5 Raw Latency",1778
+1,"Sample 2 with Target 6 Raw Latency",1155
+1,"Sample 2 with Target 7 Raw Latency",0
+1,"Sample 2 with Target 8 Raw Latency",0
+1,"Sample 2 with Target 9 Raw Latency",0
+1,"Sample 2 with Target 10 Raw Latency",0
+1,"Sample 2 with Target 11 Raw Latency",0
+1,"Sample 2 with Target 12 Raw Latency",0
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Raw Latency",1545
+1,"Sample 2 with Target 14 Raw Latency",4352
+1,"Sample 2 with Target 15 Raw Latency",3339
+1,"Sample 2 with Target 16 Raw Latency",1888
+1,"Sample 2 with Target 17 Raw Latency",1342
+1,"Sample 2 with Target 18 Raw Latency",1123
+1,"Sample 2 with Target 19 Raw Latency",0
+1,"Sample 2 with Target 20 Raw Latency",0
+1,"Sample 2 with Target 21 Raw Latency",0
+1,"Sample 2 with Target 22 Raw Latency",0
+1,"Sample 2 with Target 23 Raw Latency",0
+1,"Sample 2 with Target 24 Raw Latency",0
+1,""
+1,"Raw Mean Latency for Sample1 with Consistent Target: ",1812.16666666667
+1,"Raw Mean Latency for Sample1 with Inconsistent Target: ",2563.66666666667
+1,"Raw Mean Latency for Sample2 with Consistent Target: ",2264.83333333333
+1,"Raw Mean Latency for Sample2 with Inconsistent Target: ",2126.66666666667
+1,""
+1,"Overall Raw Mean Latency: ",2191.83333333333
+1,""
+1,"Subject Name: ","7"
+1,"THIRD TEST BLOCK -- CONSISTENT RELATIONAL RESPONSES"
+1,"Time To Read Instructions: ",7689.99999999983
+1,"Trial Number","Sample","Target Stimulus","Response","Latency","Accuracy"
+1,1,"   ","1           ","Colour          ","Circle              ","Left: True  Right: False           ","2059       ","Correct",""
+1,1,"   ","2           ","Colour          ","Red              ","Left: True  Right: False           ","1482       ","Correct",""
+1,1,"   ","3           ","Shape          ","Green              ","Left: True  Right: False           ","3322       ","Correct",""
+1,1,"   ","4           ","Shape          ","Green              ","Left: False  Right: True           ","2309       ","Correct",""
+1,1,"   ","5           ","Shape          ","Triangle              ","Left: False  Right: True           ","1528       ","Correct",""
+1,1,"   ","6           ","Shape          ","Blue              ","Left: True  Right: False           ","1482       ","Correct",""
+1,1,"   ","7           ","Shape          ","Blue              ","Left: False  Right: True           ","2402       ","Correct",""
+1,1,"   ","8           ","Colour          ","Triangle              ","Left: False  Right: True           ","2246       ","Correct",""
+1,1,"   ","9           ","Colour          ","Red              ","Left: False  Right: True           ","4040       ","Correct",""
+1,1,"   ","10           ","Shape          ","Square              ","Left: True  Right: False           ","1294       ","Correct",""
+1,1,"   ","11           ","Colour          ","Square              ","Left: False  Right: True           ","2356       ","Correct",""
+1,1,"   ","12           ","Shape          ","Square              ","Left: True  Right: False           ","2153       ","Correct",""
+1,1,"   ","13           ","Colour          ","Green              ","Left: True  Right: False           ","1233       ","Correct",""
+1,1,"   ","14           ","Colour          ","Blue              ","Left: True  Right: False           ","999       ","Correct",""
+1,1,"   ","15           ","Shape          ","Circle              ","Left: False  Right: True           ","2137       ","Correct",""
+1,1,"   ","16           ","Shape          ","Circle              ","Left: False  Right: True           ","1295       ","Correct",""
+1,1,"   ","17           ","Colour          ","Circle              ","Left: False  Right: True           ","1280       ","Correct",""
+1,1,"   ","18           ","Shape          ","Triangle              ","Left: True  Right: False           ","1529       ","Correct",""
+1,1,"   ","19           ","Colour          ","Blue              ","Left: False  Right: True           ","2153       ","Correct",""
+1,1,"   ","20           ","Colour          ","Square              ","Left: True  Right: False           ","1872       ","Correct",""
+1,1,"   ","21           ","Colour          ","Triangle              ","Left: False  Right: True           ","2684       ","Correct",""
+1,1,"   ","22           ","Shape          ","Red              ","Left: False  Right: True           ","1170       ","Correct",""
+1,1,"   ","23           ","Shape          ","Red              ","Left: True  Right: False           ","2371       ","Wrong",""
+1,1,"   ","24           ","Colour          ","Green              ","Left: False  Right: True           ","3510       ","Correct",""
+1,1,""
+1,"Adjusted Reaction Times"
+1,"   ","1           ",2059
+1,1,"   ","2           ",1482
+1,1,"   ","3           ",3000
+1,1,"   ","4           ",2309
+1,1,"   ","5           ",1528
+1,1,"   ","6           ",1482
+1,1,"   ","7           ",2402
+1,1,"   ","8           ",2246
+1,1,"   ","9           ",3000
+1,1,"   ","10           ",1294
+1,1,"   ","11           ",2356
+1,1,"   ","12           ",2153
+1,1,"   ","13           ",1233
+1,1,"   ","14           ",999
+1,1,"   ","15           ",2137
+1,1,"   ","16           ",1295
+1,1,"   ","17           ",1280
+1,1,"   ","18           ",1529
+1,1,"   ","19           ",2153
+1,1,"   ","20           ",1872
+1,1,"   ","21           ",2684
+1,1,"   ","22           ",1170
+1,1,"   ","23           ",2371
+1,1,"   ","24           ",3000
+1,1,""
+1,"Mean Adjusted Response Latency: ",1959.75
+1,""
+1,"$Third Con Test Block Median Latency: ",2098
+1,"$Third Con Test Block Percent Correct: ",96
+1,""
+1,"Trials listed in order of presentation separately for each trial-type"
+1,"Test3 Consistent Sample1-Consistent:"
+1,"Red   ",1482
+1,"Red   ",4040
+1,"Green   ",1233
+1,"Blue   ",999
+1,"Blue   ",2153
+1,"Green   ",3510
+1,"Test3 Consistent Sample1-Inconsistent:"
+1,"Circle   ",2059
+1,"Triangle   ",2246
+1,"Square   ",2356
+1,"Circle   ",1280
+1,"Square   ",1872
+1,"Triangle   ",2684
+1,"Test3 Consistent Sample2-Inconsistent:"
+1,"Green   ",3322
+1,"Green   ",2309
+1,"Blue   ",1482
+1,"Blue   ",2402
+1,"Red   ",1170
+1,"Red   ",2371
+1,"Test3 Consistent Sample2-Consistent:"
+1,"Triangle   ",1528
+1,"Square   ",1294
+1,"Square   ",2153
+1,"Circle   ",2137
+1,"Circle   ",1295
+1,"Triangle   ",1529
+1,1,""
+1,"Adjusted Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency",1482
+1,"Sample 1 with Target 2 Adjusted Latency",2153
+1,"Sample 1 with Target 3 Adjusted Latency",1233
+1,"Sample 1 with Target 4 Adjusted Latency",3000
+1,"Sample 1 with Target 5 Adjusted Latency",999
+1,"Sample 1 with Target 6 Adjusted Latency",3000
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency",2059
+1,"Sample 1 with Target 14 Adjusted Latency",2356
+1,"Sample 1 with Target 15 Adjusted Latency",2246
+1,"Sample 1 with Target 16 Adjusted Latency",1280
+1,"Sample 1 with Target 17 Adjusted Latency",1872
+1,"Sample 1 with Target 18 Adjusted Latency",2684
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency",1170
+1,"Sample 2 with Target 2 Adjusted Latency",1482
+1,"Sample 2 with Target 3 Adjusted Latency",3000
+1,"Sample 2 with Target 4 Adjusted Latency",2371
+1,"Sample 2 with Target 5 Adjusted Latency",2402
+1,"Sample 2 with Target 6 Adjusted Latency",2309
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency",2137
+1,"Sample 2 with Target 14 Adjusted Latency",1294
+1,"Sample 2 with Target 15 Adjusted Latency",1528
+1,"Sample 2 with Target 16 Adjusted Latency",1295
+1,"Sample 2 with Target 17 Adjusted Latency",2153
+1,"Sample 2 with Target 18 Adjusted Latency",1529
+1,""
+1,"Adjusted Mean for Sample1 with Consistent Target: ",1977.83333333333
+1,"Adjusted Mean for Sample1 with Inconsistent Target: ",2082.83333333333
+1,"Adjusted Mean for Sample2 with Consistent Target: ",1656
+1,"Adjusted Mean for Sample2 with Inconsistent Target: ",2122.33333333333
+1,""
+1,""
+1,"Adjusted Latencies Transformed to Logs for Statistical Analysis"
+1,""
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency Log",3.17084820364331
+1,"Sample 1 with Target 2 Adjusted Latency Log",3.33304402982349
+1,"Sample 1 with Target 3 Adjusted Latency Log",3.09096307659573
+1,"Sample 1 with Target 4 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 5 Adjusted Latency Log",2.99956548822598
+1,"Sample 1 with Target 6 Adjusted Latency Log",3.47712125471966
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Consistent_Target: ",3.25811055128797
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency Log",3.31365634661803
+1,"Sample 1 with Target 14 Adjusted Latency Log",3.37217528611506
+1,"Sample 1 with Target 15 Adjusted Latency Log",3.35140975192544
+1,"Sample 1 with Target 16 Adjusted Latency Log",3.10720996964787
+1,"Sample 1 with Target 17 Adjusted Latency Log",3.27230584440209
+1,"Sample 1 with Target 18 Adjusted Latency Log",3.42878251149695
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Inconsistent_Target: ",3.30758995170091
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency Log",3.06818586174616
+1,"Sample 2 with Target 2 Adjusted Latency Log",3.17084820364331
+1,"Sample 2 with Target 3 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 4 Adjusted Latency Log",3.37493155397819
+1,"Sample 2 with Target 5 Adjusted Latency Log",3.38057300306689
+1,"Sample 2 with Target 6 Adjusted Latency Log",3.36342393291718
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Inconsistent_Target: ",3.30584730167856
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency Log",3.32980452216407
+1,"Sample 2 with Target 14 Adjusted Latency Log",3.11193427633268
+1,"Sample 2 with Target 15 Adjusted Latency Log",3.18412335423967
+1,"Sample 2 with Target 16 Adjusted Latency Log",3.11226976841727
+1,"Sample 2 with Target 17 Adjusted Latency Log",3.33304402982349
+1,"Sample 2 with Target 18 Adjusted Latency Log",3.18440748541232
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Consistent_Target: ",3.20926390606492
+1,""
+1,"Overall Mean Log: ",3.27020292768309
+1,""
+1,"Raw Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Raw Latency",1482
+1,"Sample 1 with Target 2 Raw Latency",2153
+1,"Sample 1 with Target 3 Raw Latency",1233
+1,"Sample 1 with Target 4 Raw Latency",4040
+1,"Sample 1 with Target 5 Raw Latency",999
+1,"Sample 1 with Target 6 Raw Latency",3510
+1,"Sample 1 with Target 7 Raw Latency",0
+1,"Sample 1 with Target 8 Raw Latency",0
+1,"Sample 1 with Target 9 Raw Latency",0
+1,"Sample 1 with Target 10 Raw Latency",0
+1,"Sample 1 with Target 11 Raw Latency",0
+1,"Sample 1 with Target 12 Raw Latency",0
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Raw Latency",2059
+1,"Sample 1 with Target 14 Raw Latency",2356
+1,"Sample 1 with Target 15 Raw Latency",2246
+1,"Sample 1 with Target 16 Raw Latency",1280
+1,"Sample 1 with Target 17 Raw Latency",1872
+1,"Sample 1 with Target 18 Raw Latency",2684
+1,"Sample 1 with Target 19 Raw Latency",0
+1,"Sample 1 with Target 20 Raw Latency",0
+1,"Sample 1 with Target 21 Raw Latency",0
+1,"Sample 1 with Target 22 Raw Latency",0
+1,"Sample 1 with Target 23 Raw Latency",0
+1,"Sample 1 with Target 24 Raw Latency",0
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Raw Latency",1170
+1,"Sample 2 with Target 2 Raw Latency",1482
+1,"Sample 2 with Target 3 Raw Latency",3322
+1,"Sample 2 with Target 4 Raw Latency",2371
+1,"Sample 2 with Target 5 Raw Latency",2402
+1,"Sample 2 with Target 6 Raw Latency",2309
+1,"Sample 2 with Target 7 Raw Latency",0
+1,"Sample 2 with Target 8 Raw Latency",0
+1,"Sample 2 with Target 9 Raw Latency",0
+1,"Sample 2 with Target 10 Raw Latency",0
+1,"Sample 2 with Target 11 Raw Latency",0
+1,"Sample 2 with Target 12 Raw Latency",0
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Raw Latency",2137
+1,"Sample 2 with Target 14 Raw Latency",1294
+1,"Sample 2 with Target 15 Raw Latency",1528
+1,"Sample 2 with Target 16 Raw Latency",1295
+1,"Sample 2 with Target 17 Raw Latency",2153
+1,"Sample 2 with Target 18 Raw Latency",1529
+1,"Sample 2 with Target 19 Raw Latency",0
+1,"Sample 2 with Target 20 Raw Latency",0
+1,"Sample 2 with Target 21 Raw Latency",0
+1,"Sample 2 with Target 22 Raw Latency",0
+1,"Sample 2 with Target 23 Raw Latency",0
+1,"Sample 2 with Target 24 Raw Latency",0
+1,""
+1,"Raw Mean Latency for Sample1 with Consistent Target: ",2236.16666666667
+1,"Raw Mean Latency for Sample1 with Inconsistent Target: ",2082.83333333333
+1,"Raw Mean Latency for Sample2 with Consistent Target: ",1656
+1,"Raw Mean Latency for Sample2 with Inconsistent Target: ",2176
+1,""
+1,"Overall Raw Mean Latency: ",2037.75
+1,""
+1,"Subject Name: ","7"
+1,"THIRD TEST BLOCK -- INCONSISTENT RELATIONAL RESPONSES"
+1,"Time To Read Instructions: ",3868.99999999991
+1,"Trial Number","Sample","Target Stimulus","Response","Latency","Accuracy"
+1,1,"   ","1           ","Shape          ","Circle              ","Left: False  Right: True           ","1575       ","Correct",""
+1,1,"   ","2           ","Colour          ","Red              ","Left: False  Right: True           ","998       ","Correct",""
+1,1,"   ","3           ","Shape          ","Square              ","Left: False  Right: True           ","1919       ","Correct",""
+1,1,"   ","4           ","Shape          ","Square              ","Left: True  Right: False           ","2293       ","Correct",""
+1,1,"   ","5           ","Shape          ","Triangle              ","Left: True  Right: False           ","1061       ","Correct",""
+1,1,"   ","6           ","Shape          ","Blue              ","Left: False  Right: True           ","1498       ","Correct",""
+1,1,"   ","7           ","Shape          ","Red              ","Left: True  Right: False           ","1622       ","Correct",""
+1,1,"   ","8           ","Shape          ","Circle              ","Left: False  Right: True           ","1762       ","Correct",""
+1,1,"   ","9           ","Colour          ","Green              ","Left: False  Right: True           ","2621       ","Correct",""
+1,1,"   ","10           ","Shape          ","Blue              ","Left: False  Right: True           ","1498       ","Correct",""
+1,1,"   ","11           ","Colour          ","Triangle              ","Left: True  Right: False           ","1560       ","Correct",""
+1,1,"   ","12           ","Colour          ","Square              ","Left: True  Right: False           ","2059       ","Correct",""
+1,1,"   ","13           ","Colour          ","Circle              ","Left: True  Right: False           ","1778       ","Correct",""
+1,1,"   ","14           ","Colour          ","Blue              ","Left: False  Right: True           ","1404       ","Correct",""
+1,1,"   ","15           ","Colour          ","Circle              ","Left: False  Right: True           ","3229       ","Correct",""
+1,1,"   ","16           ","Colour          ","Triangle              ","Left: True  Right: False           ","1248       ","Correct",""
+1,1,"   ","17           ","Colour          ","Red              ","Left: False  Right: True           ","1950       ","Correct",""
+1,1,"   ","18           ","Shape          ","Red              ","Left: False  Right: True           ","1497       ","Correct",""
+1,1,"   ","19           ","Colour          ","Green              ","Left: True  Right: False           ","3853       ","Correct",""
+1,1,"   ","20           ","Colour          ","Square              ","Left: True  Right: False           ","2543       ","Correct",""
+1,1,"   ","21           ","Shape          ","Green              ","Left: True  Right: False           ","1326       ","Correct",""
+1,1,"   ","22           ","Shape          ","Green              ","Left: False  Right: True           ","1326       ","Correct",""
+1,1,"   ","23           ","Shape          ","Triangle              ","Left: True  Right: False           ","5382       ","Wrong",""
+1,1,"   ","24           ","Colour          ","Blue              ","Left: False  Right: True           ","1872       ","Correct",""
+1,1,""
+1,"Adjusted Reaction Times"
+1,"   ","1           ",1575
+1,1,"   ","2           ",998
+1,1,"   ","3           ",1919
+1,1,"   ","4           ",2293
+1,1,"   ","5           ",1061
+1,1,"   ","6           ",1498
+1,1,"   ","7           ",1622
+1,1,"   ","8           ",1762
+1,1,"   ","9           ",2621
+1,1,"   ","10           ",1498
+1,1,"   ","11           ",1560
+1,1,"   ","12           ",2059
+1,1,"   ","13           ",1778
+1,1,"   ","14           ",1404
+1,1,"   ","15           ",3000
+1,1,"   ","16           ",1248
+1,1,"   ","17           ",1950
+1,1,"   ","18           ",1497
+1,1,"   ","19           ",3000
+1,1,"   ","20           ",2543
+1,1,"   ","21           ",1326
+1,1,"   ","22           ",1326
+1,1,"   ","23           ",3000
+1,1,"   ","24           ",1872
+1,1,""
+1,"Mean Adjusted Response Latency: ",1850.41666666667
+1,""
+1,"$Third Incon Test Block Median Latency: ",1692
+1,"$Third Incon Test Block Percent Correct: ",96
+1,""
+1,"Trials listed in order of presentation separately for each trial-type"
+1,"Test3 Inconsistent Sample1-Consistent:"
+1,"Red   ",998
+1,"Green   ",2621
+1,"Blue   ",1404
+1,"Red   ",1950
+1,"Green   ",3853
+1,"Blue   ",1872
+1,"Test3 Inconsistent Sample1-Inconsistent:"
+1,"Triangle   ",1560
+1,"Square   ",2059
+1,"Circle   ",1778
+1,"Circle   ",3229
+1,"Triangle   ",1248
+1,"Square   ",2543
+1,"Test3 Inconsistent Sample2-Inconsistent:"
+1,"Blue   ",1498
+1,"Red   ",1622
+1,"Blue   ",1498
+1,"Red   ",1497
+1,"Green   ",1326
+1,"Green   ",1326
+1,"Test3 Inconsistent Sample2-Consistent:"
+1,"Circle   ",1575
+1,"Square   ",1919
+1,"Square   ",2293
+1,"Triangle   ",1061
+1,"Circle   ",1762
+1,"Triangle   ",5382
+1,1,""
+1,"Adjusted Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency",998
+1,"Sample 1 with Target 2 Adjusted Latency",1404
+1,"Sample 1 with Target 3 Adjusted Latency",2621
+1,"Sample 1 with Target 4 Adjusted Latency",1950
+1,"Sample 1 with Target 5 Adjusted Latency",1872
+1,"Sample 1 with Target 6 Adjusted Latency",3000
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency",1778
+1,"Sample 1 with Target 14 Adjusted Latency",2543
+1,"Sample 1 with Target 15 Adjusted Latency",1560
+1,"Sample 1 with Target 16 Adjusted Latency",3000
+1,"Sample 1 with Target 17 Adjusted Latency",2059
+1,"Sample 1 with Target 18 Adjusted Latency",1248
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency",1497
+1,"Sample 2 with Target 2 Adjusted Latency",1498
+1,"Sample 2 with Target 3 Adjusted Latency",1326
+1,"Sample 2 with Target 4 Adjusted Latency",1622
+1,"Sample 2 with Target 5 Adjusted Latency",1498
+1,"Sample 2 with Target 6 Adjusted Latency",1326
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency",1575
+1,"Sample 2 with Target 14 Adjusted Latency",1919
+1,"Sample 2 with Target 15 Adjusted Latency",3000
+1,"Sample 2 with Target 16 Adjusted Latency",1762
+1,"Sample 2 with Target 17 Adjusted Latency",2293
+1,"Sample 2 with Target 18 Adjusted Latency",1061
+1,""
+1,"Adjusted Mean for Sample1 with Consistent Target: ",1974.16666666667
+1,"Adjusted Mean for Sample1 with Inconsistent Target: ",2031.33333333333
+1,"Adjusted Mean for Sample2 with Consistent Target: ",1935
+1,"Adjusted Mean for Sample2 with Inconsistent Target: ",1461.16666666667
+1,""
+1,""
+1,"Adjusted Latencies Transformed to Logs for Statistical Analysis"
+1,""
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Adjusted Latency Log",2.99913054128737
+1,"Sample 1 with Target 2 Adjusted Latency Log",3.14736710779379
+1,"Sample 1 with Target 3 Adjusted Latency Log",3.4184670209466
+1,"Sample 1 with Target 4 Adjusted Latency Log",3.29003461136252
+1,"Sample 1 with Target 5 Adjusted Latency Log",3.27230584440209
+1,"Sample 1 with Target 6 Adjusted Latency Log",3.47712125471966
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Consistent_Target: ",3.267404396752
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Adjusted Latency Log",3.24993175663419
+1,"Sample 1 with Target 14 Adjusted Latency Log",3.40534636017571
+1,"Sample 1 with Target 15 Adjusted Latency Log",3.19312459835446
+1,"Sample 1 with Target 16 Adjusted Latency Log",3.47712125471966
+1,"Sample 1 with Target 17 Adjusted Latency Log",3.31365634661803
+1,"Sample 1 with Target 18 Adjusted Latency Log",3.0962145853464
+1,""
+1,"Mean Adjusted Latency Log for Sample 1 with Inconsistent_Target: ",3.28923248364141
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Adjusted Latency Log",3.17522180034305
+1,"Sample 2 with Target 2 Adjusted Latency Log",3.17551181336345
+1,"Sample 2 with Target 3 Adjusted Latency Log",3.12254352406875
+1,"Sample 2 with Target 4 Adjusted Latency Log",3.21005084987514
+1,"Sample 2 with Target 5 Adjusted Latency Log",3.17551181336345
+1,"Sample 2 with Target 6 Adjusted Latency Log",3.12254352406875
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Inconsistent_Target: ",3.16356388751377
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Adjusted Latency Log",3.19728055812562
+1,"Sample 2 with Target 14 Adjusted Latency Log",3.28307497473547
+1,"Sample 2 with Target 15 Adjusted Latency Log",3.47712125471966
+1,"Sample 2 with Target 16 Adjusted Latency Log",3.24600590407603
+1,"Sample 2 with Target 17 Adjusted Latency Log",3.36040405472994
+1,"Sample 2 with Target 18 Adjusted Latency Log",3.02571538390134
+1,""
+1,"Mean Adjusted Latency Log for Sample 2 with Consistent_Target: ",3.26493368838134
+1,""
+1,"Overall Mean Log: ",3.24628361407213
+1,""
+1,"Raw Reaction Times for Each Trial Type"
+1,""
+1,"Sample 1 with Consistent Targets:"
+1,"Sample 1 with Target 1 Raw Latency",998
+1,"Sample 1 with Target 2 Raw Latency",1404
+1,"Sample 1 with Target 3 Raw Latency",2621
+1,"Sample 1 with Target 4 Raw Latency",1950
+1,"Sample 1 with Target 5 Raw Latency",1872
+1,"Sample 1 with Target 6 Raw Latency",3853
+1,"Sample 1 with Target 7 Raw Latency",0
+1,"Sample 1 with Target 8 Raw Latency",0
+1,"Sample 1 with Target 9 Raw Latency",0
+1,"Sample 1 with Target 10 Raw Latency",0
+1,"Sample 1 with Target 11 Raw Latency",0
+1,"Sample 1 with Target 12 Raw Latency",0
+1,""
+1,"Sample 1 with Inconsistent Targets:"
+1,"Sample 1 with Target 13 Raw Latency",1778
+1,"Sample 1 with Target 14 Raw Latency",2543
+1,"Sample 1 with Target 15 Raw Latency",1560
+1,"Sample 1 with Target 16 Raw Latency",3229
+1,"Sample 1 with Target 17 Raw Latency",2059
+1,"Sample 1 with Target 18 Raw Latency",1248
+1,"Sample 1 with Target 19 Raw Latency",0
+1,"Sample 1 with Target 20 Raw Latency",0
+1,"Sample 1 with Target 21 Raw Latency",0
+1,"Sample 1 with Target 22 Raw Latency",0
+1,"Sample 1 with Target 23 Raw Latency",0
+1,"Sample 1 with Target 24 Raw Latency",0
+1,""
+1,"Sample 2 with Inconsistent Targets:"
+1,"Sample 2 with Target 1 Raw Latency",1497
+1,"Sample 2 with Target 2 Raw Latency",1498
+1,"Sample 2 with Target 3 Raw Latency",1326
+1,"Sample 2 with Target 4 Raw Latency",1622
+1,"Sample 2 with Target 5 Raw Latency",1498
+1,"Sample 2 with Target 6 Raw Latency",1326
+1,"Sample 2 with Target 7 Raw Latency",0
+1,"Sample 2 with Target 8 Raw Latency",0
+1,"Sample 2 with Target 9 Raw Latency",0
+1,"Sample 2 with Target 10 Raw Latency",0
+1,"Sample 2 with Target 11 Raw Latency",0
+1,"Sample 2 with Target 12 Raw Latency",0
+1,""
+1,"Sample 2 with Consistent Targets:"
+1,"Sample 2 with Target 13 Raw Latency",1575
+1,"Sample 2 with Target 14 Raw Latency",1919
+1,"Sample 2 with Target 15 Raw Latency",5382
+1,"Sample 2 with Target 16 Raw Latency",1762
+1,"Sample 2 with Target 17 Raw Latency",2293
+1,"Sample 2 with Target 18 Raw Latency",1061
+1,"Sample 2 with Target 19 Raw Latency",0
+1,"Sample 2 with Target 20 Raw Latency",0
+1,"Sample 2 with Target 21 Raw Latency",0
+1,"Sample 2 with Target 22 Raw Latency",0
+1,"Sample 2 with Target 23 Raw Latency",0
+1,"Sample 2 with Target 24 Raw Latency",0
+1,""
+1,"Raw Mean Latency for Sample1 with Consistent Target: ",2116.33333333333
+1,"Raw Mean Latency for Sample1 with Inconsistent Target: ",2069.5
+1,"Raw Mean Latency for Sample2 with Consistent Target: ",2332
+1,"Raw Mean Latency for Sample2 with Inconsistent Target: ",1461.16666666667
+1,""
+1,"Overall Raw Mean Latency: ",1994.75
+1,""
+1,""
+1,""
+1,""
+1,"Test Block Raw Latencies Arranged According to Trial-Type: "
+1,""
+1,"Consistent Test Block 1:"
+1,"Sample 1 Consistent Targets:"
+1,1123
+1,2730
+1,2481
+1,1264
+1,983
+1,1357
+1,"Sample 1 Inconsistent Targets:"
+1,3478
+1,5741
+1,3011
+1,1997
+1,1965
+1,1888
+1,"Sample 2 Inconsistent Targets:"
+1,1139
+1,3853
+1,1451
+1,3136
+1,1389
+1,1123
+1,"Sample 2 Consistent Targets:"
+1,1514
+1,1373
+1,1498
+1,3073
+1,2215
+1,4337
+1,""
+1,"Inconsistent Test Block 1:"
+1,"Sample 1 Consistent Targets:"
+1,2387
+1,4306
+1,1778
+1,1077
+1,999
+1,2184
+1,"Sample 1 Inconsistent Targets:"
+1,4243
+1,1779
+1,4820
+1,1841
+1,7847
+1,2152
+1,"Sample 2 Inconsistent Targets:"
+1,1638
+1,2247
+1,4960
+1,1497
+1,1935
+1,3135
+1,"Sample 2 Consistent Targets:"
+1,1498
+1,3105
+1,2278
+1,1467
+1,1124
+1,6849
+1,""
+1,"Consistent Test Block 2:"
+1,"Sample 1 Consistent Targets:"
+1,3136
+1,1545
+1,1716
+1,1529
+1,1326
+1,1575
+1,"Sample 1 Inconsistent Targets:"
+1,4852
+1,4368
+1,2699
+1,1591
+1,1232
+1,3151
+1,"Sample 2 Inconsistent Targets:"
+1,1670
+1,2496
+1,1778
+1,1653
+1,1061
+1,5289
+1,"Sample 2 Consistent Targets:"
+1,3947
+1,2309
+1,1217
+1,3478
+1,3463
+1,780
+1,""
+1,"Inconsistent Test Block 2:"
+1,"Sample 1 Consistent Targets:"
+1,1467
+1,2621
+1,1856
+1,2230
+1,1373
+1,1326
+1,"Sample 1 Inconsistent Targets:"
+1,2512
+1,2153
+1,2761
+1,1794
+1,4461
+1,1701
+1,"Sample 2 Inconsistent Targets:"
+1,3962
+1,1638
+1,2683
+1,1544
+1,1778
+1,1155
+1,"Sample 2 Consistent Targets:"
+1,1545
+1,4352
+1,3339
+1,1888
+1,1342
+1,1123
+1,""
+1,"Consistent Test Block 3:"
+1,"Sample 1 Consistent Targets:"
+1,1482
+1,2153
+1,1233
+1,4040
+1,999
+1,3510
+1,"Sample 1 Inconsistent Targets:"
+1,2059
+1,2356
+1,2246
+1,1280
+1,1872
+1,2684
+1,"Sample 2 Inconsistent Targets:"
+1,1170
+1,1482
+1,3322
+1,2371
+1,2402
+1,2309
+1,"Sample 2 Consistent Targets:"
+1,2137
+1,1294
+1,1528
+1,1295
+1,2153
+1,1529
+1,""
+1,"Inconsistent Test Block 3:"
+1,"Sample 1 Consistent Targets:"
+1,998
+1,1404
+1,2621
+1,1950
+1,1872
+1,3853
+1,"Sample 1 Inconsistent Targets:"
+1,1778
+1,2543
+1,1560
+1,3229
+1,2059
+1,1248
+1,"Sample 2 Inconsistent Targets:"
+1,1497
+1,1498
+1,1326
+1,1622
+1,1498
+1,1326
+1,"Sample 2 Consistent Targets:"
+1,1575
+1,1919
+1,5382
+1,1762
+1,2293
+1,1061
+1,""
+1,""
+1,"********************************************************************"
+1,"********************************************************************"
+1,""
+1,""
+1,"In the following data all D scores are calculated using Cohen's"
+1,"   pooled standard deviations, not Greenwald's regular SD."
+1,"         Greenwald's D scores are reported subsequently"
+1,""
+1,""
+1,"********************************************************************"
+1,"********************************************************************"
+1,""
+1,""
+1,""
+1,""
+1,""
+1,"Raw Mean Latencies (Latencies > 10,000 Removed)"
+1,"Mean_Con_Test1_Sample1_Con: ",1656.33333333333
+1,"Mean_Con_Test1_Sample1_Incon: ",3013.33333333333
+1,"Mean_Con_Test1_Sample2_Incon: ",2015.16666666667
+1,"Mean_Con_Test1_Sample2_Con: ",2335
+1,""
+1,"Mean_Incon_Test1_Sample1_Con: ",2121.83333333333
+1,"Mean_Incon_Test1_Sample1_Incon: ",3780.33333333333
+1,"Mean_Incon_Test1_Sample2_Incon: ",2568.66666666667
+1,"Mean_Incon_Test1_Sample2_Con: ",2720.16666666667
+1,""
+1,"Mean_Con_Test2_Sample1_Con: ",1804.5
+1,"Mean_Con_Test2_Sample1_Incon: ",2982.16666666667
+1,"Mean_Con_Test2_Sample2_Incon: ",2324.5
+1,"Mean_Con_Test2_Sample2_Con: ",2532.33333333333
+1,""
+1,"Mean_Incon_Test2_Sample1_Con: ",1812.16666666667
+1,"Mean_Incon_Test2_Sample1_Incon: ",2563.66666666667
+1,"Mean_Incon_Test2_Sample2_Incon: ",2126.66666666667
+1,"Mean_Incon_Test2_Sample2_Con: ",2264.83333333333
+1,""
+1,"Mean_Con_Test3_Sample1_Con: ",2236.16666666667
+1,"Mean_Con_Test3_Sample1_Incon: ",2082.83333333333
+1,"Mean_Con_Test3_Sample2_Incon: ",2176
+1,"Mean_Con_Test3_Sample2_Con: ",1656
+1,""
+1,"Mean_Incon_Test3_Sample1_Con: ",2116.33333333333
+1,"Mean_Incon_Test3_Sample1_Incon: ",2069.5
+1,"Mean_Incon_Test3_Sample2_Incon: ",1461.16666666667
+1,"Mean_Incon_Test3_Sample2_Con: ",2332
+1,""
+1,""
+1,""
+1,"Con_Test1_Sample1_Con: "
+1,"Sum: ",9938
+1,"Mean: ",1656.33333333333
+1,"Sum of Squares: ",2814183.33333333
+1,"Variance: ",562836.666666667
+1,"Standard Deviation: ",750.224410870952
+1,""
+1,""
+1,""
+1,"Con_Test1_Sample1_Incon: "
+1,"Sum: ",18080
+1,"Mean: ",3013.33333333333
+1,"Sum of Squares: ",11054397.3333333
+1,"Variance: ",2210879.46666667
+1,"Standard Deviation: ",1486.90264195968
+1,""
+1,""
+1,""
+1,"Con_Test1_Sample2_Incon: "
+1,"Sum: ",12091
+1,"Mean: ",2015.16666666667
+1,"Sum of Squares: ",6907896.83333333
+1,"Variance: ",1381579.36666667
+1,"Standard Deviation: ",1175.40604331723
+1,""
+1,""
+1,""
+1,"Con_Test1_Sample2_Con: "
+1,"Sum: ",14010
+1,"Mean: ",2335
+1,"Sum of Squares: ",6867102
+1,"Variance: ",1373420.4
+1,"Standard Deviation: ",1171.9302026998
+1,""
+1,""
+1,""
+1,"Incon_Test1_Sample1_Con: "
+1,"Sum: ",12731
+1,"Mean: ",2121.83333333333
+1,"Sum of Squares: ",7315414.83333333
+1,"Variance: ",1463082.96666667
+1,"Standard Deviation: ",1209.57966528322
+1,""
+1,""
+1,""
+1,"Incon_Test1_Sample1_Incon: "
+1,"Sum: ",22682
+1,"Mean: ",3780.33333333333
+1,"Sum of Squares: ",28250563.3333333
+1,"Variance: ",5650112.66666667
+1,"Standard Deviation: ",2376.99656429425
+1,""
+1,""
+1,""
+1,"Incon_Test1_Sample2_Incon: "
+1,"Sum: ",15412
+1,"Mean: ",2568.66666666667
+1,"Sum of Squares: ",8558821.33333333
+1,"Variance: ",1711764.26666667
+1,"Standard Deviation: ",1308.34409337401
+1,""
+1,""
+1,""
+1,"Incon_Test1_Sample2_Con: "
+1,"Sum: ",16321
+1,"Mean: ",2720.16666666667
+1,"Sum of Squares: ",23002738.8333333
+1,"Variance: ",4600547.76666667
+1,"Standard Deviation: ",2144.88875391398
+1,""
+1,""
+1,""
+1,"Con_Test2_Sample1_Con: "
+1,"Sum: ",10827
+1,"Mean: ",1804.5
+1,"Sum of Squares: ",2205597.5
+1,"Variance: ",441119.5
+1,"Standard Deviation: ",664.16827686965
+1,""
+1,""
+1,""
+1,"Con_Test2_Sample1_Incon: "
+1,"Sum: ",17893
+1,"Mean: ",2982.16666666667
+1,"Sum of Squares: ",10523926.8333333
+1,"Variance: ",2104785.36666667
+1,"Standard Deviation: ",1450.78784343772
+1,""
+1,""
+1,""
+1,"Con_Test2_Sample2_Incon: "
+1,"Sum: ",13947
+1,"Mean: ",2324.5
+1,"Sum of Squares: ",11592049.5
+1,"Variance: ",2318409.9
+1,"Standard Deviation: ",1522.6325558059
+1,""
+1,""
+1,""
+1,"Con_Test2_Sample2_Con: "
+1,"Sum: ",15194
+1,"Mean: ",2532.33333333333
+1,"Sum of Squares: ",8612359.33333333
+1,"Variance: ",1722471.86666667
+1,"Standard Deviation: ",1312.4297568505
+1,""
+1,""
+1,""
+1,"Incon_Test2_Sample1_Con: "
+1,"Sum: ",10873
+1,"Mean: ",1812.16666666667
+1,"Sum of Squares: ",1379082.83333333
+1,"Variance: ",275816.566666667
+1,"Standard Deviation: ",525.182412754527
+1,""
+1,""
+1,""
+1,"Incon_Test2_Sample1_Incon: "
+1,"Sum: ",15382
+1,"Mean: ",2563.66666666667
+1,"Sum of Squares: ",5146711.33333333
+1,"Variance: ",1029342.26666667
+1,"Standard Deviation: ",1014.56506280606
+1,""
+1,""
+1,""
+1,"Incon_Test2_Sample2_Incon: "
+1,"Sum: ",12760
+1,"Mean: ",2126.66666666667
+1,"Sum of Squares: ",5321955.33333333
+1,"Variance: ",1064391.06666667
+1,"Standard Deviation: ",1031.69330067936
+1,""
+1,""
+1,""
+1,"Incon_Test2_Sample2_Con: "
+1,"Sum: ",13589
+1,"Mean: ",2264.83333333333
+1,"Sum of Squares: ",8325666.83333333
+1,"Variance: ",1665133.36666667
+1,"Standard Deviation: ",1290.4004675552
+1,""
+1,""
+1,""
+1,"Con_Test3_Sample1_Con: "
+1,"Sum: ",13417
+1,"Mean: ",2236.16666666667
+1,"Sum of Squares: ",7989074.83333333
+1,"Variance: ",1597814.96666667
+1,"Standard Deviation: ",1264.04705872316
+1,""
+1,""
+1,""
+1,"Con_Test3_Sample1_Incon: "
+1,"Sum: ",12497
+1,"Mean: ",2082.83333333333
+1,"Sum of Squares: ",1152204.83333333
+1,"Variance: ",230440.966666667
+1,"Standard Deviation: ",480.042671714366
+1,""
+1,""
+1,""
+1,"Con_Test3_Sample2_Incon: "
+1,"Sum: ",13056
+1,"Mean: ",2176
+1,"Sum of Squares: ",2913778
+1,"Variance: ",582755.6
+1,"Standard Deviation: ",763.384306886119
+1,""
+1,""
+1,""
+1,"Con_Test3_Sample2_Con: "
+1,"Sum: ",9936
+1,"Mean: ",1656
+1,"Sum of Squares: ",772248
+1,"Variance: ",154449.6
+1,"Standard Deviation: ",393.000763358037
+1,""
+1,""
+1,""
+1,"Incon_Test3_Sample1_Con: "
+1,"Sum: ",12698
+1,"Mean: ",2116.33333333333
+1,"Sum of Squares: ",5116153.33333333
+1,"Variance: ",1023230.66666667
+1,"Standard Deviation: ",1011.54864770147
+1,""
+1,""
+1,""
+1,"Incon_Test3_Sample1_Incon: "
+1,"Sum: ",12417
+1,"Mean: ",2069.5
+1,"Sum of Squares: ",2588177.5
+1,"Variance: ",517635.5
+1,"Standard Deviation: ",719.468901343206
+1,""
+1,""
+1,""
+1,"Incon_Test3_Sample2_Incon: "
+1,"Sum: ",8767
+1,"Mean: ",1461.16666666667
+1,"Sum of Squares: ",66404.8333333333
+1,"Variance: ",13280.9666666667
+1,"Standard Deviation: ",115.243076437011
+1,""
+1,""
+1,""
+1,"Incon_Test3_Sample2_Con: "
+1,"Sum: ",13992
+1,"Mean: ",2332
+1,"Sum of Squares: ",11987980
+1,"Variance: ",2397596
+1,"Standard Deviation: ",1548.4172564267
+1,""
+1,""
+1,""
+1,"Pooled standard deviations for each trial-type calculated across"
+1,"each pair of consistent and inconsistent test blocks."
+1,""
+1,"Pooled SD for First Pair of Test Blocks for Sample1 with Con Targets:"
+1,1006.45904867842
+1,""
+1,"Pooled SD for First Pair of Test Blocks for Sample1 with Incon Targets:"
+1,1982.5478724779
+1,""
+1,"Pooled SD for First Pair of Test Blocks for Sample2 with Incon Targets:"
+1,1243.65261092745
+1,""
+1,"Pooled SD for First Pair of Test Blocks for Sample2 with Con Targets:"
+1,1728.28935173869
+1,""
+1,""
+1,"Pooled SD for Second Pair of Test Blocks for Sample1 with Con Targets:"
+1,598.722000041199
+1,""
+1,"Pooled SD for Second Pair of Test Blocks for Sample1 with Incon Targets:"
+1,1251.82419559085
+1,""
+1,"Pooled SD for Second Pair of Test Blocks for Sample2 with Incon Targets:"
+1,1300.5385358894
+1,""
+1,"Pooled SD for Second Pair of Test Blocks for Sample2 with Con Targets:"
+1,1301.46172308934
+1,""
+1,""
+1,"Pooled SD for Third Pair of Test Blocks for Sample1 with Con Targets:"
+1,1144.78068496401
+1,""
+1,"Pooled SD for Third Pair of Test Blocks for Sample1 with Incon Targets:"
+1,611.586652350534
+1,""
+1,"Pooled SD for Third Pair of Test Blocks for Sample2 with Incon Targets:"
+1,545.910508539022
+1,""
+1,"Pooled SD for Third Pair of Test Blocks for Sample2 with Con Targets:"
+1,1129.61179172316
+1,""
+1,""
+1,""
+1,"Difference Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"First Consistent Test Block Subtracted from First Inconsistent Test Block"
+1,"Sample1_Consistent Target: ",465.5
+1,"Sample1_Inconsistent Target: ",767
+1,"Sample2_Inconsistent Target: ",553.5
+1,"Sample2_Consistent Target: ",385.166666666667
+1,""
+1,"Second Consistent Test Block Subtracted from Second Inconsistent Test Block"
+1,"Sample1_Consistent Target: ",7.66666666666674
+1,"Sample1_Inconsistent Target: ",-418.5
+1,"Sample2_Inconsistent Target: ",-197.833333333333
+1,"Sample2_Consistent Target: ",-267.5
+1,""
+1,"Third Consistent Test Block Subtracted from Third Inconsistent Test Block"
+1,"Sample1_Consistent Target: ",-119.833333333333
+1,"Sample1_Inconsistent Target: ",-13.3333333333335
+1,"Sample2_Inconsistent Target: ",-714.833333333333
+1,"Sample2_Consistent Target: ",676
+1,""
+1,""
+1,""
+1,"D-IRAP Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"First Consistent Test Block Subtracted from First Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Sample1_Consistent Target: ",.462512608547013
+1,"Sample1_Inconsistent Target: ",.386875903804208
+1,"Sample2_Inconsistent Target: ",.445059975057849
+1,"Sample2_Consistent Target: ",.222860058866406
+1,""
+1,"Second Consistent Test Block Subtracted from Second Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Sample1_Consistent Target: ",1.28050525388063E-02
+1,"Sample1_Inconsistent Target: ",-.334312119444594
+1,"Sample2_Inconsistent Target: ",-.152116471656906
+1,"Sample2_Consistent Target: ",-.205538123215044
+1,""
+1,"Third Consistent Test Block Subtracted from Third Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Sample1_Consistent Target: ",-.104677983221826
+1,"Sample1_Inconsistent Target: ",-2.18012170182083E-02
+1,"Sample2_Inconsistent Target: ",-1.3094331802595
+1,"Sample2_Consistent Target: ",.598435679366273
+1,""
+1,""
+1,""
+1,"$Overall D-IRAP Scores For Each Trial-Type:"
+1,"The 3 D-IRAP scores for each trial-type are summed and divided by 3"
+1,""
+1,"Sample1_Consistent Target: ",.123546559287998
+1,"Sample1_Inconsistent Target: ",1.02541891138019E-02
+1,"Sample2_Inconsistent Target: ",-.338829892286187
+1,"Sample2_Consistent Target: ",.205252538339212
+1,""
+1,""
+1,""
+1,"Overall D-IRAP Scores For Each Pair of Con and Incon Test Blocks:"
+1,"The 4 D-IRAP scores from each block are summed and divided by 4"
+1,""
+1,"First Con and Incon Test Block Pair: ",.379327136568869
+1,"Second Con and Incon Test Block Pair: ",-.169790415444435
+1,"Third Con and Incon Test Block Pair: ",-.209369175283316
+1,""
+1,""
+1,""
+1,"Final Overall D-IRAP Score:"
+1,"The 12 D-IRAP scores for each trial-type per testing block are summed and divided by 12: ",5.58486137061618E-05
+1,""
+1,""
+1,""
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,""
+1,""
+1,""
+1,""
+1,""
+1,""
+1,"Odd and even trials listed in order of presentation separately for each"
+1,"trial-type and test block. This facilitates calculation of split-half"
+1,"reliability. First, calculate separate mean latencies for odd and then"
+1,"even trials for each trial-type within each block (i.e., 2 blocks = 16"
+1,"means; 4 blocks = 32 means; 6 blocks = 48 means.) Difference scores* can"
+1,"then be calculated for each pair of consistent and inconsistent blocks"
+1,"for each trial type for both odd and even trials (i.e., 2 blocks = 8"
+1,"difference scores; 4 blocks = 16 difference scores; 6 blocks = 24"
+1,"difference scores). Each participant thus provides pairs of difference"
+1,"scores (one from odd trials and the other from even trials) for the same"
+1,"trial-types and same pairs of test blocks. These pairs of difference"
+1,"scores may be correlated using a Spearman-Brown correction (2 Blocks = 4"
+1,"correlations, one for each trial=type; 4 Blocks = 8 correlations, one for"
+1,"each trial type for each pair of test blocks; 6 Blocks = 12 correlations,"
+1,"one for each trial-type for each pair of test blocks). Each correlation"
+1,"thus provides a split-half reliability measure for a particular"
+1,"trial-type for each pair of test blocks."
+1,""
+1,"*The difference scores may be calculated from 300-3000 adjusted latencies"
+1,"or by calculating separate D measures for odd and even trials in the same"
+1,"way that single D scores were calculated above for the odd and even trials"
+1,"combined."
+1,""
+1,"This method of calculating split-half reliability was derived from:"
+1,"De Houwer, J., & De Bruycker, E. (in press). The Implicit Association"
+1,"Test outperforms the Extrinsic Affective Simon Task as an implicit"
+1,"measure of interindividual differences in attitudes. British Journal of"
+1,"Social Psychology."
+1,""
+1,""
+1,""
+1,"Raw Latencies"
+1,""
+1,"Even Trials for Sample1-Consistent:"
+1,""
+1,"First Con Block"
+1,"Blue   ",2730
+1,"Green   ",1357
+1,"Red   ",1264
+1,""
+1,"First Incon Block"
+1,"Green   ",1778
+1,"Blue   ",4306
+1,"Green   ",2184
+1,""
+1,"Second Con Block"
+1,"Red   ",3136
+1,"Blue   ",1545
+1,"Green   ",1575
+1,""
+1,"Second Incon Block"
+1,"Blue   ",2621
+1,"Red   ",1467
+1,"Red   ",2230
+1,""
+1,"Third Con Block"
+1,"Red   ",4040
+1,"Blue   ",999
+1,"Green   ",3510
+1,""
+1,"Third Incon Block"
+1,"Green   ",2621
+1,"Red   ",1950
+1,"Blue   ",1872
+1,""
+1,"Odd Trials for Sample1-Consistent:"
+1,""
+1,"First Con Block"
+1,"Green   ",2481
+1,"Red   ",1123
+1,"Blue   ",983
+1,""
+1,"First Incon Block"
+1,"Red   ",2387
+1,"Red   ",1077
+1,"Blue   ",999
+1,""
+1,"Second Con Block"
+1,"Green   ",1716
+1,"Red   ",1529
+1,"Blue   ",1326
+1,""
+1,"Second Incon Block"
+1,"Green   ",1856
+1,"Blue   ",1373
+1,"Green   ",1326
+1,""
+1,"Third Con Block"
+1,"Red   ",1482
+1,"Green   ",1233
+1,"Blue   ",2153
+1,""
+1,"Third Incon Block"
+1,"Red   ",998
+1,"Blue   ",1404
+1,"Green   ",3853
+1,""
+1,"Even Trials for Sample1-Inconsistent:"
+1,""
+1,"First Con Block"
+1,"Square   ",1965
+1,"Triangle   ",1888
+1,"Circle   ",1997
+1,""
+1,"First Incon Block"
+1,"Circle   ",4243
+1,"Square   ",7847
+1,"Circle   ",1841
+1,""
+1,"Second Con Block"
+1,"Circle   ",4852
+1,"Triangle   ",3151
+1,"Circle   ",1591
+1,""
+1,"Second Incon Block"
+1,"Triangle   ",2761
+1,"Circle   ",1794
+1,"Triangle   ",1701
+1,""
+1,"Third Con Block"
+1,"Triangle   ",2246
+1,"Circle   ",1280
+1,"Triangle   ",2684
+1,""
+1,"Third Incon Block"
+1,"Square   ",2059
+1,"Circle   ",3229
+1,"Square   ",2543
+1,""
+1,"Odd Trials for Sample1-Inconsistent:"
+1,""
+1,"First Con Block"
+1,"Triangle   ",3011
+1,"Circle   ",3478
+1,"Square   ",5741
+1,""
+1,"First Incon Block"
+1,"Square   ",1779
+1,"Triangle   ",4820
+1,"Triangle   ",2152
+1,""
+1,"Second Con Block"
+1,"Square   ",4368
+1,"Triangle   ",2699
+1,"Square   ",1232
+1,""
+1,"Second Incon Block"
+1,"Square   ",2153
+1,"Circle   ",2512
+1,"Square   ",4461
+1,""
+1,"Third Con Block"
+1,"Circle   ",2059
+1,"Square   ",2356
+1,"Square   ",1872
+1,""
+1,"Third Incon Block"
+1,"Triangle   ",1560
+1,"Circle   ",1778
+1,"Triangle   ",1248
+1,""
+1,"Even Trials for Sample2-Inconsistent:"
+1,""
+1,"First Con Block"
+1,"Green   ",1123
+1,"Blue   ",1389
+1,"Red   ",3136
+1,""
+1,"First Incon Block"
+1,"Red   ",1638
+1,"Blue   ",2247
+1,"Blue   ",1935
+1,""
+1,"Second Con Block"
+1,"Red   ",1670
+1,"Blue   ",1061
+1,"Green   ",5289
+1,""
+1,"Second Incon Block"
+1,"Blue   ",1638
+1,"Red   ",1544
+1,"Green   ",1155
+1,""
+1,"Third Con Block"
+1,"Green   ",2309
+1,"Blue   ",2402
+1,"Red   ",2371
+1,""
+1,"Third Incon Block"
+1,"Red   ",1622
+1,"Red   ",1497
+1,"Green   ",1326
+1,""
+1,"Odd Trials for Sample2-Inconsistent:"
+1,""
+1,"First Con Block"
+1,"Green   ",1451
+1,"Blue   ",3853
+1,"Red   ",1139
+1,""
+1,"First Incon Block"
+1,"Green   ",4960
+1,"Green   ",3135
+1,"Red   ",1497
+1,""
+1,"Second Con Block"
+1,"Blue   ",2496
+1,"Green   ",1778
+1,"Red   ",1653
+1,""
+1,"Second Incon Block"
+1,"Red   ",3962
+1,"Blue   ",1778
+1,"Green   ",2683
+1,""
+1,"Third Con Block"
+1,"Green   ",3322
+1,"Blue   ",1482
+1,"Red   ",1170
+1,""
+1,"Third Incon Block"
+1,"Blue   ",1498
+1,"Blue   ",1498
+1,"Green   ",1326
+1,""
+1,"Even Trials for Sample2-Consistent:"
+1,""
+1,"First Con Block"
+1,"Triangle   ",1498
+1,"Circle   ",1514
+1,"Circle   ",3073
+1,""
+1,"First Incon Block"
+1,"Square   ",3105
+1,"Square   ",1124
+1,"Triangle   ",6849
+1,""
+1,"Second Con Block"
+1,"Circle   ",3947
+1,"Triangle   ",780
+1,"Square   ",3463
+1,""
+1,"Second Incon Block"
+1,"Circle   ",1545
+1,"Triangle   ",1123
+1,"Circle   ",1888
+1,""
+1,"Third Con Block"
+1,"Square   ",1294
+1,"Circle   ",2137
+1,"Triangle   ",1529
+1,""
+1,"Third Incon Block"
+1,"Square   ",1919
+1,"Triangle   ",1061
+1,"Triangle   ",5382
+1,""
+1,"Odd Trials for Sample2-Consistent:"
+1,""
+1,"First Con Block"
+1,"Square   ",1373
+1,"Triangle   ",4337
+1,"Square   ",2215
+1,""
+1,"First Incon Block"
+1,"Circle   ",1498
+1,"Circle   ",1467
+1,"Triangle   ",2278
+1,""
+1,"Second Con Block"
+1,"Square   ",2309
+1,"Circle   ",3478
+1,"Triangle   ",1217
+1,""
+1,"Second Incon Block"
+1,"Square   ",4352
+1,"Triangle   ",3339
+1,"Square   ",1342
+1,""
+1,"Third Con Block"
+1,"Triangle   ",1528
+1,"Square   ",2153
+1,"Circle   ",1295
+1,""
+1,"Third Incon Block"
+1,"Circle   ",1575
+1,"Square   ",2293
+1,"Circle   ",1762
+1,""
+1,""
+1,""
+1,""
+1,"Adjusted (300-3000) Latencies"
+1,""
+1,"Even Trials for Sample1-Consistent:"
+1,""
+1,"First Con Block"
+1,2730
+1,1357
+1,1264
+1,""
+1,"First Incon Block"
+1,1778
+1,3000
+1,2184
+1,""
+1,"Second Con Block"
+1,3000
+1,1545
+1,1575
+1,""
+1,"Second Incon Block"
+1,2621
+1,1467
+1,2230
+1,""
+1,"Third Con Block"
+1,3000
+1,999
+1,3000
+1,""
+1,"Third Incon Block"
+1,2621
+1,1950
+1,1872
+1,""
+1,"Odd Trials for Sample1-Consistent:"
+1,""
+1,"First Con Block"
+1,2481
+1,1123
+1,983
+1,""
+1,"First Incon Block"
+1,2387
+1,1077
+1,999
+1,""
+1,"Second Con Block"
+1,1716
+1,1529
+1,1326
+1,""
+1,"Second Incon Block"
+1,1856
+1,1373
+1,1326
+1,""
+1,"Third Con Block"
+1,1482
+1,1233
+1,2153
+1,""
+1,"Third Incon Block"
+1,998
+1,1404
+1,3000
+1,""
+1,"Even Trials for Sample1-Inconsistent:"
+1,""
+1,"First Con Block"
+1,1965
+1,1888
+1,1997
+1,""
+1,"First Incon Block"
+1,3000
+1,3000
+1,1841
+1,""
+1,"Second Con Block"
+1,3000
+1,3000
+1,1591
+1,""
+1,"Second Incon Block"
+1,2761
+1,1794
+1,1701
+1,""
+1,"Third Con Block"
+1,2246
+1,1280
+1,2684
+1,""
+1,"Third Incon Block"
+1,2059
+1,3000
+1,2543
+1,""
+1,"Odd Trials for Sample1-Inconsistent:"
+1,""
+1,"First Con Block"
+1,3000
+1,3000
+1,3000
+1,""
+1,"First Incon Block"
+1,1779
+1,3000
+1,2152
+1,""
+1,"Second Con Block"
+1,3000
+1,2699
+1,1232
+1,""
+1,"Second Incon Block"
+1,2153
+1,2512
+1,3000
+1,""
+1,"Third Con Block"
+1,2059
+1,2356
+1,1872
+1,""
+1,"Third Incon Block"
+1,1560
+1,1778
+1,1248
+1,""
+1,"Even Trials for Sample2-Inconsistent:"
+1,""
+1,"First Con Block"
+1,1123
+1,1389
+1,3000
+1,""
+1,"First Incon Block"
+1,1638
+1,2247
+1,1935
+1,""
+1,"Second Con Block"
+1,1670
+1,1061
+1,3000
+1,""
+1,"Second Incon Block"
+1,1638
+1,1544
+1,1155
+1,""
+1,"Third Con Block"
+1,2309
+1,2402
+1,2371
+1,""
+1,"Third Incon Block"
+1,1622
+1,1497
+1,1326
+1,""
+1,"Odd Trials for Sample2-Inconsistent:"
+1,""
+1,"First Con Block"
+1,1451
+1,3000
+1,1139
+1,""
+1,"First Incon Block"
+1,3000
+1,3000
+1,1497
+1,""
+1,"Second Con Block"
+1,2496
+1,1778
+1,1653
+1,""
+1,"Second Incon Block"
+1,3000
+1,1778
+1,2683
+1,""
+1,"Third Con Block"
+1,3000
+1,1482
+1,1170
+1,""
+1,"Third Incon Block"
+1,1498
+1,1498
+1,1326
+1,""
+1,"Even Trials for Sample2-Consistent:"
+1,""
+1,"First Con Block"
+1,1498
+1,1514
+1,3000
+1,""
+1,"First Incon Block"
+1,3000
+1,1124
+1,3000
+1,""
+1,"Second Con Block"
+1,3000
+1,780
+1,3000
+1,""
+1,"Second Incon Block"
+1,1545
+1,1123
+1,1888
+1,""
+1,"Third Con Block"
+1,1294
+1,2137
+1,1529
+1,""
+1,"Third Incon Block"
+1,1919
+1,1061
+1,3000
+1,""
+1,"Odd Trials for Sample2-Consistent:"
+1,""
+1,"First Con Block"
+1,1373
+1,3000
+1,2215
+1,""
+1,"First Incon Block"
+1,1498
+1,1467
+1,2278
+1,""
+1,"Second Con Block"
+1,2309
+1,3000
+1,1217
+1,""
+1,"Second Incon Block"
+1,3000
+1,3000
+1,1342
+1,""
+1,"Third Con Block"
+1,1528
+1,2153
+1,1295
+1,""
+1,"Third Incon Block"
+1,1575
+1,2293
+1,1762
+1,""
+1,""
+1,""
+1,""
+1,"Adjusted (300-3000) Totals for Each Trial-Type for Odd and Even Trials"
+1,""
+1,"Even Con Test1 S1-Con: ",5351
+1,"Even Incon Test1 S1-Con: ",6962
+1,"Even Con Test2 S1-Con: ",6120
+1,"Even Incon Test2 S1-Con: ",6318
+1,"Even Con Test3 S1-Con: ",6999
+1,"Even Incon Test3 S1-Con: ",6443
+1,"Even Con Test1 S1-Incon: ",5850
+1,"Even Incon Test1 S1-Incon: ",7841
+1,"Even Con Test2 S1-Incon: ",7591
+1,"Even Incon Test2 S1-Incon: ",6256
+1,"Even Con Test3 S1-Incon: ",6210
+1,"Even Incon Test3 S1-Incon: ",7602
+1,"Even Con Test1 S2-Incon: ",5512
+1,"Even Incon Test1 S2-Incon: ",5820
+1,"Even Con Test2 S2-Incon: ",5731
+1,"Even Incon Test2 S2-Incon: ",4337
+1,"Even Con Test3 S2-Incon: ",7082
+1,"Even Incon Test3 S2-Incon: ",4445
+1,"Even Con Test1 S2-Con: ",6012
+1,"Even Incon Test1 S2-Con: ",7124
+1,"Even Con Test2 S2-Con: ",6780
+1,"Even Incon Test2 S2-Con: ",4556
+1,"Even Con Test3 S2-Con: ",4960
+1,"Even Incon Test3 S2-Con: ",5980
+1,""
+1,""
+1,"Odd Con Test1 S1-Con: ",4587
+1,"Odd Incon Test1 S1-Con: ",4463
+1,"Odd Con Test2 S1-Con: ",4571
+1,"Odd Incon Test2 S1-Con: ",4555
+1,"Odd Con Test3 S1-Con: ",4868
+1,"Odd Incon Test3 S1-Con: ",5402
+1,"Odd Con Test1 S1-Incon: ",9000
+1,"Odd Incon Test1 S1-Incon: ",6931
+1,"Odd Con Test2 S1-Incon: ",6931
+1,"Odd Incon Test2 S1-Incon: ",7665
+1,"Odd Con Test3 S1-Incon: ",6287
+1,"Odd Incon Test3 S1-Incon: ",4586
+1,"Odd Con Test1 S2-Incon: ",5590
+1,"Odd Incon Test1 S2-Incon: ",7497
+1,"Odd Con Test2 S2-Incon: ",5927
+1,"Odd Incon Test2 S2-Incon: ",7461
+1,"Odd Con Test3 S2-Incon: ",5652
+1,"Odd Incon Test3 S2-Incon: ",4322
+1,"Odd Con Test1 S2-Con: ",6588
+1,"Odd Incon Test1 S2-Con: ",5243
+1,"Odd Con Test2 S2-Con: ",6526
+1,"Odd Incon Test2 S2-Con: ",7342
+1,"Odd Con Test3 S2-Con: ",4976
+1,"Odd Incon Test3 S2-Con: ",5630
+1,""
+1,""
+1,"Adjusted (300-3000) Means for Each Trial-Type for Odd and Even Trials"
+1,""
+1,"Even Con Test1 S1-Con: ",1783.66666666667
+1,"Even Incon Test1 S1-Con: ",2320.66666666667
+1,"Even Con Test2 S1-Con: ",2040
+1,"Even Incon Test2 S1-Con: ",2106
+1,"Even Con Test3 S1-Con: ",2333
+1,"Even Incon Test3 S1-Con: ",2147.66666666667
+1,"Even Con Test1 S1-Incon: ",1950
+1,"Even Incon Test1 S1-Incon: ",2613.66666666667
+1,"Even Con Test2 S1-Incon: ",2530.33333333333
+1,"Even Incon Test2 S1-Incon: ",2085.33333333333
+1,"Even Con Test3 S1-Incon: ",2070
+1,"Even Incon Test3 S1-Incon: ",2534
+1,"Even Con Test1 S2-Incon: ",1837.33333333333
+1,"Even Incon Test1 S2-Incon: ",1940
+1,"Even Con Test2 S2-Incon: ",1910.33333333333
+1,"Even Incon Test2 S2-Incon: ",1445.66666666667
+1,"Even Con Test3 S2-Incon: ",2360.66666666667
+1,"Even Incon Test3 S2-Incon: ",1481.66666666667
+1,"Even Con Test1 S2-Con: ",2004
+1,"Even Incon Test1 S2-Con: ",2374.66666666667
+1,"Even Con Test2 S2-Con: ",2260
+1,"Even Incon Test2 S2-Con: ",1518.66666666667
+1,"Even Con Test3 S2-Con: ",1653.33333333333
+1,"Even Incon Test3 S2-Con: ",1993.33333333333
+1,""
+1,""
+1,"Odd Con Test1 S1-Con: ",1529
+1,"Odd Incon Test1 S1-Con: ",1487.66666666667
+1,"Odd Con Test2 S1-Con: ",1523.66666666667
+1,"Odd Incon Test2 S1-Con: ",1518.33333333333
+1,"Odd Con Test3 S1-Con: ",1622.66666666667
+1,"Odd Incon Test3 S1-Con: ",1800.66666666667
+1,"Odd Con Test1 S1-Incon: ",3000
+1,"Odd Incon Test1 S1-Incon: ",2310.33333333333
+1,"Odd Con Test2 S1-Incon: ",2310.33333333333
+1,"Odd Incon Test2 S1-Incon: ",2555
+1,"Odd Con Test3 S1-Incon: ",2095.66666666667
+1,"Odd Incon Test3 S1-Incon: ",1528.66666666667
+1,"Odd Con Test1 S2-Incon: ",1863.33333333333
+1,"Odd Incon Test1 S2-Incon: ",2499
+1,"Odd Con Test2 S2-Incon: ",1975.66666666667
+1,"Odd Incon Test2 S2-Incon: ",2487
+1,"Odd Con Test3 S2-Incon: ",1884
+1,"Odd Incon Test3 S2-Incon: ",1440.66666666667
+1,"Odd Con Test1 S2-Con: ",2196
+1,"Odd Incon Test1 S2-Con: ",1747.66666666667
+1,"Odd Con Test2 S2-Con: ",2175.33333333333
+1,"Odd Incon Test2 S2-Con: ",2447.33333333333
+1,"Odd Con Test3 S2-Con: ",1658.66666666667
+1,"Odd Incon Test3 S2-Con: ",1876.66666666667
+1,""
+1,""
+1,"Difference Between Con and Incon Means for Each Trial Type for Each Block"
+1,"for Odd and for Even Trials (Adjusted Mean Con Substracted from Adjusted Mean Incon"
+1,""
+1,"Odd: Incon Test 1 S1-Con Minus Con Test 1 S1-Con: ",-41.3333333333333
+1,"Odd: Incon Test 1 S1-Incon Minus Con Test 1 S1-Incon: ",-689.666666666667
+1,"Odd: Incon Test 1 S2-Incon Minus Con Test 1 S2-Incon: ",635.666666666667
+1,"Odd: Incon Test 1 S2-Con Minus Con Test 1 S2-Con: ",-448.333333333333
+1,"Odd: Incon Test 2 S1-Con Minus Con Test 2 S1-Con: ",-5.33333333333348
+1,"Odd: Incon Test 2 S1-Incon Minus Con Test 2 S1-Incon: ",244.666666666667
+1,"Odd: Incon Test 2 S2-Incon Minus Con Test 2 S2-Incon: ",511.333333333333
+1,"Odd: Incon Test 2 S2-Con Minus Con Test 2 S2-Con: ",272
+1,"Odd: Incon Test 3 S1-Con Minus Con Test 3 S1-Con: ",178
+1,"Odd: Incon Test 3 S1-Incon Minus Con Test 3 S1-Incon: ",-567
+1,"Odd: Incon Test 3 S2-Incon Minus Con Test 3 S2-Incon: ",-443.333333333333
+1,"Odd: Incon Test 3 S2-Con Minus Con Test 3 S2-Con: ",218
+1,"Even: Incon Test 1 S1-Con Minus Con Test 1 S1-Con: ",537
+1,"Even: Incon Test 1 S1-Incon Minus Con Test 1 S1-Incon: ",663.666666666667
+1,"Even: Incon Test 1 S2-Incon Minus Con Test 1 S2-Incon: ",102.666666666667
+1,"Even: Incon Test 1 S2-Con Minus Con Test 1 S2-Con: ",370.666666666667
+1,"Even: Incon Test 2 S1-Con Minus Con Test 2 S1-Con: ",66
+1,"Even: Incon Test 2 S1-Incon Minus Con Test 2 S1-Incon: ",-445
+1,"Even: Incon Test 2 S2-Incon Minus Con Test 2 S2-Incon: ",-464.666666666667
+1,"Even: Incon Test 2 S2-Con Minus Con Test 2 S2-Con: ",-741.333333333333
+1,"Even: Incon Test 3 S1-Con Minus Con Test 3 S1-Con: ",-185.333333333333
+1,"Even: Incon Test 3 S1-Incon Minus Con Test 3 S1-Incon: ",464
+1,"Even: Incon Test 3 S2-Incon Minus Con Test 3 S2-Incon: ",-879
+1,"Even: Incon Test 3 S2-Con Minus Con Test 3 S2-Con: ",340
+1,""
+1,""
+1,""
+1,"Overall Difference Scores For Each Trial-Type:"
+1,"With 6 Test Blocks the 3 Difference scores for each trial-type are summed and divided by 3"
+1,"With 4 Test Blocks the 2 Difference scores for each trial-type are summed and divided by 2"
+1,"With 2 Test Blocks the 1 Difference score for each trial-type is simply presented"
+1,"Odd: S1-Con: ",43.7777777777778
+1,"Odd: S1-Incon: ",-337.333333333333
+1,"Odd: S2-Incon: ",234.555555555556
+1,"Odd: S2-Con: ",13.8888888888889
+1,"Even: S1-Con: ",139.222222222222
+1,"Even: S1-Incon: ",227.555555555556
+1,"Even: S2-Incon: ",-413.666666666667
+1,"Even: S2-Con: ",-10.2222222222222
+1,""
+1,""
+1,""
+1,"Overall Difference Scores For Each Pair of Con and Incon Test Blocks:"
+1,"The 4 Difference scores from each pair of blocks are summed and divided by 4"
+1,""
+1,"Odd: First Con and Incon Test Blocks: ",-135.916666666667
+1,"Odd: Second Con and Incon Test Blocks: ",255.666666666667
+1,"Odd: Third Con and Incon Test Blocks: ",-153.583333333333
+1,"Even: First Con and Incon Test Blocks: ",418.5
+1,"Even: Second Con and Incon Test Blocks: ",-396.25
+1,"Even: Third Con and Incon Test Blocks: ",-65.0833333333333
+1,""
+1,""
+1,""
+1,"Final Overall Difference Scores for Odd and Even Trials:"
+1,"The Difference Scores for Odd Trials are Summed and Divided by the Total"
+1,"Number of Difference Scores, and the Same is Applied to the Even Trials: "
+1,""
+1,"Odd Trials Across Six Test Blocks (12 Scores Divided by 12): ",-11.2777777777778
+1,"Even Trials Across Six Test Blocks (12 Scores divided by 12): ",-14.2777777777778
+1,""
+1,""
+1,""
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,""
+1,""
+1,"Adjusted Odd-Even Latencies Transformed to Logs for Statistical Analysis"
+1,""
+1,""
+1,"Even Trials for Sample1-Consistent:"
+1,""
+1,"First Con Block"
+1,3.43616264704076
+1,3.13257984765974
+1,3.10174707394637
+1,""
+1,"First Incon Block"
+1,3.24993175663419
+1,3.47712125471966
+1,3.3392526340327
+1,""
+1,"Second Con Block"
+1,3.47712125471966
+1,3.18892848376085
+1,3.19728055812562
+1,""
+1,"Second Incon Block"
+1,3.4184670209466
+1,3.16643011384328
+1,3.34830486304816
+1,""
+1,"Third Con Block"
+1,3.47712125471966
+1,2.99956548822598
+1,3.47712125471966
+1,""
+1,"Third Incon Block"
+1,3.4184670209466
+1,3.29003461136252
+1,3.27230584440209
+1,""
+1,"Even Trials for Sample1-Inconsistent:"
+1,""
+1,"First Con Block"
+1,3.29336255471145
+1,3.27600198996205
+1,3.3003780648707
+1,""
+1,"First Incon Block"
+1,3.47712125471966
+1,3.47712125471966
+1,3.26505378850401
+1,""
+1,"Second Con Block"
+1,3.47712125471966
+1,3.47712125471966
+1,3.20167017964658
+1,""
+1,"Second Incon Block"
+1,3.44106640663926
+1,3.25382243870807
+1,3.23070431361257
+1,""
+1,"Third Con Block"
+1,3.35140975192544
+1,3.10720996964787
+1,3.42878251149695
+1,""
+1,"Third Incon Block"
+1,3.31365634661803
+1,3.47712125471966
+1,3.40534636017571
+1,""
+1,"Even Trials for Sample2-Inconsistent:"
+1,""
+1,"First Con Block"
+1,3.05037975626146
+1,3.14270224573762
+1,3.47712125471966
+1,""
+1,"First Incon Block"
+1,3.2143138974244
+1,3.35160307241913
+1,3.28668096935493
+1,""
+1,"Second Con Block"
+1,3.22271647114758
+1,3.02571538390134
+1,3.47712125471966
+1,""
+1,"Second Incon Block"
+1,3.2143138974244
+1,3.18864729599972
+1,3.06258198422816
+1,""
+1,"Third Con Block"
+1,3.36342393291718
+1,3.38057300306689
+1,3.37493155397819
+1,""
+1,"Third Incon Block"
+1,3.21005084987514
+1,3.17522180034305
+1,3.12254352406875
+1,""
+1,"Even Trials for Sample2-Consistent:"
+1,""
+1,"First Con Block"
+1,3.17551181336345
+1,3.18012587516405
+1,3.47712125471966
+1,""
+1,"First Incon Block"
+1,3.47712125471966
+1,3.05076631123304
+1,3.47712125471966
+1,""
+1,"Second Con Block"
+1,3.47712125471966
+1,2.89209460269048
+1,3.47712125471966
+1,""
+1,"Second Incon Block"
+1,3.18892848376085
+1,3.05037975626146
+1,3.27600198996205
+1,""
+1,"Third Con Block"
+1,3.11193427633268
+1,3.32980452216407
+1,3.18440748541232
+1,""
+1,"Third Incon Block"
+1,3.28307497473547
+1,3.02571538390134
+1,3.47712125471966
+1,""
+1,""
+1,""
+1,""
+1,"Odd Trials for Sample1-Consistent:"
+1,""
+1,"First Con Block"
+1,3.39462676427221
+1,3.05037975626146
+1,2.99255351783214
+1,""
+1,"First Incon Block"
+1,3.37785241900675
+1,3.03221570329798
+1,2.99956548822598
+1,""
+1,"Second Con Block"
+1,3.23451728351269
+1,3.18440748541232
+1,3.12254352406875
+1,""
+1,"Second Incon Block"
+1,3.26857797188284
+1,3.13767053723675
+1,3.12254352406875
+1,""
+1,"Third Con Block"
+1,3.17084820364331
+1,3.09096307659573
+1,3.33304402982349
+1,""
+1,"Third Incon Block"
+1,2.99913054128737
+1,3.14736710779379
+1,3.47712125471966
+1,""
+1,"Odd Trials for Sample1-Inconsistent:"
+1,""
+1,"First Con Block"
+1,3.47712125471966
+1,3.47712125471966
+1,3.47712125471966
+1,""
+1,"First Incon Block"
+1,3.25017594808392
+1,3.47712125471966
+1,3.33284226699435
+1,""
+1,"Second Con Block"
+1,3.47712125471966
+1,3.43120288455652
+1,3.09061070782841
+1,""
+1,"Second Incon Block"
+1,3.33304402982349
+1,3.40001963506516
+1,3.47712125471966
+1,""
+1,"Third Con Block"
+1,3.31365634661803
+1,3.37217528611506
+1,3.27230584440209
+1,""
+1,"Third Incon Block"
+1,3.19312459835446
+1,3.24993175663419
+1,3.0962145853464
+1,""
+1,"Odd Trials for Sample2-Inconsistent:"
+1,""
+1,"First Con Block"
+1,3.16166741243774
+1,3.47712125471966
+1,3.0565237240791
+1,""
+1,"First Incon Block"
+1,3.47712125471966
+1,3.47712125471966
+1,3.17522180034305
+1,""
+1,"Second Con Block"
+1,3.39724458101039
+1,3.24993175663419
+1,3.21827285357145
+1,""
+1,"Second Incon Block"
+1,3.47712125471966
+1,3.24993175663419
+1,3.42862067267194
+1,""
+1,"Third Con Block"
+1,3.47712125471966
+1,3.17084820364331
+1,3.06818586174616
+1,""
+1,"Third Incon Block"
+1,3.17551181336345
+1,3.17551181336345
+1,3.12254352406875
+1,""
+1,"Odd Trials for Sample2-Consistent:"
+1,""
+1,"First Con Block"
+1,3.13767053723675
+1,3.47712125471966
+1,3.34537373055909
+1,""
+1,"First Incon Block"
+1,3.17551181336345
+1,3.16643011384328
+1,3.35755371974308
+1,""
+1,"Second Con Block"
+1,3.36342393291718
+1,3.47712125471966
+1,3.08529057823006
+1,""
+1,"Second Incon Block"
+1,3.47712125471966
+1,3.47712125471966
+1,3.12775251583297
+1,""
+1,"Third Con Block"
+1,3.18412335423967
+1,3.33304402982349
+1,3.11226976841727
+1,""
+1,"Third Incon Block"
+1,3.19728055812562
+1,3.36040405472994
+1,3.24600590407603
+1,""
+1,""
+1,"Adjusted (300-3000) Mean Logs for Each Trial-Type for Odd and Even Trials"
+1,""
+1,"Even Con Test1 S1-Con: ",3.22349652288229
+1,"Even Incon Test1 S1-Con: ",3.35543521512885
+1,"Even Con Test2 S1-Con: ",3.28777676553538
+1,"Even Incon Test2 S1-Con: ",3.31106733261268
+1,"Even Con Test3 S1-Con: ",3.31793599922177
+1,"Even Incon Test3 S1-Con: ",3.3269358255704
+1,"Even Con Test1 S1-Incon: ",3.2899142031814
+1,"Even Incon Test1 S1-Incon: ",3.40643209931445
+1,"Even Con Test2 S1-Incon: ",3.3853042296953
+1,"Even Incon Test2 S1-Incon: ",3.30853105298663
+1,"Even Con Test3 S1-Incon: ",3.29580074435675
+1,"Even Incon Test3 S1-Incon: ",3.39870798717113
+1,"Even Con Test1 S2-Incon: ",3.22340108557291
+1,"Even Incon Test1 S2-Incon: ",3.28419931306615
+1,"Even Con Test2 S2-Incon: ",3.24185103658953
+1,"Even Incon Test2 S2-Incon: ",3.15518105921743
+1,"Even Con Test3 S2-Incon: ",3.37297616332075
+1,"Even Incon Test3 S2-Incon: ",3.16927205809565
+1,"Even Con Test1 S2-Con: ",3.27758631441572
+1,"Even Incon Test1 S2-Con: ",3.33500294022412
+1,"Even Con Test2 S2-Con: ",3.28211237070993
+1,"Even Incon Test2 S2-Con: ",3.17177007666145
+1,"Even Con Test3 S2-Con: ",3.20871542796969
+1,"Even Incon Test3 S2-Con: ",3.26197053778549
+1,""
+1,"Odd Con Test1 S1-Con: ",3.14585334612193
+1,"Odd Incon Test1 S1-Con: ",3.13654453684357
+1,"Odd Con Test2 S1-Con: ",3.18048943099792
+1,"Odd Incon Test2 S1-Con: ",3.17626401106278
+1,"Odd Con Test3 S1-Con: ",3.19828510335418
+1,"Odd Incon Test3 S1-Con: ",3.20787296793361
+1,"Odd Con Test1 S1-Incon: ",3.47712125471966
+1,"Odd Incon Test1 S1-Incon: ",3.35337982326598
+1,"Odd Con Test2 S1-Incon: ",3.33297828236819
+1,"Odd Incon Test2 S1-Incon: ",3.40339497320277
+1,"Odd Con Test3 S1-Incon: ",3.31937915904506
+1,"Odd Incon Test3 S1-Incon: ",3.17975698011169
+1,"Odd Con Test1 S2-Incon: ",3.23177079707883
+1,"Odd Incon Test1 S2-Incon: ",3.37648810326079
+1,"Odd Con Test2 S2-Incon: ",3.28848306373868
+1,"Odd Incon Test2 S2-Incon: ",3.38522456134193
+1,"Odd Con Test3 S2-Incon: ",3.23871844003638
+1,"Odd Incon Test3 S2-Incon: ",3.15785571693188
+1,"Odd Con Test1 S2-Con: ",3.32005517417183
+1,"Odd Incon Test1 S2-Con: ",3.23316521564994
+1,"Odd Con Test2 S2-Con: ",3.30861192195563
+1,"Odd Incon Test2 S2-Con: ",3.3606650084241
+1,"Odd Con Test3 S2-Con: ",3.20981238416014
+1,"Odd Incon Test3 S2-Con: ",3.2678968389772
+1,""
+1,""
+1,"Difference Between Con and Incon Log Means for Each Trial Type for Each Block"
+1,"for Odd and for Even Trials (Adjusted Log Mean Con Substracted from Adjusted Log Mean Incon"
+1,""
+1,"Odd: Incon Test 1 S1-Con Minus Con Test 1 S1-Con: ",-9.30880927836064E-03
+1,"Odd: Incon Test 1 S1-Incon Minus Con Test 1 S1-Incon: ",-.123741431453683
+1,"Odd: Incon Test 1 S2-Incon Minus Con Test 1 S2-Incon: ",.14471730618196
+1,"Odd: Incon Test 1 S2-Con Minus Con Test 1 S2-Con: ",-8.68899585218981E-02
+1,"Odd: Incon Test 2 S1-Con Minus Con Test 2 S1-Con: ",-4.22541993513592E-03
+1,"Odd: Incon Test 2 S1-Incon Minus Con Test 2 S1-Incon: ",7.04166908345742E-02
+1,"Odd: Incon Test 2 S2-Incon Minus Con Test 2 S2-Incon: ",9.67414976032557E-02
+1,"Odd: Incon Test 2 S2-Con Minus Con Test 2 S2-Con: ",5.20530864684647E-02
+1,"Odd: Incon Test 3 S1-Con Minus Con Test 3 S1-Con: ",9.58786457943139E-03
+1,"Odd: Incon Test 3 S1-Incon Minus Con Test 3 S1-Incon: ",-.139622178933373
+1,"Odd: Incon Test 3 S2-Incon Minus Con Test 3 S2-Incon: ",-8.08627231044947E-02
+1,"Odd: Incon Test 3 S2-Con Minus Con Test 3 S2-Con: ",5.80844548170529E-02
+1,"Even: Incon Test 1 S1-Con Minus Con Test 1 S1-Con: ",.131938692246566
+1,"Even: Incon Test 1 S1-Incon Minus Con Test 1 S1-Incon: ",.116517896133047
+1,"Even: Incon Test 1 S2-Incon Minus Con Test 1 S2-Incon: ",6.07982274932408E-02
+1,"Even: Incon Test 1 S2-Con Minus Con Test 1 S2-Con: ",5.74166258084006E-02
+1,"Even: Incon Test 2 S1-Con Minus Con Test 2 S1-Con: ",2.32905670773023E-02
+1,"Even: Incon Test 2 S1-Incon Minus Con Test 2 S1-Incon: ",-7.67731767086666E-02
+1,"Even: Incon Test 2 S2-Incon Minus Con Test 2 S2-Incon: ",-.086669977372102
+1,"Even: Incon Test 2 S2-Con Minus Con Test 2 S2-Con: ",-.110342294048482
+1,"Even: Incon Test 3 S1-Con Minus Con Test 3 S1-Con: ",8.99982634863283E-03
+1,"Even: Incon Test 3 S1-Incon Minus Con Test 3 S1-Incon: ",.10290724281438
+1,"Even: Incon Test 3 S2-Incon Minus Con Test 3 S2-Incon: ",-.203704105225102
+1,"Even: Incon Test 3 S2-Con Minus Con Test 3 S2-Con: ",5.32551098158009E-02
+1,""
+1,""
+1,""
+1,"Overall Log Difference Scores For Each Trial-Type:"
+1,"With 6 Test Blocks the 3 Difference scores for each trial-type are summed and divided by 3"
+1,"With 4 Test Blocks the 2 Difference scores for each trial-type are summed and divided by 2"
+1,"With 2 Test Blocks the 1 Difference score for each trial-type is simply presented"
+1,"Odd: S1-Con: ",-1.31545487802172E-03
+1,"Odd: S1-Incon: ",-6.43156398508273E-02
+1,"Odd: S2-Incon: ",5.35320268935736E-02
+1,"Odd: S2-Con: ",7.74919425453987E-03
+1,"Even: S1-Con: ",5.47430285575003E-02
+1,"Even: S1-Incon: ",4.75506540795867E-02
+1,"Even: S2-Incon: ",-7.65252850346544E-02
+1,"Even: S2-Con: ",1.09813858573264E-04
+1,""
+1,""
+1,""
+1,"Overall Log Difference Scores For Each Pair of Con and Incon Test Blocks:"
+1,"The 4 Log Difference scores from each pair of blocks are summed and divided by 4"
+1,""
+1,"Odd: First Con and Incon Test Blocks: ",-1.88057232679956E-02
+1,"Odd: Second Con and Incon Test Blocks: ",5.37464637427897E-02
+1,"Odd: Third Con and Incon Test Blocks: ",-3.82031456603458E-02
+1,"Even: First Con and Incon Test Blocks: ",9.16678604203135E-02
+1,"Even: Second Con and Incon Test Blocks: ",-.062623720262987
+1,"Even: Third Con and Incon Test Blocks: ",-9.63548156157212E-03
+1,""
+1,""
+1,""
+1,"Final Overall Log Difference Scores for Odd and Even Trials:"
+1,"The Log Difference Scores for Odd Trials are Summed and Divided by the Total"
+1,"Number of Log Difference Scores, and the Same is Applied to the Even Trials: "
+1,""
+1,"Odd Trials Across Six Test Blocks (12 Scores Divided by 12): ",-1.08746839518388E-03
+1,"Even Trials Across Six Test Blocks (12 Scores Divided by 12): ",6.46955286525145E-03
+1,""
+1,""
+1,""
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,"*********************************************************************"
+1,""
+1,""
+1,""
+1,"Raw Mean Latencies (Latencies > 10,000 Removed)"
+1,"If mean = 0 then all odd or even latencies for that trial-type within"
+1,"that block were greater than 10,000 ms."
+1,""
+1,"Odd_Mean_Con_Test1_Sample1_Con: ",1529
+1,"Odd_Mean_Con_Test1_Sample1_Incon: ",4076.66666666667
+1,"Odd_Mean_Con_Test1_Sample2_Incon: ",2147.66666666667
+1,"Odd_Mean_Con_Test1_Sample2_Con: ",2641.66666666667
+1,""
+1,"Odd_Mean_Incon_Test1_Sample1_Con: ",1487.66666666667
+1,"Odd_Mean_Incon_Test1_Sample1_Incon: ",2917
+1,"Odd_Mean_Incon_Test1_Sample2_Incon: ",3197.33333333333
+1,"Odd_Mean_Incon_Test1_Sample2_Con: ",1747.66666666667
+1,""
+1,"Odd_Mean_Con_Test2_Sample1_Con: ",1523.66666666667
+1,"Odd_Mean_Con_Test2_Sample1_Incon: ",2766.33333333333
+1,"Odd_Mean_Con_Test2_Sample2_Incon: ",1975.66666666667
+1,"Odd_Mean_Con_Test2_Sample2_Con: ",2334.66666666667
+1,""
+1,"Odd_Mean_Incon_Test2_Sample1_Con: ",1518.33333333333
+1,"Odd_Mean_Incon_Test2_Sample1_Incon: ",3042
+1,"Odd_Mean_Incon_Test2_Sample2_Incon: ",2807.66666666667
+1,"Odd_Mean_Incon_Test2_Sample2_Con: ",3011
+1,""
+1,"Odd_Mean_Con_Test3_Sample1_Con: ",1622.66666666667
+1,"Odd_Mean_Con_Test3_Sample1_Incon: ",2095.66666666667
+1,"Odd_Mean_Con_Test3_Sample2_Incon: ",1991.33333333333
+1,"Odd_Mean_Con_Test3_Sample2_Con: ",1658.66666666667
+1,""
+1,"Odd_Mean_Incon_Test3_Sample1_Con: ",2085
+1,"Odd_Mean_Incon_Test3_Sample1_Incon: ",1528.66666666667
+1,"Odd_Mean_Incon_Test3_Sample2_Incon: ",1440.66666666667
+1,"Odd_Mean_Incon_Test3_Sample2_Con: ",1876.66666666667
+1,""
+1,""
+1,"Even_Mean_Con_Test1_Sample1_Con: ",1783.66666666667
+1,"Even_Mean_Con_Test1_Sample1_Incon: ",1950
+1,"Even_Mean_Con_Test1_Sample2_Incon: ",1882.66666666667
+1,"Even_Mean_Con_Test1_Sample2_Con: ",2028.33333333333
+1,""
+1,"Even_Mean_Incon_Test1_Sample1_Con: ",2756
+1,"Even_Mean_Incon_Test1_Sample1_Incon: ",4643.66666666667
+1,"Even_Mean_Incon_Test1_Sample2_Incon: ",1940
+1,"Even_Mean_Incon_Test1_Sample2_Con: ",3692.66666666667
+1,""
+1,"Even_Mean_Con_Test2_Sample1_Con: ",2085.33333333333
+1,"Even_Mean_Con_Test2_Sample1_Incon: ",3198
+1,"Even_Mean_Con_Test2_Sample2_Incon: ",2673.33333333333
+1,"Even_Mean_Con_Test2_Sample2_Con: ",2730
+1,""
+1,"Even_Mean_Incon_Test2_Sample1_Con: ",2106
+1,"Even_Mean_Incon_Test2_Sample1_Incon: ",2085.33333333333
+1,"Even_Mean_Incon_Test2_Sample2_Incon: ",1445.66666666667
+1,"Even_Mean_Incon_Test2_Sample2_Con: ",1518.66666666667
+1,""
+1,"Even_Mean_Con_Test3_Sample1_Con: ",2849.66666666667
+1,"Even_Mean_Con_Test3_Sample1_Incon: ",2070
+1,"Even_Mean_Con_Test3_Sample2_Incon: ",2360.66666666667
+1,"Even_Mean_Con_Test3_Sample2_Con: ",1653.33333333333
+1,""
+1,"Even_Mean_Incon_Test3_Sample1_Con: ",2147.66666666667
+1,"Even_Mean_Incon_Test3_Sample1_Incon: ",2610.33333333333
+1,"Even_Mean_Incon_Test3_Sample2_Incon: ",1481.66666666667
+1,"Even_Mean_Incon_Test3_Sample2_Con: ",2787.33333333333
+1,""
+1,""
+1,""
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test1_Sample1_Con: "
+1,"Sum: ",4587
+1,"Mean: ",1529
+1,"Sum of Squares: ",1369256
+1,"Variance: ",684628
+1,"Standard Deviation: ",827.422503924084
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test1_Sample1_Incon: "
+1,"Sum: ",12230
+1,"Mean: ",4076.66666666667
+1,"Sum of Squares: ",4264052.66666667
+1,"Variance: ",2132026.33333333
+1,"Standard Deviation: ",1460.14599726648
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test1_Sample2_Incon: "
+1,"Sum: ",6443
+1,"Mean: ",2147.66666666667
+1,"Sum of Squares: ",4410914.66666667
+1,"Variance: ",2205457.33333333
+1,"Standard Deviation: ",1485.07822465126
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test1_Sample2_Con: "
+1,"Sum: ",7925
+1,"Mean: ",2641.66666666667
+1,"Sum of Squares: ",4665714.66666667
+1,"Variance: ",2332857.33333333
+1,"Standard Deviation: ",1527.36941613132
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test1_Sample1_Con: "
+1,"Sum: ",4463
+1,"Mean: ",1487.66666666667
+1,"Sum of Squares: ",1216242.66666667
+1,"Variance: ",608121.333333333
+1,"Standard Deviation: ",779.821347061834
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test1_Sample1_Incon: "
+1,"Sum: ",8751
+1,"Mean: ",2917
+1,"Sum of Squares: ",5501678
+1,"Variance: ",2750839
+1,"Standard Deviation: ",1658.56534390418
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test1_Sample2_Incon: "
+1,"Sum: ",9592
+1,"Mean: ",3197.33333333333
+1,"Sum of Squares: ",6002012.66666667
+1,"Variance: ",3001006.33333333
+1,"Standard Deviation: ",1732.34128662147
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test1_Sample2_Con: "
+1,"Sum: ",5243
+1,"Mean: ",1747.66666666667
+1,"Sum of Squares: ",422360.666666667
+1,"Variance: ",211180.333333333
+1,"Standard Deviation: ",459.543614179692
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test2_Sample1_Con: "
+1,"Sum: ",4571
+1,"Mean: ",1523.66666666667
+1,"Sum of Squares: ",76092.6666666667
+1,"Variance: ",38046.3333333333
+1,"Standard Deviation: ",195.054693184587
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test2_Sample1_Incon: "
+1,"Sum: ",8299
+1,"Mean: ",2766.33333333333
+1,"Sum of Squares: ",4924048.66666667
+1,"Variance: ",2462024.33333333
+1,"Standard Deviation: ",1569.08391532554
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test2_Sample2_Incon: "
+1,"Sum: ",5927
+1,"Mean: ",1975.66666666667
+1,"Sum of Squares: ",413932.666666667
+1,"Variance: ",206966.333333333
+1,"Standard Deviation: ",454.935526567593
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test2_Sample2_Con: "
+1,"Sum: ",7004
+1,"Mean: ",2334.66666666667
+1,"Sum of Squares: ",2557048.66666667
+1,"Variance: ",1278524.33333333
+1,"Standard Deviation: ",1130.71850313565
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test2_Sample1_Con: "
+1,"Sum: ",4555
+1,"Mean: ",1518.33333333333
+1,"Sum of Squares: ",172132.666666667
+1,"Variance: ",86066.3333333333
+1,"Standard Deviation: ",293.37064156683
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test2_Sample1_Incon: "
+1,"Sum: ",9126
+1,"Mean: ",3042
+1,"Sum of Squares: ",3084782
+1,"Variance: ",1542391
+1,"Standard Deviation: ",1241.93035231449
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test2_Sample2_Incon: "
+1,"Sum: ",8423
+1,"Mean: ",2807.66666666667
+1,"Sum of Squares: ",2408240.66666667
+1,"Variance: ",1204120.33333333
+1,"Standard Deviation: ",1097.32416966607
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test2_Sample2_Con: "
+1,"Sum: ",9033
+1,"Mean: ",3011
+1,"Sum of Squares: ",4691426
+1,"Variance: ",2345713
+1,"Standard Deviation: ",1531.57206817048
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test3_Sample1_Con: "
+1,"Sum: ",4868
+1,"Mean: ",1622.66666666667
+1,"Sum of Squares: ",452880.666666667
+1,"Variance: ",226440.333333333
+1,"Standard Deviation: ",475.857471658619
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test3_Sample1_Incon: "
+1,"Sum: ",6287
+1,"Mean: ",2095.66666666667
+1,"Sum of Squares: ",119144.666666667
+1,"Variance: ",59572.3333333333
+1,"Standard Deviation: ",244.074442196092
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test3_Sample2_Incon: "
+1,"Sum: ",5974
+1,"Mean: ",1991.33333333333
+1,"Sum of Squares: ",2704682.66666667
+1,"Variance: ",1352341.33333333
+1,"Standard Deviation: ",1162.90211683242
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Con_Test3_Sample2_Con: "
+1,"Sum: ",4976
+1,"Mean: ",1658.66666666667
+1,"Sum of Squares: ",393692.666666667
+1,"Variance: ",196846.333333333
+1,"Standard Deviation: ",443.673678882727
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test3_Sample1_Con: "
+1,"Sum: ",6255
+1,"Mean: ",2085
+1,"Sum of Squares: ",4771154
+1,"Variance: ",2385577
+1,"Standard Deviation: ",1544.53132049823
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test3_Sample1_Incon: "
+1,"Sum: ",4586
+1,"Mean: ",1528.66666666667
+1,"Sum of Squares: ",141922.666666667
+1,"Variance: ",70961.3333333333
+1,"Standard Deviation: ",266.385685301094
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test3_Sample2_Incon: "
+1,"Sum: ",4322
+1,"Mean: ",1440.66666666667
+1,"Sum of Squares: ",19722.6666666667
+1,"Variance: ",9861.33333333333
+1,"Standard Deviation: ",99.3042463006156
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Odd_Incon_Test3_Sample2_Con: "
+1,"Sum: ",5630
+1,"Mean: ",1876.66666666667
+1,"Sum of Squares: ",277484.666666667
+1,"Variance: ",138742.333333333
+1,"Standard Deviation: ",372.481319442107
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test1_Sample1_Con: "
+1,"Sum: ",5351
+1,"Mean: ",1783.66666666667
+1,"Sum of Squares: ",1347644.66666667
+1,"Variance: ",673822.333333333
+1,"Standard Deviation: ",820.866818267941
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test1_Sample1_Incon: "
+1,"Sum: ",5850
+1,"Mean: ",1950
+1,"Sum of Squares: ",6278
+1,"Variance: ",3139
+1,"Standard Deviation: ",56.0267793113258
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test1_Sample2_Incon: "
+1,"Sum: ",5648
+1,"Mean: ",1882.66666666667
+1,"Sum of Squares: ",2391644.66666667
+1,"Variance: ",1195822.33333333
+1,"Standard Deviation: ",1093.53661728052
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test1_Sample2_Con: "
+1,"Sum: ",6085
+1,"Mean: ",2028.33333333333
+1,"Sum of Squares: ",1637120.66666667
+1,"Variance: ",818560.333333333
+1,"Standard Deviation: ",904.743241662149
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test1_Sample1_Con: "
+1,"Sum: ",8268
+1,"Mean: ",2756
+1,"Sum of Squares: ",3686168
+1,"Variance: ",1843084
+1,"Standard Deviation: ",1357.6022981713
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test1_Sample1_Incon: "
+1,"Sum: ",13931
+1,"Mean: ",4643.66666666667
+1,"Sum of Squares: ",18276818.6666667
+1,"Variance: ",9138409.33333333
+1,"Standard Deviation: ",3022.9802072348
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test1_Sample2_Incon: "
+1,"Sum: ",5820
+1,"Mean: ",1940
+1,"Sum of Squares: ",185478
+1,"Variance: ",92739
+1,"Standard Deviation: ",304.530786620992
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test1_Sample2_Con: "
+1,"Sum: ",11078
+1,"Mean: ",3692.66666666667
+1,"Sum of Squares: ",16905840.6666667
+1,"Variance: ",8452920.33333333
+1,"Standard Deviation: ",2907.39063996109
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test2_Sample1_Con: "
+1,"Sum: ",6256
+1,"Mean: ",2085.33333333333
+1,"Sum of Squares: ",1656300.66666667
+1,"Variance: ",828150.333333333
+1,"Standard Deviation: ",910.027655257429
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test2_Sample1_Incon: "
+1,"Sum: ",9594
+1,"Mean: ",3198
+1,"Sum of Squares: ",5320374
+1,"Variance: ",2660187
+1,"Standard Deviation: ",1631.00797055073
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test2_Sample2_Incon: "
+1,"Sum: ",8020
+1,"Mean: ",2673.33333333333
+1,"Sum of Squares: ",10448008.6666667
+1,"Variance: ",5224004.33333333
+1,"Standard Deviation: ",2285.60808830677
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test2_Sample2_Con: "
+1,"Sum: ",8190
+1,"Mean: ",2730
+1,"Sum of Squares: ",5820878
+1,"Variance: ",2910439
+1,"Standard Deviation: ",1706.00087924948
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test2_Sample1_Con: "
+1,"Sum: ",6318
+1,"Mean: ",2106
+1,"Sum of Squares: ",688922
+1,"Variance: ",344461
+1,"Standard Deviation: ",586.907999604708
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test2_Sample1_Incon: "
+1,"Sum: ",6256
+1,"Mean: ",2085.33333333333
+1,"Sum of Squares: ",689112.666666667
+1,"Variance: ",344556.333333333
+1,"Standard Deviation: ",586.989210576594
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test2_Sample2_Incon: "
+1,"Sum: ",4337
+1,"Mean: ",1445.66666666667
+1,"Sum of Squares: ",131148.666666667
+1,"Variance: ",65574.3333333333
+1,"Standard Deviation: ",256.074858846653
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test2_Sample2_Con: "
+1,"Sum: ",4556
+1,"Mean: ",1518.66666666667
+1,"Sum of Squares: ",293652.666666667
+1,"Variance: ",146826.333333333
+1,"Standard Deviation: ",383.179244392665
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test3_Sample1_Con: "
+1,"Sum: ",8549
+1,"Mean: ",2849.66666666667
+1,"Sum of Squares: ",5277900.66666667
+1,"Variance: ",2638950.33333333
+1,"Standard Deviation: ",1624.4846362257
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test3_Sample1_Incon: "
+1,"Sum: ",6210
+1,"Mean: ",2070
+1,"Sum of Squares: ",1032072
+1,"Variance: ",516036
+1,"Standard Deviation: ",718.356457477762
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test3_Sample2_Incon: "
+1,"Sum: ",7082
+1,"Mean: ",2360.66666666667
+1,"Sum of Squares: ",4484.66666666667
+1,"Variance: ",2242.33333333333
+1,"Standard Deviation: ",47.3532821812103
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Con_Test3_Sample2_Con: "
+1,"Sum: ",4960
+1,"Mean: ",1653.33333333333
+1,"Sum of Squares: ",378512.666666667
+1,"Variance: ",189256.333333333
+1,"Standard Deviation: ",435.03601383487
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test3_Sample1_Con: "
+1,"Sum: ",6443
+1,"Mean: ",2147.66666666667
+1,"Sum of Squares: ",339108.666666667
+1,"Variance: ",169554.333333333
+1,"Standard Deviation: ",411.769757672092
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test3_Sample1_Incon: "
+1,"Sum: ",7831
+1,"Mean: ",2610.33333333333
+1,"Sum of Squares: ",691250.666666667
+1,"Variance: ",345625.333333333
+1,"Standard Deviation: ",587.899084310678
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test3_Sample2_Incon: "
+1,"Sum: ",4445
+1,"Mean: ",1481.66666666667
+1,"Sum of Squares: ",44160.6666666667
+1,"Variance: ",22080.3333333333
+1,"Standard Deviation: ",148.594526592783
+1,""
+1,""
+1,""
+1,"If Sum = Mean, and Variance & SD = 0, too many 10,000+ latencies"
+1,"If Sum of Squares = Variance there were only two latencies < 10,000"
+1,"If Sum of Squares, Variance and SD = 0 all latencies were the same"
+1,""
+1,"Even_Incon_Test3_Sample2_Con: "
+1,"Sum: ",8362
+1,"Mean: ",2787.33333333333
+1,"Sum of Squares: ",10466524.6666667
+1,"Variance: ",5233262.33333333
+1,"Standard Deviation: ",2287.63247339544
+1,""
+1,""
+1,""
+1,"Pooled standard deviations for each trial-type calculated across"
+1,"each pair of consistent and inconsistent test blocks for odd and."
+1,"even trials. A pooled SD of zero indicates insufficent data."
+1,""
+1,"Pooled SD for Odd Trials For First Pair of Test Blocks for S1_Con Targets:"
+1,803.974294779794
+1,""
+1,"Pooled SD for Odd Trials For First Pair of Test Blocks for S1_Incon Targets:"
+1,1562.50845331047
+1,""
+1,"Pooled SD for Odd Trials For First Pair of Test Blocks for S2_Incon Targets:"
+1,1613.45338740645
+1,""
+1,"Pooled SD for Odd Trials For First Pair of Test Blocks for S2_Con Targets:"
+1,1127.83812372757
+1,""
+1,"Pooled SD for Odd Trials For Second Pair of Test Blocks for S1_Con Targets:"
+1,249.111086331647
+1,""
+1,"Pooled SD for Odd Trials For Second Pair of Test Blocks for S1_Incon Targets:"
+1,1414.99387513398
+1,""
+1,"Pooled SD for Odd Trials For Second Pair of Test Blocks for S2_Incon Targets:"
+1,839.966269164026
+1,""
+1,"Pooled SD for Odd Trials For Second Pair of Test Blocks for S2_Con Targets:"
+1,1346.14957068918
+1,""
+1,"Pooled SD for Odd Trials For Third Pair of Test Blocks for S1_Con Targets:"
+1,1142.80736201106
+1,""
+1,"Pooled SD for Odd Trials For Third Pair of Test Blocks for S1_Incon Targets:"
+1,255.473742943053
+1,""
+1,"Pooled SD for Odd Trials For Third Pair of Test Blocks for S2_Incon Targets:"
+1,825.288636377197
+1,""
+1,"Pooled SD for Odd Trials For Third Pair of Test Blocks for S2_Con Targets:"
+1,409.627066163032
+1,""
+1,"Pooled SD for Even Trials For First Pair of Test Blocks for S1_Con Targets:"
+1,1121.80799010645
+1,""
+1,"Pooled SD for Even Trials For First Pair of Test Blocks for S1_Incon Targets:"
+1,2137.93689492152
+1,""
+1,"Pooled SD for Even Trials For First Pair of Test Blocks for S2_Incon Targets:"
+1,802.67095790658
+1,""
+1,"Pooled SD for Even Trials For First Pair of Test Blocks for S2_Con Targets:"
+1,2153.07694552084
+1,""
+1,"Pooled SD for Even Trials For Second Pair of Test Blocks for S1_Con Targets:"
+1,765.705992314718
+1,""
+1,"Pooled SD for Even Trials For Second Pair of Test Blocks for S1_Incon Targets:"
+1,1225.71271783672
+1,""
+1,"Pooled SD for Even Trials For Second Pair of Test Blocks for S2_Incon Targets:"
+1,1626.2808285574
+1,""
+1,"Pooled SD for Even Trials For Second Pair of Test Blocks for S2_Con Targets:"
+1,1236.37885240191
+1,""
+1,"Pooled SD for Even Trials For Third Pair of Test Blocks for S1_Con Targets:"
+1,1185.01153299592
+1,""
+1,"Pooled SD for Even Trials For Third Pair of Test Blocks for S1_Incon Targets:"
+1,656.376924233833
+1,""
+1,"Pooled SD for Even Trials For Third Pair of Test Blocks for S2_Incon Targets:"
+1,110.278435486424
+1,""
+1,"Pooled SD for Even Trials For Third Pair of Test Blocks for S2_Con Targets:"
+1,1646.59021414963
+1,""
+1,""
+1,""
+1,""
+1,"Difference Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"Odd First Con Test Block Subtracted from First Incon Test Block"
+1,"Odd_Sample1_Consistent Target: ",-41.3333333333333
+1,"Odd_Sample1_Inconsistent Target: ",-1159.66666666667
+1,"Odd_Sample2_Inconsistent Target: ",1049.66666666667
+1,"Odd_Sample2_Consistent Target: ",-894
+1,""
+1,"Second Con Test Block Subtracted from Second Incon Test Block"
+1,"Odd_Sample1_Consistent Target: ",-5.33333333333348
+1,"Odd_Sample1_Inconsistent Target: ",275.666666666667
+1,"Odd_Sample2_Inconsistent Target: ",832
+1,"Odd_Sample2_Consistent Target: ",676.333333333333
+1,""
+1,"Third Con Test Block Subtracted from Third Incon Test Block"
+1,"Odd_Sample1_Consistent Target: ",462.333333333333
+1,"Odd_Sample1_Inconsistent Target: ",-567
+1,"Odd_Sample2_Inconsistent Target: ",-550.666666666667
+1,"Odd_Sample2_Consistent Target: ",218
+1,""
+1,""
+1,"Even First Con Test Block Subtracted from First Incon Test Block"
+1,"Even_Sample1_Consistent Target: ",972.333333333333
+1,"Even_Sample1_Inconsistent Target: ",2693.66666666667
+1,"Even_Sample2_Inconsistent Target: ",57.3333333333333
+1,"Even_Sample2_Consistent Target: ",1664.33333333333
+1,""
+1,"Second Con Test Block Subtracted from Second Incon Test Block"
+1,"Even_Sample1_Consistent Target: ",20.6666666666665
+1,"Even_Sample1_Inconsistent Target: ",-1112.66666666667
+1,"Even_Sample2_Inconsistent Target: ",-1227.66666666667
+1,"Even_Sample2_Consistent Target: ",-1211.33333333333
+1,""
+1,"Third Con Test Block Subtracted from Third Incon Test Block"
+1,"Even_Sample1_Consistent Target: ",-702
+1,"Even_Sample1_Inconsistent Target: ",540.333333333333
+1,"Even_Sample2_Inconsistent Target: ",-879
+1,"Even_Sample2_Consistent Target: ",1134
+1,""
+1,""
+1,""
+1,""
+1,""
+1,"D-IRAP Scores For Odd and Even Trials for Each Trial-Type Per Testing Block:"
+1,"If D-IRAP Score = 0 this Indicates Insufficient Data to Calculate Score:"
+1,"or the Difference Between Con and Incon Means was Zero:"
+1,""
+1,"First Consistent Test Block Subtracted from First Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Odd_Sample1_Consistent Target: ",-5.14112622775512E-02
+1,"Odd_Sample1_Inconsistent Target: ",-.742182651370427
+1,"Odd_Sample2_Inconsistent Target: ",.65057142329594
+1,"Odd_Sample2_Consistent Target: ",-.792666945009161
+1,""
+1,"Second Consistent Test Block Subtracted from Second Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Odd_Sample1_Consistent Target: ",-2.14094579726295E-02
+1,"Odd_Sample1_Inconsistent Target: ",.194818275549472
+1,"Odd_Sample2_Inconsistent Target: ",.990515965394712
+1,"Odd_Sample2_Consistent Target: ",.502420643336888
+1,""
+1,"Third Consistent Test Block Subtracted from Third Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Odd_Sample1_Consistent Target: ",.404559288557384
+1,"Odd_Sample1_Inconsistent Target: ",-2.2194061646734
+1,"Odd_Sample2_Inconsistent Target: ",-.667241304913576
+1,"Odd_Sample2_Consistent Target: ",.532191395558895
+1,""
+1,"First Consistent Test Block Subtracted from First Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Even_Sample1_Consistent Target: ",.866755578413263
+1,"Even_Sample1_Inconsistent Target: ",1.25993740650869
+1,"Even_Sample2_Inconsistent Target: ",7.14281895571038E-02
+1,"Even_Sample2_Consistent Target: ",.773002254655012
+1,""
+1,"Second Consistent Test Block Subtracted from Second Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Even_Sample1_Consistent Target: ",2.69903420818107E-02
+1,"Even_Sample1_Inconsistent Target: ",-.907771168949307
+1,"Even_Sample2_Inconsistent Target: ",-.754892171824762
+1,"Even_Sample2_Consistent Target: ",-.979742844177639
+1,""
+1,"Third Consistent Test Block Subtracted from Third Inconsistent Test Block:"
+1,"and then divided by associated pooled standard deviation:"
+1,"Even_Sample1_Consistent Target: ",-.592399297773264
+1,"Even_Sample1_Inconsistent Target: ",.823205864471922
+1,"Even_Sample2_Inconsistent Target: ",-7.97073331810381
+1,"Even_Sample2_Consistent Target: ",.688695942837025
+1,""
+1,""
+1,""
+1,"Overall Odd and Even D-IRAP Scores For Each Trial-Type:"
+1,"The D-IRAP scores for odd trials for each trial-type are summed and"
+1,"divided by number of scores and the same is applied to the even trials:"
+1,""
+1,"Available D_IRAP scores = ",3
+1,"Odd_Sample1_Consistent Target: ",.110579522769068
+1,"Available D_IRAP scores = ",3
+1,"Odd_Sample1_Inconsistent Target: ",-.922256846831451
+1,"Available D_IRAP scores = ",3
+1,"Odd_Sample2_Inconsistent Target: ",.324615361259025
+1,"Available D_IRAP scores = ",3
+1,"Odd_Sample2_Consistent Target: ",8.06483646288739E-02
+1,""
+1,""
+1,"Available D_IRAP scores = ",3
+1,"Even_Sample1_Consistent Target: ",.100448874240603
+1,"Available D_IRAP scores = ",3
+1,"Even_Sample1_Inconsistent Target: ",.391790700677103
+1,"Available D_IRAP scores = ",3
+1,"Even_Sample2_Inconsistent Target: ",-2.88473243345716
+1,"Available D_IRAP scores = ",3
+1,"Even_Sample2_Consistent Target: ",.160651784438133
+1,""
+1,""
+1,""
+1,"Overall Odd/Even D-IRAP Scores For Each Pair of Con and Incon Test Blocks:"
+1,"The D-IRAP scores from each block are summed and divided by number of scores"
+1,""
+1,"Available D_IRAP scores = ",4
+1,"Odd Trials First Con and Incon Test Block Pair: ",-.2339223588403
+1,"Available D_IRAP scores = ",4
+1,"Odd Trials Second Con and Incon Test Block Pair: ",.416586356577111
+1,"Available D_IRAP scores = ",4
+1,"Odd Trials Third Con and Incon Test Block Pair: ",-.487474196367674
+1,""
+1,""
+1,"Available D_IRAP scores = ",4
+1,"Even Trials First Con and Incon Test Block Pair: ",.742780857283518
+1,"Available D_IRAP scores = ",4
+1,"Even Trials Second Con and Incon Test Block Pair: ",-.653853960717474
+1,"Available D_IRAP scores = ",4
+1,"Even Trials Third Con and Incon Test Block Pair: ",-1.76280770214203
+1,""
+1,""
+1,""
+1,"Final Overall D-IRAP Scores:"
+1,"The odd/even D-IRAP scores for each trial-type per testing block are"
+1,"summed and divided by the number of scores"
+1,"Available D_IRAP scores = ",12
+1,"Overall Odd Trials D_IRAP Score: ",-.101603399543621
+1,""
+1,"Available D_IRAP scores = ",12
+1,"Overall Even Trials D_IRAP Score: ",-.557960268525329
+1,""
+1,""
+1,"********************************************************************"
+1,"********************************************************************"
+1,""
+1,""
+1,"The following data involves calculating the D scores using Greenwald's"
+1,"            inclusive (non-pooled) standard deviations. "
+1,""
+1,""
+1,"********************************************************************"
+1,"********************************************************************"
+1,""
+1,""
+1,""
+1,""
+1,""
+1,"Array of Raw Mean Latencies for each pair of test blocks"
+1,"Array for Con Test 1 and Incon Test 1: Sample 1 Con Target"
+1,1123
+1,2730
+1,2481
+1,1264
+1,983
+1,1357
+1,2387
+1,4306
+1,1778
+1,1077
+1,999
+1,2184
+1,"Array for Con Test 1 and Incon Test 1: Sample 1 Incon Target"
+1,3478
+1,5741
+1,3011
+1,1997
+1,1965
+1,1888
+1,4243
+1,1779
+1,4820
+1,1841
+1,7847
+1,2152
+1,"Array for Con Test 1 and Incon Test 1: Sample 2 Incon Target"
+1,1139
+1,3853
+1,1451
+1,3136
+1,1389
+1,1123
+1,1638
+1,2247
+1,4960
+1,1497
+1,1935
+1,3135
+1,"Array for Con Test 1 and Incon Test 1: Sample 2 Con Target"
+1,1514
+1,1373
+1,1498
+1,3073
+1,2215
+1,4337
+1,1498
+1,3105
+1,2278
+1,1467
+1,1124
+1,6849
+1,"Array for Con Test 2 and Incon Test 2: Sample 1 Con Target"
+1,3136
+1,1545
+1,1716
+1,1529
+1,1326
+1,1575
+1,1467
+1,2621
+1,1856
+1,2230
+1,1373
+1,1326
+1,"Array for Con Test 2 and Incon Test 2: Sample 1 Incon Target"
+1,4852
+1,4368
+1,2699
+1,1591
+1,1232
+1,3151
+1,2512
+1,2153
+1,2761
+1,1794
+1,4461
+1,1701
+1,"Array for Con Test 2 and Incon Test 2: Sample 2 Incon Target"
+1,1670
+1,2496
+1,1778
+1,1653
+1,1061
+1,5289
+1,3962
+1,1638
+1,2683
+1,1544
+1,1778
+1,1155
+1,"Array for Con Test 2 and Incon Test 2: Sample 2 Con Target"
+1,3947
+1,2309
+1,1217
+1,3478
+1,3463
+1,780
+1,1545
+1,4352
+1,3339
+1,1888
+1,1342
+1,1123
+1,"Array for Con Test 3 and Incon Test 3: Sample 1 Con Target"
+1,1482
+1,2153
+1,1233
+1,4040
+1,999
+1,3510
+1,998
+1,1404
+1,2621
+1,1950
+1,1872
+1,3853
+1,"Array for Con Test 3 and Incon Test 3: Sample 1 Incon Target"
+1,2059
+1,2356
+1,2246
+1,1280
+1,1872
+1,2684
+1,1778
+1,2543
+1,1560
+1,3229
+1,2059
+1,1248
+1,"Array for Con Test 3 and Incon Test 3: Sample 2 Incon Target"
+1,1170
+1,1482
+1,3322
+1,2371
+1,2402
+1,2309
+1,1497
+1,1498
+1,1326
+1,1622
+1,1498
+1,1326
+1,"Array for Con Test 3 and Incon Test 3: Sample 2 Con Target"
+1,2137
+1,1294
+1,1528
+1,1295
+1,2153
+1,1529
+1,1575
+1,1919
+1,5382
+1,1762
+1,2293
+1,1061
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample1_Con: "
+1,"Sum: ",22669
+1,"Mean: ",1889.08333333333
+1,"Variance: ",979969.901515152
+1,"Standard Deviation: ",989.934291513912
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",40762
+1,"Mean: ",3396.83333333333
+1,"Variance: ",3733620.6969697
+1,"Standard Deviation: ",1932.25792713336
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",27503
+1,"Mean: ",2291.91666666667
+1,"Variance: ",1489618.62878788
+1,"Standard Deviation: ",1220.49933584082
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample2_Con: "
+1,"Sum: ",30331
+1,"Mean: ",2527.58333333333
+1,"Variance: ",2755900.08333333
+1,"Standard Deviation: ",1660.09038408556
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample1_Con: "
+1,"Sum: ",21700
+1,"Mean: ",1808.33333333333
+1,"Variance: ",325896.060606061
+1,"Standard Deviation: ",570.873068734251
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",33275
+1,"Mean: ",2772.91666666667
+1,"Variance: ",1472369.53787879
+1,"Standard Deviation: ",1213.41235277987
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",26707
+1,"Mean: ",2225.58333333333
+1,"Variance: ",1548310.81060606
+1,"Standard Deviation: ",1244.3113800838
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample2_Con: "
+1,"Sum: ",28783
+1,"Mean: ",2398.58333333333
+1,"Variance: ",1559335.90151515
+1,"Standard Deviation: ",1248.73371921925
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample1_Con: "
+1,"Sum: ",26115
+1,"Mean: ",2176.25
+1,"Variance: ",1195300.75
+1,"Standard Deviation: ",1093.29810664795
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",24914
+1,"Mean: ",2076.16666666667
+1,"Variance: ",340083.242424242
+1,"Standard Deviation: ",583.166564905982
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",21823
+1,"Mean: ",1818.58333333333
+1,"Variance: ",410285.71969697
+1,"Standard Deviation: ",640.535494486426
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample2_Con: "
+1,"Sum: ",23928
+1,"Mean: ",1994
+1,"Variance: ",1284650.54545455
+1,"Standard Deviation: ",1133.42425660233
+1,""
+1,""
+1,""
+1,"Difference Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"First Consistent Test Block Subtracted from First Inconsistent Test Block"
+1,"Sample1_Consistent Target: ",465.5
+1,"Sample1_Inconsistent Target: ",767
+1,"Sample2_Inconsistent Target: ",553.5
+1,"Sample2_Consistent Target: ",385.166666666667
+1,""
+1,"Second Consistent Test Block Subtracted from Second Inconsistent Test Block"
+1,"Sample1_Consistent Target: ",7.66666666666674
+1,"Sample1_Inconsistent Target: ",-418.5
+1,"Sample2_Inconsistent Target: ",-197.833333333333
+1,"Sample2_Consistent Target: ",-267.5
+1,""
+1,"Third Consistent Test Block Subtracted from Third Inconsistent Test Block"
+1,"Sample1_Consistent Target: ",-119.833333333333
+1,"Sample1_Inconsistent Target: ",-13.3333333333335
+1,"Sample2_Inconsistent Target: ",-714.833333333333
+1,"Sample2_Consistent Target: ",676
+1,""
+1,""
+1,""
+1,"D-IRAP Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"First Consistent Test Block Subtracted from First Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",.470233230619891
+1,"Sample1_Inconsistent Target: ",.396944936402926
+1,"Sample2_Inconsistent Target: ",.453502909625663
+1,"Sample2_Consistent Target: ",.232015479614281
+1,""
+1,"Second Consistent Test Block Subtracted from Second Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",1.34297220985838E-02
+1,"Sample1_Inconsistent Target: ",-.344895120806406
+1,"Sample2_Inconsistent Target: ",-.158990214587614
+1,"Sample2_Consistent Target: ",-.214217007103203
+1,""
+1,"Third Consistent Test Block Subtracted from Third Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",-.109607190028657
+1,"Sample1_Inconsistent Target: ",-2.28636793254481E-02
+1,"Sample2_Inconsistent Target: ",-1.11599332041151
+1,"Sample2_Consistent Target: ",.596422739377793
+1,""
+1,""
+1,""
+1,"$Overall D-IRAP Scores For Each Trial-Type:"
+1,"The 3 D-IRAP scores for each trial-type are summed and divided by 3"
+1,""
+1,"Sample1_Consistent Target: ",.124685254229939
+1,"Sample1_Inconsistent Target: ",9.72871209035724E-03
+1,"Sample2_Inconsistent Target: ",-.273826875124486
+1,"Sample2_Consistent Target: ",.204740403962957
+1,""
+1,""
+1,""
+1,"Overall D-IRAP Scores For Each Pair of Con and Incon Test Blocks:"
+1,"The 4 D-IRAP scores from each block are summed and divided by 4"
+1,""
+1,"First Con and Incon Test Block Pair: ",.38817413906569
+1,"Second Con and Incon Test Block Pair: ",-.17616815509966
+1,"Third Con and Incon Test Block Pair: ",-.163010362596955
+1,""
+1,""
+1,""
+1,"Final Overall D-IRAP Score:"
+1,"The 12 D-IRAP scores for each trial-type per testing block are summed and divided by 12: ",1.63318737896918E-02
+1,""
+1,""
+1,"********************************************************************"
+1,"********************************************************************"
+1,""
+1,""
+1,"The following data involves calculating the D scores for odd and"
+1,"then for even trials using Greenwald's inclusive (non-pooled)"
+1,"standard deviations."
+1,""
+1,""
+1,"********************************************************************"
+1,"********************************************************************"
+1,""
+1,""
+1,"Array of Raw Odd-Trial Latencies for each pair of test blocks"
+1,"Array for Odd Con Test 1 and Incon Test 1: Sample 1 Con Target"
+1,2481
+1,1123
+1,983
+1,2387
+1,1077
+1,999
+1,"Array for Odd Con Test 1 and Incon Test 1: Sample 1 Incon Target"
+1,3011
+1,3478
+1,5741
+1,1779
+1,4820
+1,2152
+1,"Array for Odd Con Test 1 and Incon Test 1: Sample 2 Incon Target"
+1,1451
+1,3853
+1,1139
+1,4960
+1,3135
+1,1497
+1,"Array for Odd Con Test 1 and Incon Test 1: Sample 2 Con Target"
+1,1373
+1,4337
+1,2215
+1,1498
+1,1467
+1,2278
+1,"Array for Odd Con Test 2 and Incon Test 2: Sample 1 Con Target"
+1,1716
+1,1529
+1,1326
+1,1856
+1,1373
+1,1326
+1,"Array for Odd Con Test 2 and Incon Test 2: Sample 1 Incon Target"
+1,4368
+1,2699
+1,1232
+1,2153
+1,2512
+1,4461
+1,"Array for Odd Con Test 2 and Incon Test 2: Sample 2 Incon Target"
+1,2496
+1,1778
+1,1653
+1,3962
+1,1778
+1,2683
+1,"Array for Odd Con Test 2 and Incon Test 2: Sample 2 Con Target"
+1,2309
+1,3478
+1,1217
+1,4352
+1,3339
+1,1342
+1,"Array for Odd Con Test 3 and Incon Test 3: Sample 1 Con Target"
+1,1482
+1,1233
+1,2153
+1,998
+1,1404
+1,3853
+1,"Array for Odd Con Test 3 and Incon Test 3: Sample 1 Incon Target"
+1,2059
+1,2356
+1,1872
+1,1560
+1,1778
+1,1248
+1,"Array for Odd Con Test 3 and Incon Test 3: Sample 2 Incon Target"
+1,3322
+1,1482
+1,1170
+1,1498
+1,1498
+1,1326
+1,"Array for Odd Con Test 3 and Incon Test 3: Sample 2 Con Target"
+1,1528
+1,2153
+1,1295
+1,1575
+1,2293
+1,1762
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample1_Con: "
+1,"Sum: ",9050
+1,"Mean: ",1508.33333333333
+1,"Variance: ",517612.266666667
+1,"Standard Deviation: ",719.452754992756
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",20981
+1,"Mean: ",3496.83333333333
+1,"Variance: ",2356594.16666667
+1,"Standard Deviation: ",1535.12024501883
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",16035
+1,"Mean: ",2672.5
+1,"Variance: ",2413125.5
+1,"Standard Deviation: ",1553.42379922544
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample2_Con: "
+1,"Sum: ",13168
+1,"Mean: ",2194.66666666667
+1,"Variance: ",1257385.86666667
+1,"Standard Deviation: ",1121.33218390746
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample1_Con: "
+1,"Sum: ",9126
+1,"Mean: ",1521
+1,"Variance: ",49653.6
+1,"Standard Deviation: ",222.830877573105
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",17425
+1,"Mean: ",2904.16666666667
+1,"Variance: ",1624563.76666667
+1,"Standard Deviation: ",1274.58376212263
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",14350
+1,"Mean: ",2391.66666666667
+1,"Variance: ",772101.866666667
+1,"Standard Deviation: ",878.693272232505
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample2_Con: "
+1,"Sum: ",16037
+1,"Mean: ",2672.83333333333
+1,"Variance: ",1586922.96666667
+1,"Standard Deviation: ",1259.73130732973
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample1_Con: "
+1,"Sum: ",11123
+1,"Mean: ",1853.83333333333
+1,"Variance: ",1108932.56666667
+1,"Standard Deviation: ",1053.05867199633
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",10873
+1,"Mean: ",1812.16666666667
+1,"Variance: ",148660.166666667
+1,"Standard Deviation: ",385.564737322627
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",10296
+1,"Mean: ",1716
+1,"Variance: ",635851.2
+1,"Standard Deviation: ",797.402784043296
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample2_Con: "
+1,"Sum: ",10606
+1,"Mean: ",1767.66666666667
+1,"Variance: ",148492.666666667
+1,"Standard Deviation: ",385.347462255387
+1,""
+1,""
+1,""
+1,"Difference Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"Odd First Con Test Block Subtracted from First Incon Test Block"
+1,"Odd_Sample1_Consistent Target: ",-41.3333333333333
+1,"Odd_Sample1_Inconsistent Target: ",-1159.66666666667
+1,"Odd_Sample2_Inconsistent Target: ",1049.66666666667
+1,"Odd_Sample2_Consistent Target: ",-894
+1,""
+1,"Second Con Test Block Subtracted from Second Incon Test Block"
+1,"Odd_Sample1_Consistent Target: ",-5.33333333333348
+1,"Odd_Sample1_Inconsistent Target: ",275.666666666667
+1,"Odd_Sample2_Inconsistent Target: ",832
+1,"Odd_Sample2_Consistent Target: ",676.333333333333
+1,""
+1,"Third Con Test Block Subtracted from Third Incon Test Block"
+1,"Odd_Sample1_Consistent Target: ",462.333333333333
+1,"Odd_Sample1_Inconsistent Target: ",-567
+1,"Odd_Sample2_Inconsistent Target: ",-550.666666666667
+1,"Odd_Sample2_Consistent Target: ",218
+1,""
+1,""
+1,""
+1,""
+1,""
+1,"Odd Trial D-IRAP Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"First Consistent Test Block Subtracted from First Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",-5.74510738147767E-02
+1,"Sample1_Inconsistent Target: ",-.75542399393765
+1,"Sample2_Inconsistent Target: ",.675711719615759
+1,"Sample2_Consistent Target: ",-.797265977762912
+1,""
+1,"Second Consistent Test Block Subtracted from Second Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",-2.39344447745298E-02
+1,"Sample1_Inconsistent Target: ",.216279757249995
+1,"Sample2_Inconsistent Target: ",.94686055565912
+1,"Sample2_Consistent Target: ",.536886976927618
+1,""
+1,"Third Consistent Test Block Subtracted from Third Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",.439038531876737
+1,"Sample1_Inconsistent Target: ",-1.47057016660098
+1,"Sample2_Inconsistent Target: ",-.690575299818325
+1,"Sample2_Consistent Target: ",.565723201403937
+1,""
+1,""
+1,""
+1,"$Odd trial Overall D-IRAP Scores For Each Trial-Type:"
+1,"The 3 D-IRAP scores for each trial-type are summed and divided by 3"
+1,""
+1,"Sample1_Consistent Target: ",.11921767109581
+1,"Sample1_Inconsistent Target: ",-.669904801096212
+1,"Sample2_Inconsistent Target: ",.310665658485518
+1,"Sample2_Consistent Target: ",.101781400189547
+1,""
+1,""
+1,""
+1,"Overall D-IRAP Scores For Each Pair of Con and Incon Test Blocks:"
+1,"The 4 D-IRAP scores from each block are summed and divided by 4"
+1,""
+1,"First Con and Incon Test Block Pair: ",-.233607331474895
+1,"Second Con and Incon Test Block Pair: ",.419023211265551
+1,"Third Con and Incon Test Block Pair: ",-.289095933284658
+1,""
+1,""
+1,"ODD TRIALS"
+1,"Final Overall D-IRAP Score:"
+1,"The 12 D-IRAP scores for each trial-type per testing block are summed and divided by 12: ",-3.45600178313342E-02
+1,""
+1,""
+1,"********************************************************************"
+1,"********************************************************************"
+1,""
+1,""
+1,"The following data involves calculating the D scores for even trials"
+1,"using Greenwald's inclusive (non-pooled) standard deviations."
+1,""
+1,""
+1,"********************************************************************"
+1,"********************************************************************"
+1,""
+1,""
+1,"Array of Raw Even-Trial Latencies for each pair of test blocks"
+1,"Array for Even Con Test 1 and Incon Test 1: Sample 1 Con Target"
+1,2730
+1,1357
+1,1264
+1,1778
+1,4306
+1,2184
+1,"Array for Even Con Test 1 and Incon Test 1: Sample 1 Incon Target"
+1,1965
+1,1888
+1,1997
+1,4243
+1,7847
+1,1841
+1,"Array for Even Con Test 1 and Incon Test 1: Sample 2 Incon Target"
+1,1123
+1,1389
+1,3136
+1,1638
+1,2247
+1,1935
+1,"Array for Even Con Test 1 and Incon Test 1: Sample 2 Con Target"
+1,1498
+1,1514
+1,3073
+1,3105
+1,1124
+1,6849
+1,"Array for Even Con Test 2 and Incon Test 2: Sample 1 Con Target"
+1,3136
+1,1545
+1,1575
+1,2621
+1,1467
+1,2230
+1,"Array for Even Con Test 2 and Incon Test 2: Sample 1 Incon Target"
+1,4852
+1,3151
+1,1591
+1,2761
+1,1794
+1,1701
+1,"Array for Even Con Test 2 and Incon Test 2: Sample 2 Incon Target"
+1,1670
+1,1061
+1,5289
+1,1638
+1,1544
+1,1155
+1,"Array for Even Con Test 2 and Incon Test 2: Sample 2 Con Target"
+1,3947
+1,780
+1,3463
+1,1545
+1,1123
+1,1888
+1,"Array for Even Con Test 3 and Incon Test 3: Sample 1 Con Target"
+1,4040
+1,999
+1,3510
+1,2621
+1,1950
+1,1872
+1,"Array for Even Con Test 3 and Incon Test 3: Sample 1 Incon Target"
+1,2246
+1,1280
+1,2684
+1,2059
+1,3229
+1,2543
+1,"Array for Even Con Test 3 and Incon Test 3: Sample 2 Incon Target"
+1,2309
+1,2402
+1,2371
+1,1622
+1,1497
+1,1326
+1,"Array for Even Con Test 3 and Incon Test 3: Sample 2 Con Target"
+1,1294
+1,2137
+1,1529
+1,1919
+1,1061
+1,5382
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample1_Con: "
+1,"Sum: ",13619
+1,"Mean: ",2269.83333333333
+1,"Variance: ",1290392.16666667
+1,"Standard Deviation: ",1135.9542977896
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",19781
+1,"Mean: ",3296.83333333333
+1,"Variance: ",5833371.36666667
+1,"Standard Deviation: ",2415.23733133344
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",11468
+1,"Mean: ",1911.33333333333
+1,"Variance: ",516410.666666667
+1,"Standard Deviation: ",718.617190628409
+1,""
+1,""
+1,""
+1,"First_Test_Blocks_Sample2_Con: "
+1,"Sum: ",17163
+1,"Mean: ",2860.5
+1,"Variance: ",4539593.9
+1,"Standard Deviation: ",2130.63227704829
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample1_Con: "
+1,"Sum: ",12574
+1,"Mean: ",2095.66666666667
+1,"Variance: ",469172.666666667
+1,"Standard Deviation: ",684.961799421447
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",15850
+1,"Mean: ",2641.66666666667
+1,"Variance: ",1573305.46666667
+1,"Standard Deviation: ",1254.31473987459
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",12357
+1,"Mean: ",2059.5
+1,"Variance: ",2567981.1
+1,"Standard Deviation: ",1602.4921528669
+1,""
+1,""
+1,""
+1,"Second_Test_Blocks_Sample2_Con: "
+1,"Sum: ",12746
+1,"Mean: ",2124.33333333333
+1,"Variance: ",1663104.66666667
+1,"Standard Deviation: ",1289.61415418204
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample1_Con: "
+1,"Sum: ",14992
+1,"Mean: ",2498.66666666667
+1,"Variance: ",1271243.06666667
+1,"Standard Deviation: ",1127.49415371729
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample1_Incon: "
+1,"Sum: ",14041
+1,"Mean: ",2340.16666666667
+1,"Variance: ",432252.566666667
+1,"Standard Deviation: ",657.459174904926
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample2_Incon: "
+1,"Sum: ",11527
+1,"Mean: ",1921.16666666667
+1,"Variance: ",241521.366666667
+1,"Standard Deviation: ",491.448233964338
+1,""
+1,""
+1,""
+1,"Third_Test_Blocks_Sample2_Con: "
+1,"Sum: ",13322
+1,"Mean: ",2220.33333333333
+1,"Variance: ",2554794.26666667
+1,"Standard Deviation: ",1598.37238047542
+1,""
+1,""
+1,""
+1,"Difference Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"First Con Test Block Subtracted from First Incon Test Block"
+1,"Even_Sample1_Consistent Target: ",972.333333333333
+1,"Even_Sample1_Inconsistent Target: ",2693.66666666667
+1,"Even_Sample2_Inconsistent Target: ",57.3333333333333
+1,"Even_Sample2_Consistent Target: ",1664.33333333333
+1,""
+1,"Second Con Test Block Subtracted from Second Incon Test Block"
+1,"Even_Sample1_Consistent Target: ",20.6666666666665
+1,"Even_Sample1_Inconsistent Target: ",-1112.66666666667
+1,"Even_Sample2_Inconsistent Target: ",-1227.66666666667
+1,"Even_Sample2_Consistent Target: ",-1211.33333333333
+1,""
+1,"Third Con Test Block Subtracted from Third Incon Test Block"
+1,"Even_Sample1_Consistent Target: ",-702
+1,"Even_Sample1_Inconsistent Target: ",540.333333333333
+1,"Even_Sample2_Inconsistent Target: ",-879
+1,"Even_Sample2_Consistent Target: ",1134
+1,""
+1,""
+1,""
+1,""
+1,""
+1,"Even Trial D-IRAP Scores For Each Trial-Type Per Testing Block:"
+1,""
+1,"First Consistent Test Block Subtracted from First Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",.855961666085818
+1,"Sample1_Inconsistent Target: ",1.11528032120119
+1,"Sample2_Inconsistent Target: ",7.97828580794136E-02
+1,"Sample2_Consistent Target: ",.781145273758381
+1,""
+1,"Second Consistent Test Block Subtracted from Second Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",3.01719989116512E-02
+1,"Sample1_Inconsistent Target: ",-.887071347641113
+1,"Sample2_Inconsistent Target: ",-.766098395221679
+1,"Sample2_Consistent Target: ",-.939299037161731
+1,""
+1,"Third Consistent Test Block Subtracted from Third Inconsistent Test Block:"
+1,"and then divided by associated standard deviation:"
+1,"Sample1_Consistent Target: ",-.622619636372874
+1,"Sample1_Inconsistent Target: ",.821850776379339
+1,"Sample2_Inconsistent Target: ",-1.78859122742068
+1,"Sample2_Consistent Target: ",.709471718763497
+1,""
+1,""
+1,""
+1,"$Even trial Overall D-IRAP Scores For Each Trial-Type:"
+1,"The 3 D-IRAP scores for each trial-type are summed and divided by 3"
+1,""
+1,"Sample1_Consistent Target: ",8.78380095415319E-02
+1,"Sample1_Inconsistent Target: ",.350019916646473
+1,"Sample2_Inconsistent Target: ",-.824968921520981
+1,"Sample2_Consistent Target: ",.183772651786716
+1,""
+1,""
+1,""
+1,"Overall D-IRAP Scores For Each Pair of Con and Incon Test Blocks:"
+1,"The 4 D-IRAP scores from each block are summed and divided by 4"
+1,""
+1,"First Con and Incon Test Block Pair: ",.708042529781201
+1,"Second Con and Incon Test Block Pair: ",-.640574195278218
+1,"Third Con and Incon Test Block Pair: ",-.219972092162679
+1,""
+1,""
+1,"EVEN TRIALS"
+1,"Final Overall D-IRAP Score:"
+1,"The 12 D-IRAP scores for each trial-type per testing block are summed and divided by 12: ",-5.08345858865651E-02

@@ -1,0 +1,24 @@
+1,"Participant 123","Inconsistant","Target 1 Raw Latency",1638,1700,1497,1280,1544,1419,2028,1528,1045,1404,1263,1388,1045,2293,1186,1139,1030,1201,858,1623,1420,1342,1139,1217,842,1108,1903,920,1045,2964,1435,1591
+1,"Participant 123","Inconsistant","Target 2 Raw Latency",1778,1139,1482,2137,1607,2215,2091,1685,1201,1825,1388,1170,1186,1482,1202,1420,967,1716,1108,1419,1670,1217,1981,1388,843,983,2090,905,2060,1685,1014,1108
+1,"Participant 123","Inconsistant","Target 3 Raw Latency",889,1077,982,1435,1763,2652,2855,2059,920,1201,1420,983,1201,1436,1029,1435,983,982,1623,967,2792,3432,1123,1295,858,795,998,1154,1311,1981,1014,1311
+1,"Participant 123","Inconsistant","Target 4 Raw Latency",1029,1919,1840,1732,1638,2137,2075,2574,1248,4992,858,1107,1436,1560,1233,1623,890,936,1669,998,1092,1809,1810,1108,1061,1529,1326,1108,998,1529,1154,1887
+1,"Participant 123","Inconsistant","Target 5 Raw Latency",998,2372,3089,1123,1747,1544,2121,1185,1684,1217,1732,3308,1950,1701,2246,2418,904,2277,1420,1762,1030,1186,1482,1435,889,1700,1716,1732,1138,1030,1263,2340
+1,"Participant 123","Inconsistant","Target 6 Raw Latency",1061,1450,983,1014,1248,1638,1201,2402,1092,1170,1201,1092,3776,1279,2075,2371,1014,967,2231,967,1420,2294,1872,1497,1076,1045,1201,1981,1560,1201,1076,1529
+1,"Participant 123","Inconsistant","Target 7 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 123","Inconsistant","Target 8 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 123","Inconsistant","Target 9 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 123","Inconsistant","Target 10 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 123","Inconsistant","Target 11 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 123","Inconsistant","Target 12 Raw Latency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Participant 123","Inconsistant","Target 1 Accuracy","Correct","Correct","Correct",,,"Correct","Correct","Correct","Correct","Correct","Correct",,"Correct",,"Correct","Correct",,"Correct",,"Correct",,"Correct",,"Correct","Correct","Correct","Correct",,,"Correct","Correct","Correct"
+1,"Participant 123","Inconsistant","Target 2 Accuracy","Correct",,"Wrong","Correct","Correct",,"Correct","Correct","Correct","Correct",,,"Correct",,"Correct","Correct","Correct",,"Correct","Correct","Correct","Wrong","Correct","Correct","Correct",,"Correct","Correct","Correct",,"Correct","Correct"
+1,"Participant 123","Inconsistant","Target 3 Accuracy",,"Correct",,"Correct","Correct",,"Correct","Correct","Correct",,"Correct","Correct",,"Correct","Correct","Correct","Correct","Correct","Correct",,"Correct",,"Correct","Correct",,"Correct",,"Correct","Correct",,"Correct","Correct"
+1,"Participant 123","Inconsistant","Target 4 Accuracy","Correct","Correct","Correct","Wrong","Correct","Correct","Correct","Correct","Correct","Correct",,"Correct","Correct","Correct",,"Correct","Correct",,"Correct","Correct","Correct",,"Correct","Correct","Correct","Correct","Correct","Wrong","Correct","Correct","Correct","Correct"
+1,"Participant 123","Inconsistant","Target 5 Accuracy","Correct","Correct","Correct","Correct",,"Correct","Correct","Correct","Correct",,"Correct","Correct","Correct","Correct","Correct",,"Correct",,"Correct","Correct","Correct","Correct","Correct",,"Correct","Correct","Correct","Correct",,"Correct","Correct","Correct"
+1,"Participant 123","Inconsistant","Target 6 Accuracy","Correct",,"Correct","Correct","Correct","Correct","Correct",,,"Wrong","Correct","Correct","Correct","Correct",,"Correct","Correct","Correct","Correct",,"Correct","Correct","Correct","Correct","Correct",,"Correct","Correct","Correct","Correct","Correct",
+1,"Participant 123","Inconsistant","Target 7 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 123","Inconsistant","Target 8 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 123","Inconsistant","Target 9 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 123","Inconsistant","Target 10 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 123","Inconsistant","Target 11 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Participant 123","Inconsistant","Target 12 Accuracy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
