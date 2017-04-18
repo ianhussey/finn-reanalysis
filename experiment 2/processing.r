@@ -102,5 +102,5 @@ d_scores_data <-
 all_data <- dplyr::inner_join(conditions_data, d_scores_data, by = "participant")
 
 
-all_data %>% write.csv("processed data.csv", row.names = FALSE)
+all_data %>% write.csv("data/processed/processed data.csv", row.names = FALSE)
 

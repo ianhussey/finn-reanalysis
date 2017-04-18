@@ -1,0 +1,126 @@
+---
+title: analysis data
+author: Ian Hussey (ian.hussey@ugent.be)
+---
+
+```{r get data, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(car)
+library(MuMIn)  # for AICc (AIC corrected for small samples)
+library(ez)
+library(schoRsch)
+
+data <- 
+  read.csv(file = "data/processed/processed data.csv") %>%
+  filter(whole_task_excluded == 0) %>%  # removed participants who were excluded
+  rename(tt1 = D_tt1_screened, 
+         tt2 = D_tt2_screened, 
+         tt3 = D_tt3_screened,
+         tt4 = D_tt4_screened) %>%
+  gather(trial_type, D_score, c(tt1, tt2, tt3, tt4)) %>%
+  mutate(participant = as.factor(participant), 
+         trial_type = as.factor(trial_type))
+```
+
+
+```{r model selection}
+# working but model not specificied correctly
+
+fit_null <- aov(D_score ~ 1,
+                data = data)
+
+fit_full <- aov(D_score ~ rule*trial_type*block_order,
+                contrasts = list(trial_type = "contr.sum", 
+                                 rule = "contr.sum", 
+                                 block_order = "contr.sum"),
+                data = data)
+
+step(fit_null, 
+     scope = list(lower = fit_null, upper = fit_full), 
+     direction = "forward",
+     k = 2)
+```
+
+```{r alt model selection}
+# http://www.cookbook-r.com/Statistical_analysis/ANOVA/
+
+# forward selection
+
+# variable 1
+
+# null model
+fit_0 <- aov(D_score ~ Error(participant/trial_type),
+                data = data)
+# tt
+fit_tt <- aov(D_score ~ trial_type + Error(participant/trial_type),
+                data = data)
+# rule
+fit_rule <- aov(D_score ~ rule + Error(participant/trial_type),
+                data = data)
+# block_order
+fit_bo <- aov(D_score ~ block_order + Error(participant/trial_type),
+                data = data)
+
+AICc(fit_0$`participant:trial_type`,
+     fit_tt$`participant:trial_type`, 
+     fit_rule$`participant:trial_type`, 
+     fit_bo$`participant:trial_type`)
+```
+Trial type selected as first variable.
+
+```{r}
+# tt * rule
+fit_tt_rule <- aov(D_score ~ trial_type*rule + Error(participant/trial_type),
+                data = data)
+# tt * block order
+fit_tt_bo <- aov(D_score ~ trial_type*block_order + Error(participant/trial_type),
+                data = data)
+
+# how to distinguish between these? which should be used?
+AICc(fit_tt$`participant:trial_type`,
+     fit_tt_rule$`participant:trial_type`, 
+     fit_tt_bo$`participant:trial_type`)
+
+AICc(fit_tt$participant,
+     fit_tt_rule$participant, 
+     fit_tt_bo$participant)
+```
+Trial type only model selected.
+
+
+```{r model interpretation}
+summary(fit_tt)
+```
+
+```{r}
+fit_full <- aov(D_score ~ trial_type * block_order * rule + Error(participant/trial_type),
+                contrasts = list(trial_type = "contr.sum", 
+                                 block_order = "contr.sum", 
+                                 rule = "contr.sum"),
+                data = data)
+
+AIC(fit_full$participant)
+AIC(fit_full$`participant:trial_type`)
+
+### doing it backward would probably provide the opposite conclusion, that the full model is best
+summary(fit_full)
+```
+
+```{r alt model interpretation}
+# below is an alt method using ez. it's interactions match above, but its main effects do not, and are not simply due to SS type errors. The below matches JASP, suggesting that the above aov() method does not do something correctly
+
+# the below results do not match statview results afaik. 
+
+fit_selected_2 <- 
+  ez::ezANOVA(data = data,
+              dv = D_score,
+              within = trial_type,
+              between = c(block_order, rule),
+              wid = participant,
+              type = 3,
+              detailed = TRUE) %>%
+  schoRsch::anova_out(print = FALSE)
+
+fit_selected_2$`--- FORMATTED RESULTS ------------------------------------`
+```
+
