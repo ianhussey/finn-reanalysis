@@ -1,14 +1,28 @@
 ---
-title: analysis data
-author: Ian Hussey (ian.hussey@ugent.be)
+title: "Analyse data"
+author: "Ian Hussey (ian.hussey@ugent.be)"
+output:
+  pdf_document:
+    highlight: haddock
+    toc: yes
+    latex_engine: xelatex
 ---
 
-```{r get data, message=FALSE, warning=FALSE}
+```{r get data, message=FALSE, warning=FALSE, echo=FALSE}
 library(tidyverse)
 library(car)
 library(MuMIn)  # for AICc (AIC corrected for small samples)
 library(ez)
 library(schoRsch)
+library(knitr)
+library(broom)
+
+# rounds all numerics in a df
+round_df <- function(df, digits) {
+  nums <- vapply(df, is.numeric, FUN.VALUE = logical(1))
+  df[,nums] <- round(df[,nums], digits = digits)
+  (df)
+}
 
 data <- 
   read.csv(file = "data/processed/processed data.csv") %>%
@@ -22,8 +36,9 @@ data <-
          trial_type = as.factor(trial_type))
 ```
 
+# Model selection 1
 
-```{r model selection}
+```{r model selection, message=FALSE, warning=FALSE, echo=FALSE}
 # working but model not specificied correctly
 
 fit_null <- aov(D_score ~ 1,
@@ -41,7 +56,11 @@ step(fit_null,
      k = 2)
 ```
 
-```{r alt model selection}
+# Model selection 2
+
+## Step 1
+
+```{r alt model selection, message=FALSE, warning=FALSE, echo=FALSE}
 # http://www.cookbook-r.com/Statistical_analysis/ANOVA/
 
 # forward selection
@@ -64,11 +83,15 @@ fit_bo <- aov(D_score ~ block_order + Error(participant/trial_type),
 AICc(fit_0$`participant:trial_type`,
      fit_tt$`participant:trial_type`, 
      fit_rule$`participant:trial_type`, 
-     fit_bo$`participant:trial_type`)
+     fit_bo$`participant:trial_type`) %>%
+  kable()
 ```
+
 Trial type selected as first variable.
 
-```{r}
+## Step 2
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
 # tt * rule
 fit_tt_rule <- aov(D_score ~ trial_type*rule + Error(participant/trial_type),
                 data = data)
@@ -79,34 +102,48 @@ fit_tt_bo <- aov(D_score ~ trial_type*block_order + Error(participant/trial_type
 # how to distinguish between these? which should be used?
 AICc(fit_tt$`participant:trial_type`,
      fit_tt_rule$`participant:trial_type`, 
-     fit_tt_bo$`participant:trial_type`)
+     fit_tt_bo$`participant:trial_type`) %>% 
+  kable()
 
 AICc(fit_tt$participant,
      fit_tt_rule$participant, 
-     fit_tt_bo$participant)
+     fit_tt_bo$participant) %>%
+  kable()
 ```
+
 Trial type only model selected.
 
+# Selected model interpretation
 
-```{r model interpretation}
-summary(fit_tt)
+```{r model interpretation, message=FALSE, warning=FALSE, echo=FALSE}
+tidy(fit_tt$`participant:trial_type`) %>%
+  round_df(3) %>%
+  kable()
 ```
 
-```{r}
+# Full model interpretation
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
 fit_full <- aov(D_score ~ trial_type * block_order * rule + Error(participant/trial_type),
                 contrasts = list(trial_type = "contr.sum", 
                                  block_order = "contr.sum", 
                                  rule = "contr.sum"),
                 data = data)
 
-AIC(fit_full$participant)
-AIC(fit_full$`participant:trial_type`)
+AIC(fit_full$participant,
+    fit_full$`participant:trial_type`) %>%
+  kable()
 
 ### doing it backward would probably provide the opposite conclusion, that the full model is best
-summary(fit_full)
+
+tidy(fit_full) %>%
+  round_df(3) %>%
+  kable()
 ```
 
-```{r alt model interpretation}
+# Full model interpretation 2
+
+```{r alt model interpretation, message=FALSE, warning=FALSE, echo=FALSE}
 # below is an alt method using ez. it's interactions match above, but its main effects do not, and are not simply due to SS type errors. The below matches JASP, suggesting that the above aov() method does not do something correctly
 
 # the below results do not match statview results afaik. 
@@ -121,6 +158,7 @@ fit_selected_2 <-
               detailed = TRUE) %>%
   schoRsch::anova_out(print = FALSE)
 
-fit_selected_2$`--- FORMATTED RESULTS ------------------------------------`
+fit_selected_2$`--- FORMATTED RESULTS ------------------------------------` %>%
+  kable()
 ```
 
